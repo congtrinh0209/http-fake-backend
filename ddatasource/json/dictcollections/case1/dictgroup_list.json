@@ -1,0 +1,40 @@
+{
+  "total": 5,
+  "data": [
+    {
+	"dictGroupId": 1,
+      "groupCode": "ACTIVITY_GROUP",
+      "groupName": "Nhóm hoạt động",
+      "groupNameEN": "Nhóm hoạt động",
+      "groupDescription": "Nhóm hoạt động"
+    },
+    {
+	"dictGroupId": 2,
+      "groupCode": "DOCUMENT_GROUP",
+      "groupName": "Nhóm loại văn bản",
+      "groupNameEN": "Nhóm loại văn bản",
+      "groupDescription": "Nhóm loại văn bản"
+    },
+    {
+	"dictGroupId": 3,
+      "groupCode": "GOVERMENT_AGENCY_GROUP",
+      "groupName": "Nhóm cơ quan ban hành",
+      "groupNameEN": "Nhóm cơ quan ban hành",
+      "groupDescription": "Nhóm cơ quan ban hành"
+    },
+    {
+	"dictGroupId": 4,
+      "groupCode": "ADMINISTRATIVE_UNITS_GROUP",
+      "groupName": "Nhóm đơn vị hành chính",
+      "groupNameEN": "Nhóm đơn vị hành chính",
+      "groupDescription": "Nhóm đơn vị hành chính"
+    },
+    {
+	"dictGroupId": 5,
+      "groupCode": "ANOTHER_GROUP",
+      "groupName": "Nhóm dữ liệu khác",
+      "groupNameEN": "Nhóm dữ liệu khác",
+      "groupDescription": "Nhóm dữ liệu khác"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+    "total": 0,
+    "data": [
+      {
+        "activityId": 101,
+        "activityType": "",
+        "activityCat": "",
+        "categoryName": "",
+        "subject": "Cài đặt hệ thống 1",
+        "hostingId": 0,
+        "hosting": "Công ty TNHH Sun Group",
+        "startDate": "2018-03-07T06:59:29.157Z",
+        "endDate": "2018-03-07T06:59:29.157Z",
+        "state": 1,
+        "managerId": 0,
+        "managerName": "",
+        "stateName":"Mới",
+        "resultNote": "Báo cáo tiến độ bảo trì hệ thống"
+      },
+      {
+        "activityId": 102,
+        "activityType": "",
+        "activityCat": "",
+        "categoryName": "",
+        "subject": "Cài đặt hệ thống 2",
+        "hostingId": 0,
+        "hosting": "Công ty cổ phần Delco",
+        "startDate": "2018-03-07T06:59:29.157Z",
+        "endDate": "2018-03-07T06:59:29.157Z",
+        "state": 8,
+        "managerId": 0,
+        "managerName": "",
+        "stateName":"Đang thực hiện",
+        "resultNote": "Báo cáo tiến độ bảo trì hệ thống"
+      },
+      {
+        "activityId": 103,
+        "activityType": "",
+        "activityCat": "",
+        "categoryName": "",
+        "subject": "Cài đặt hệ thống 3",
+        "hostingId": 0,
+        "hosting": "Công ty cổ phần FDS",
+        "startDate": "2018-03-07T06:59:29.157Z",
+        "endDate": "2018-03-07T06:59:29.157Z",
+        "state": 4,
+        "managerId": 0,
+        "managerName": "",
+        "stateName":"Đã kết thúc",
+        "resultNote": "Báo cáo tiến độ bảo trì hệ thống"
+      }
+    ]
+  }
+  

@@ -1,0 +1,20 @@
+{
+      "participantId": 102,
+      "createDate": "2017-08-16T14:55:06.349Z",
+      "modifiedDate": "2017-08-16T14:55:06.349Z",
+      "fullName": "Nguyễn Hải Bình",
+      "companyName": "Công ty TNHH DELCO",
+      "telNo": "0974234567",
+      "email": "binhnh@gmail.com",
+      "userMappingId": 202,
+      "participantRole": "chủ trì",
+      "assignedBy": null,
+      "assignedNote": "chủ trì",
+      "avaibility": 1,
+      "checkinTime": "2017-08-20T14:55:06.350Z",
+      "closedTime": "2017-08-20T14:55:06.350Z",
+      "participantNote": "Chủ chì công việc",
+      "nosendEmail": false,
+      "isManager": true,
+      "lastAccess": "2017-08-20T14:55:06.350Z"
+}

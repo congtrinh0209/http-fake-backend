@@ -1,0 +1,24 @@
+{
+  "contactId": 1111,
+  "createDate": "2017-07-11T01:53:11.249Z",
+  "modifiedDate": "2017-07-11T01:53:11.249Z",
+  "userId":2017,
+  "userName": "Trần AAA",
+  "contactType": 0,
+  "myContact": true,
+"shared": true,
+  "fullName": "Trần AaAA",
+  "companyName": "Công ty FDS",
+  "telNo": "0949367788",
+  "email": "AAAn@gmail.com",
+  "userMappingId": 0,
+  "groupList": [
+        {
+          "fullName": "Nguyễn Xuân Bắc",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "098123456",
+          "email": "bacnx@fds.vn",
+          "userMappingId": 305
+        }
+      ]
+}

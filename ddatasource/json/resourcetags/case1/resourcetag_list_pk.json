@@ -1,0 +1,13 @@
+{
+    "total": 0,
+    "data": [
+        {
+            "resourceTagId": 101,
+            "tag": "Công việc 01"
+        },
+        {
+            "resourceTagId": 103,
+            "tag": "Công việc 03"
+        }
+    ]
+}

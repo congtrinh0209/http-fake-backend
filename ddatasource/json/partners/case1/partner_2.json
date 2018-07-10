@@ -1,0 +1,19 @@
+{
+  "partnerId": 102,
+  "createDate": "2017-07-12T07:45:06.893Z",
+  "modifiedDate": "2017-07-12T07:45:06.894Z",
+  "name": "Thành",
+  "address": "Số 3 Cầu giấy, TP Hà Nội",
+  "telNo": "09823456",
+  "faxNo": "04-02843456",
+  "email": "thanhbt@gmail.com",
+  "website": "dantri.com.vn",
+  "partnerClass": "DTTN",
+  "partnerClassName": "Đối tác tiềm năng",
+  "mappingUser": 
+  {
+    "userId": 202,
+    "screenName": "Bùi Tiến Thành",
+    "locking": false
+  }
+}

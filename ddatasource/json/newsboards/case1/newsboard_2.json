@@ -1,0 +1,17 @@
+{
+  "newsBoardId": 2,
+  "userId": 0,
+  "userName": "admin",
+  "createDate": "2018-03-05T03:23:51.128Z",
+  "modifiedDate": "2018-03-05T03:23:51.128Z",
+  "newsType": "NB",
+  "newsCat": "TB",
+  "categoryName": "Thông báo",
+  "title": "Thông báo đi du lịch 2018",
+  "content": "đi du lịch hè 2018",
+  "publicationDate": "2018-03-15T03:23:51.129Z",
+  "expireDate": "2018-03-18T03:23:51.129Z",
+  "ontop": false,
+  "permission": "",
+  "visited": false
+}

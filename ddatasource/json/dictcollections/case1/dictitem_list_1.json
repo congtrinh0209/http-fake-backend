@@ -1,0 +1,17 @@
+{
+  "total": 2,
+  "data": [
+    {
+      "itemCode": "TASK",
+      "itemName": "Các công việc nội bộ của các cơ quan, tổ chức",
+      "itemNameEN": "Các công việc nội bộ của các cơ quan, tổ chức",
+      "itemDescription": "Các công việc nội bộ của các cơ quan, tổ chức"
+    },
+    {
+      "itemCode": "EVENT",
+      "itemName": "Các loại sự kiện",
+      "itemNameEN": "Các loại sự kiện",
+      "itemDescription": "Các loại sự kiện"
+    }
+  ]
+}

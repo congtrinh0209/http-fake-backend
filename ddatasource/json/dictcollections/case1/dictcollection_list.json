@@ -1,0 +1,45 @@
+{
+  "total": 5,
+  "data": [
+    {
+	"createDate": "2017-07-19T10:01:18.237Z",
+	"modifiedDate": "2017-07-19T10:01:18.237Z",
+      "collectionCode": "ACTIVITY_TYPE",
+      "collectionName": "Loại hoạt động",
+      "collectionNameEN": "Loại hoạt động",
+      "description": "Loại hoạt động"
+    },
+    {
+	"createDate": "2017-07-19T10:01:18.237Z",
+	"modifiedDate": "2017-07-19T10:01:18.237Z",
+      "collectionCode": "DOCUMENT_TYPE",
+      "collectionName": "Loại văn bản",
+      "collectionNameEN": "Loại văn bản",
+      "description": "Loại văn bản"
+    },
+    {
+	"createDate": "2017-07-19T10:01:18.237Z",
+	"modifiedDate": "2017-07-19T10:01:18.237Z",
+      "collectionCode": "GOVERMENT_AGENCY",
+      "collectionName": "Cơ quan ban hành",
+      "collectionNameEN": "Cơ quan ban hành",
+      "description": "Cơ quan ban hành"
+    },
+    {
+	"createDate": "2017-07-19T10:01:18.237Z",
+	"modifiedDate": "2017-07-19T10:01:18.237Z",
+      "collectionCode": "ADMINISTRATIVE_UNITS",
+      "collectionName": "Đơn vị hành chính",
+      "collectionNameEN": "Đơn vị hành chính",
+      "description": "Đơn vị hành chính"
+    },
+    {
+	"createDate": "2017-07-19T10:01:18.237Z",
+	"modifiedDate": "2017-07-19T10:01:18.237Z",
+      "collectionCode": "ANOTHER_TYPE",
+      "collectionName": "Loại dữ liệu khác",
+      "collectionNameEN": "Loại dữ liệu khác",
+      "description": "Loại dữ liệu khác"
+    }
+  ]
+}

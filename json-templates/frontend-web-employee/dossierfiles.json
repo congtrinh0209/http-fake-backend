@@ -1,0 +1,63 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "dossierFileId": 1,
+      "dossierId": 1,
+      "referenceUid": "0000-444444",
+      "dossierTemplateNo": "lorem",
+      "dossierPartNo": "lorem",
+      "fileTemplateNo": "lorem",
+      "displayName": "lorem",
+      "formData": "lorem",
+      "fileEntryId": 1,
+      "dossierFileNo": "lorem",
+      "dossierFileDate": "2017-07-19T07:20:55.620Z",
+      "original": false,
+      "isNew": false,
+      "signed": false,
+      "signCheck": 0,
+      "signInfo": "lorem",
+      "formScript": "lorem",
+      "formReport": "lorem"
+    }, {
+      "dossierFileId": 2,
+      "dossierId": 1,
+      "referenceUid": "0000-444444",
+      "dossierTemplateNo": "lorem",
+      "dossierPartNo": "lorem",
+      "fileTemplateNo": "lorem",
+      "displayName": "lorem",
+      "formData": "lorem",
+      "fileEntryId": 1,
+      "dossierFileNo": "lorem",
+      "dossierFileDate": "2017-07-19T07:20:55.622Z",
+      "original": false,
+      "isNew": false,
+      "signed": false,
+      "signCheck": 0,
+      "signInfo": "lorem",
+      "formScript": "lorem",
+      "formReport": "lorem"
+    }, {
+      "dossierFileId": 3,
+      "dossierId": 1,
+      "referenceUid": "0000-444444",
+      "dossierTemplateNo": "lorem",
+      "dossierPartNo": "lorem",
+      "fileTemplateNo": "lorem",
+      "displayName": "lorem",
+      "formData": "lorem",
+      "fileEntryId": 1,
+      "dossierFileNo": "lorem",
+      "dossierFileDate": "2017-07-19T07:20:55.624Z",
+      "original": false,
+      "isNew": false,
+      "signed": false,
+      "signCheck": 0,
+      "signInfo": "lorem",
+      "formScript": "lorem",
+      "formReport": "lorem"
+    }
+  ]
+}

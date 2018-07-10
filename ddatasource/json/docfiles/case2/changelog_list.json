@@ -1,0 +1,35 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "changeLogId": 201,
+      "createDate": "20-07-2017:15:56.30",
+      "author": "Tạ Hữu Bình",
+      "content": "Chỉnh sữa văn bản"
+    },
+    {
+      "changeLogId": 202,
+      "createDate": "24-07-2017:10:56.3",
+      "author": "Lê Phú Cường",
+      "content": "Duyệt văn bản"
+    },
+    {
+      "changeLogId": 203,
+      "createDate": "26-07-2017:8:20.43",
+      "author": "Nguyễn Hồng Sơn",
+      "content": "Đính kèm văn bản"
+    },
+    {
+      "changeLogId": 204,
+      "createDate": "28-07-2017:9:21.23",
+      "author": "Trần Kim Dũng",
+      "content": "Phê duyệt văn bản"
+    },
+    {
+      "changeLogId": 205,
+      "createDate": "30-07-2017:15:21.20",
+      "author": "Tạ Tuấn Anh",
+      "content": "Xóa văn bản"
+    }
+  ]
+}

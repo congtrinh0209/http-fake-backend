@@ -1,0 +1,37 @@
+{
+    "total": 7,
+    "data": [
+        {
+            "roleId": 1,
+            "roleName": "Nhân sự1601",
+            "selected": true,
+            "readonly": false,
+            "right": 0, 
+            "type": "workingunit"
+        },
+        {
+            "roleId": 57704,
+            "roleName": "Công nhân kỹ thuật1701",
+            "selected": false,
+            "readonly": false,
+            "right": 0, 
+            "type": "workingunit"
+        },
+        {
+            "roleId": 57724,
+            "roleName": "Giám đốc1702",
+            "selected": false,
+            "readonly": false,
+            "right": 0, 
+            "type": "jobpos"
+        },
+        {
+            "roleId": 2,
+            "roleName": "Phó Giám đốc1703",
+            "selected": false,
+            "readonly": false,
+            "right": 0, 
+            "type": "jobpos"
+        }
+    ]
+}

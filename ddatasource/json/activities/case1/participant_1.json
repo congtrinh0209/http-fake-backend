@@ -1,0 +1,20 @@
+{
+      "participantId": 101,
+      "createDate": "2017-08-12T14:55:06.349Z",
+      "modifiedDate": "2017-08-12T14:55:06.349Z",
+      "fullName": "Nguyễn Văn Toàn",
+      "companyName": "Công ty TNHH DELCO",
+      "telNo": "0974234898",
+      "email": "toannv@gmail.com",
+      "userMappingId": 201,
+      "participantRole": "xử lý công việc",
+      "assignedBy": "Đăng Văn Tuấn",
+      "assignedNote": "Xử lý công việc ngày 12/08/2017",
+      "avaibility": 0,
+      "checkinTime": null,
+      "closedTime": null,
+      "participantNote": "Xử lý công việc ngày 12/08/2017",
+      "nosendEmail": false,
+      "isManager": false,
+      "lastAccess": "2017-08-16T14:55:06.350Z"
+}

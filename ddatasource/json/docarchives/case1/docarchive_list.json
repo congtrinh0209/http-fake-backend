@@ -1,0 +1,165 @@
+{
+  "total": 8,
+  "data": [
+    {
+      "docArchiveId": 1,
+      "userId": 201,
+      "userName": "huannv",
+      "createDate": "2017-07-12T04:05:01.722Z",
+      "modifiedDate": "2017-07-12T04:05:01.722Z",
+      "archiveNo": "HS101",
+      "archiveName": "Hồ sơ dự án mobilink version 1",
+      "isTemplate": false,
+      "templateNo": "HSM001",
+      "isNew": true,
+      "permission": "1",
+      "labels": [
+        {
+          "lableId": 1,
+          "name": "HS101 mobilink",
+          "color": "#80ff00"
+        }
+      ]
+    },
+    {
+      "docArchiveId": 2,
+      "userId": 201,
+      "userName": "manhnv",
+      "createDate": "2017-07-30T04:05:01.722Z",
+      "modifiedDate": "2017-07-30T04:05:01.722Z",
+      "archiveNo": "HS102",
+      "archiveName": "Hồ sơ dự án mobilink version 2",
+      "isTemplate": false,
+      "templateNo": "HSM002",
+      "isNew": true,
+      "permission": "0",
+      "labels": [
+        {
+          "lableId": 2,
+          "name": "HS102 mobilink",
+          "color": "#ff8000"
+        }
+      ]
+    },
+    {
+      "docArchiveId": 3,
+      "userId": 201,
+      "userName": "hungnd",
+      "createDate": "2017-07-21T04:05:01.722Z",
+      "modifiedDate": "2017-07-21T04:05:01.722Z",
+      "archiveNo": "HS103",
+      "archiveName": "Hồ sơ dự án mobilink version 3",
+      "isTemplate": false,
+      "templateNo": "HSM003",
+      "isNew": true,
+      "permission": "0",
+      "labels": [
+        {
+          "lableId": 2,
+          "name": "HS103 mobilink",
+          "color": "#ff6000"
+        }
+      ]
+    },
+    {
+      "docArchiveId": 4,
+      "userId": 201,
+      "userName": "quangnt",
+      "createDate": "2017-07-15T04:05:01.722Z",
+      "modifiedDate": "2017-07-15T04:05:01.722Z",
+      "archiveNo": "HS104",
+      "archiveName": "Hồ sơ dự án mobilink version 4",
+      "isTemplate": false,
+      "templateNo": "HSM004",
+      "isNew": true,
+      "permission": "1",
+      "labels": [
+        {
+          "lableId": 2,
+          "name": "HS104 mobilink",
+          "color": "#ff5000"
+        }
+      ]
+    },
+    {
+      "docArchiveId": 5,
+      "userId": 201,
+      "userName": "nhattn",
+      "createDate": "2017-07-16T04:05:01.722Z",
+      "modifiedDate": "2017-07-16T04:05:01.722Z",
+      "archiveNo": "HS105",
+      "archiveName": "Hồ sơ dự án mobilink version 5",
+      "isTemplate": false,
+      "templateNo": "HSM005",
+      "isNew": true,
+      "permission": "1",
+      "labels": [
+        {
+          "lableId": 2,
+          "name": "HS105 mobilink",
+          "color": "#ff2000"
+        }
+      ]
+    },
+    {
+      "docArchiveId": 6,
+      "userId": 201,
+      "userName": "hanhnt",
+      "createDate": "2017-07-17T04:05:01.722Z",
+      "modifiedDate": "2017-07-17T04:05:01.722Z",
+      "archiveNo": "HS106",
+      "archiveName": "Hồ sơ dự án mobilink version 6",
+      "isTemplate": false,
+      "templateNo": "HSM006",
+      "isNew": true,
+      "permission": "0",
+      "labels": [
+        {
+          "lableId": 3,
+          "name": "HS106 mobilink",
+          "color": "#ff1000"
+        }
+      ]
+    },
+    {
+      "docArchiveId": 7,
+      "userId": 201,
+      "userName": "hanv",
+      "createDate": "2017-07-18T04:05:01.722Z",
+      "modifiedDate": "2017-07-18T04:05:01.722Z",
+      "archiveNo": "HS107",
+      "archiveName": "Hồ sơ dự án mobilink version 7",
+      "isTemplate": false,
+      "templateNo": "HSM007",
+      "isNew": true,
+      "permission": "1",
+      "labels": [
+        {
+          "lableId": 4,
+          "name": "HS107 mobilink",
+          "color": "#ff9000"
+        }
+      ]
+    },
+    {
+      "docArchiveId": 8,
+      "userId": 201,
+      "userName": "binhth",
+      "createDate": "2017-07-19T04:05:01.722Z",
+      "modifiedDate": "2017-07-19T04:05:01.722Z",
+      "archiveNo": "HS108",
+      "archiveName": "Hồ sơ dự án mobilink version 8",
+      "isTemplate": false,
+      "templateNo": "HSM008",
+      "isNew": true,
+      "permission": "1",
+      "labels": [
+        {
+          "lableId": 5,
+          "name": "HS108 mobilink",
+          "color": "#fG3000"
+        }
+      ]
+    }
+  ]
+} 

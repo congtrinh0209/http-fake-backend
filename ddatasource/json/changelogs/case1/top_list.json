@@ -1,0 +1,23 @@
+{
+  "total": 2,
+  "data": [
+    {
+      "changeLogId": 1,
+      "createDate": "2017-09-18T02:54:02.608Z",
+      "className": "document",
+      "classPK": 2,
+      "content": "fsdfdsf",
+      "logType": "create",
+      "payload": "fsd"
+    },
+    {
+      "changeLogId": 2,
+      "createDate": "2017-09-18T02:54:02.608Z",
+      "className": "document",
+      "classPK": 2,
+      "content": "nội dung",
+      "logType": "update",
+      "payload": "fsd"
+    }
+  ]
+}

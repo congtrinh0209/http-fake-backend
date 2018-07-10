@@ -1,0 +1,52 @@
+{
+      "contactId": 111,
+ 	"createDate": "2017-07-11T01:53:11.249Z",
+ 	"modifiedDate": "2017-07-11T01:53:11.249Z",
+  	"userId":2017,
+  	"userName": "Trần Ngọc",
+	"myContact": false,
+      "contactType": 2,
+      "shared": false,
+      "fullName": "Nhóm danh bạ FDS eeed new",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "0949234567",
+      "email": "company@fds.vn",
+      "userMappingId": 205,
+      "groupList": [
+        {
+          "fullName": "Trần Kim Dũng",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "0947234567",
+          "email": "dungtk@fds.vn",
+          "userMappingId": 301
+        },
+        {
+          "fullName": "Tạ Tuấn Anh",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "0947123456",
+          "email": "tuanta@fds.vn",
+          "userMappingId": 302
+        },
+        {
+          "fullName": "Lê Phú Cường",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "0947456789",
+          "email": "cuonglp@fds.vn",
+          "userMappingId": 303
+        },
+        {
+          "fullName": "Nguyễn Hồng Sơn",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "0974345678",
+          "email": "sonnh@fds.vn",
+          "userMappingId": 304
+        },
+        {
+          "fullName": "Nguyễn Xuân Bắc",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "098123456",
+          "email": "bacnx@fds.vn",
+          "userMappingId": 305
+        }
+      ]
+    }

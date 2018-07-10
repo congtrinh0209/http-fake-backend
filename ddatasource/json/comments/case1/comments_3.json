@@ -1,0 +1,22 @@
+{
+  "commentId": 3,
+  "userId": 2,
+  "createDate": "2017-07-26T04:05:01.722Z",
+  "modifiedDate": "2017-07-26T04:05:01.722Z",
+  "className": "DocFile",
+  "classPK": 101,
+  "fullname": "Trần Thái Bình",
+  "email": "",
+  "parent": 1,
+  "content": "Áp dụng Mobilink tiết kiệm về tài chính và quản lý hiệu quả hơn trong công việc",
+  "fileName": "",
+  "fileType": "",
+  "fileUrl": "",
+  "pictureUrl": "/ddatasource/json/comments/profilePicture.jpg",
+  "profileUrl": "/ddatasource/json/comments/profile.json",
+  "pings": [2,4],
+  "isNew": false,
+  "upvoteCount": 1,
+  "userHasUpvoted": true,
+  "createdByCurrentUser": false
+}

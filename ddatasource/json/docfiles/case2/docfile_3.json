@@ -1,0 +1,66 @@
+{
+  "docFileId": 3,
+  "userId": 201,
+  "userName": "Nguyễn Tiến Thành",
+  "createDate": "16/07/2017",
+  "modifiedDate": "16/07/2017",
+  "issuerCode": "BGTVT",
+  "issuerName": "Tổng Cục Đường Bộ VN",
+  "codeNo": "ND31/BGTVT",
+  "codeNotation": "ND31",
+  "promulgationDate": "18/07/2010",
+  "signerInfo": "Phan Văn Hiển",
+  "documentType": 1,
+  "typeName": "",
+  "subject": "Nghị định 31-BGTVT về quy định lập dự toán về dự án đường thủy",
+  "content": "Nghị định 31-BGTVT về quy định lập dự toán về dự án đường thủy",
+  "security": 1,
+  "priority": 0,
+  "pageAmount": 3,
+  "promulgationAmount": 100,
+  "language": "Tiếng Việt",
+  "visibility": 2,
+  "archiveCode": "HS01",
+  "archiveState": "1",
+  "register": 0,
+  "registerDate": "28/07/2017",
+  "seqNum": 1,
+  "dueDate": "0/08/2017",
+  "status": "0",
+  "approvalDate": "25/07/2017",
+  "signerUserId": 201,
+  "verified": false,
+  "labels": [
+    {
+      "labelId": 1,
+      "name": "Dự án đường thủy",
+      "color": "#0xff0000ff"
+    }
+  ],
+  "links": [
+    {
+      "docFileId": 3,
+      "codeNo": "ND31",
+      "codeNotation": "ND31-BGTVT",
+      "subject": "Nghị định 31-BGTVT",
+      "typeName": ""
+    }
+  ],
+  "activities": [
+    {
+      "activityId": 1,
+      "subject": "Hoạt động triển khai dự án mobilink"
+    }
+  ],
+  "attachs": [
+    {
+      "fileEntryId": 203,
+      "fileName": "Văn bản nghị định",
+      "createdDate": "16/07/2017",
+      "modifiedDate": "16/07/2017",
+      "fileType": "pdf",
+      "fileSize": 5,
+      "version": "1.0"
+    }
+  ]
+}

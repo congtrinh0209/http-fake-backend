@@ -1,0 +1,13 @@
+{  
+  "userName": "tiennv",
+  "createDate": "2017-07-19T03:23:39.753Z",
+  "modifiedDate": "2017-07-19T03:23:39.753Z",
+  "employeeNo": "MS101",
+  "fullName": "Nguyễn Văn Tiến",
+  "gender": "Nam",
+  "birthdate": "1977-07-19",
+  "telNo": "09843456",
+  "mobile": "09843456",
+  "email": "tiennv@gmail.com",
+  "workingStatus": 0
+}

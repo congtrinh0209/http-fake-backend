@@ -1,0 +1,26 @@
+{
+  "dictItemId": 1111,
+  "createDate": "2017-07-20T04:05:01.722Z",
+  "modifiedDate": "2017-07-20T04:05:01.722Z",
+  "dictCollectionId": 2,
+  "itemCode": "1111",
+  "itemName": "1111",
+  "itemNameEN": "1111",
+  "itemDescription": "1111",
+  "parentItem": {
+    "dictItemId": 0,
+    "itemCode": "",
+    "itemName": ""
+  },
+  "level": 1,
+  "sibling": 1,
+  "treeIndex": "1.1",
+  "groups": 
+  [
+    {
+      "groupCode": "DOCUMENT_GROUP",
+      "groupName": "Nhóm loại văn bản",
+      "groupNameEN": "Nhóm loại văn bản"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "total": 4,
+    "data": [
+        {
+            "labelId": 1701,
+            "labelName": "Quan trọng",
+            "color": "#ed1c24",
+            "selected": true
+        },
+        {
+            "labelId": 1801,
+            "labelName": "Dự án 01",
+            "color": "#22b14c",
+            "selected": true
+        },
+        {
+            "labelId": 1803,
+            "labelName": "Dự án 03",
+            "color": "#3f48cc",
+            "selected": false
+        },
+        {
+            "labelId": 1802,
+            "labelName": "Dự án 02",
+            "color": "#fff200",
+            "selected": false
+        }
+    ]
+}

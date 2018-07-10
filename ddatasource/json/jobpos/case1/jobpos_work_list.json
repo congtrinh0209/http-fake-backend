@@ -1,0 +1,59 @@
+{
+  "total": 9,
+  "data": [
+    {
+      "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_1",
+	  "categoryName": "Cong viec 1",
+	  "selected": false
+    },
+    {
+       "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_2",
+	  "categoryName": "Cong viec 2",
+      "selected": false
+    },
+    {
+      "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_3",
+	  "categoryName": "Cong viec 3",
+      "selected": false
+    },
+    {
+       "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_4",
+	  "categoryName": "Cong viec 4",
+      "selected": false
+    },
+    {
+      "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_5",
+	  "categoryName": "Cong viec 5",
+      "selected": false
+    },
+    {
+       "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_6",
+	  "categoryName": "Cong viec 6",
+      "selected": true
+    },
+    {
+       "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_7",
+	  "categoryName": "Cong viec 7",
+      "selected": true
+    },
+    {
+       "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_8",
+	  "categoryName": "Cong viec 8",
+      "selected": false
+    },
+    {
+       "checklistType": "CHECKLIST_TYPE",
+	  "checklistCat": "CV_9",
+	  "categoryName": "Cong viec 9",
+      "selected": false
+    }
+  ]
+}

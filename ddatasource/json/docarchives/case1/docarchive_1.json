@@ -1,0 +1,34 @@
+{
+  "docArchiveId": 1,
+  "userId": 201,
+  "userName": "huannv",
+  "createDate": "2017-08-12T04:05:01.722Z",
+  "modifiedDate": "2017-08-12T04:05:01.722Z",
+  "archiveYear": 2017,
+  "archiveSeq": 1,
+  "archiveNo": "HS101",
+  "archiveCode": "HS101-CODE",
+  "archiveName": "Hồ sơ dự án mobilink version 1",
+  "note": "Hồ sơ dự án mobilink version 1",
+  "startDate": "2017-08-12T04:05:01.722Z",
+  "endDate": "2017-08-12T04:05:01.722Z",
+  "language": "Tiếng Việt",
+  "pageTotal": 10,
+  "duration": 2,
+  "visibility": 2,
+  "isTemplate": false,
+  "permission": "1",
+  "labels": [
+    {
+      "lableId": 200,
+      "name": "HS101 mobilink",
+      "color": "#80ff00"
+    }
+  ],
+  "workspaces": [
+    {
+      "workspaceId": 201,
+      "name": "Dự án Mobilink"
+    }
+  ]
+}

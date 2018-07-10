@@ -1,0 +1,41 @@
+{
+  "total": 0,
+  "data": [
+    {
+      "fileEntryId": 201,
+      "fileName": "20-07-2017/TT20-BGTVT",
+      "createdDate": "20/07.2017",
+      "modifiedDate": "20/07.2017",
+      "fileType": "pdf",
+      "fileSize": 5,
+      "version": "1.0"
+    },
+    {
+      "fileEntryId": 202,
+      "fileName": "30-07-2017/TT30-BGTVT",
+      "createdDate": "22/07.2017",
+      "modifiedDate": "22/07.2017",
+      "fileType": "pdf",
+      "fileSize": 10,
+      "version": "1.0"
+    },
+    {
+      "fileEntryId": 203,
+      "fileName": "30-07-2017/ND30-TTCP",
+      "createdDate": "24/07/2017",
+      "modifiedDate": "24/07/2017",
+      "fileType": "doc",
+      "fileSize": 6,
+      "version": "1.0"
+    },
+    {
+      "fileEntryId": 204,
+      "fileName": "30-07-2017/QD30-TTCP",
+      "createdDate": "26/07/2017",
+      "modifiedDate": "26/07/2017",
+      "fileType": "doc",
+      "fileSize": 10,
+      "version": "1.0"
+    }
+  ]
+}

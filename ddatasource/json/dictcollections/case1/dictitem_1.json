@@ -1,0 +1,26 @@
+{
+  "dictItemId": 1,
+  "createDate": "2017-07-20T04:05:01.722Z",
+  "modifiedDate": "2017-07-20T04:05:01.722Z",
+  "dictCollectionId": 2,
+  "itemCode": "2",
+  "itemName": "Văn bản pháp quy2",
+  "itemNameEN": "Văn bản pháp quy2",
+  "itemDescription": "Văn bản pháp quy2",
+  "parentItem": {
+    "dictItemId": 0,
+    "itemCode": "",
+    "itemName": ""
+  },
+  "level": 1,
+  "sibling": 1,
+  "treeIndex": "1.1",
+  "groups": 
+  [
+    {
+      "groupCode": "DOCUMENT_GROUP",
+      "groupName": "Nhóm loại văn bản",
+      "groupNameEN": "Nhóm loại văn bản"
+    }
+  ]
+}

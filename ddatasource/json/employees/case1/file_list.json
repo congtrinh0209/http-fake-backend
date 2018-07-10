@@ -1,0 +1,29 @@
+{
+  "total": 4,
+  "data": [
+    {
+      "fileEntryId": 101,
+      "fileName": "file_1.pdf",
+      "fileType": "pdf",
+      "fileSize": 10
+    },
+    {
+      "fileEntryId": 102,
+      "fileName": "file_2.pdf",
+      "fileType": "pdf",
+      "fileSize": 5
+    },
+    {
+      "fileEntryId": 103,
+      "fileName": "file_3.doc",
+      "fileType": "doc",
+      "fileSize": 6
+    },
+    {
+      "fileEntryId": 104,
+      "fileName": "file_4.docx",
+      "fileType": "docx",
+      "fileSize": 8
+    }
+  ]
+}

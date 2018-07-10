@@ -1,0 +1,41 @@
+{
+  "total": 6,
+  "data": [
+    {
+      "roleId" :1,
+      "roleName": "Ban giám đốc FDS",
+      "readwrite": true,
+      "approval": true
+    },
+    {
+      "roleId" :2,
+      "roleName": "Trưởng phòng BA",
+      "readwrite": true,
+      "approval": false
+    },
+    {
+      "roleId" :3,
+      "roleName": "Trưởng phòng nhân sự",
+      "readwrite": true,
+      "approval": true
+    },
+    {
+      "roleId" :4,
+      "roleName": "Trưởng phòng phát triển",
+      "readwrite": true,
+      "approval": false
+    },
+    {
+      "roleId" :5,
+      "roleName": "Trưởng phòng hành chính",
+      "readwrite": true,
+      "approval": false
+    },
+    {
+      "roleId" :6,
+      "roleName": "nhân viên",
+      "readwrite": false,
+      "approval": false
+    }
+  ]
+}

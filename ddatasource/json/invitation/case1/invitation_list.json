@@ -1,0 +1,194 @@
+{
+    "total": 8,
+    "invitationCount": 8,
+    "availableCount": 3,
+    "checkinCount": 0,
+    "data": [
+        {
+            "resourceInvitationId": 1,
+            "userId": 101,
+            "userName": "Lê Văn Hải",
+            "createDate": 1521801943000,
+            "modifiedDate": 1521801943000,
+            "invitationType": 0,
+            "roleId": 1,
+            "toUserId": 0,
+            "fullName": "Phòng Kỹ thuật - Công nghệ",
+            "email": "hailv@fds.vn",
+            "telNo": "0972047443",
+            "right": 1,
+            "available": 1,
+            "checkin": 0,
+            "mine": false,
+            "userNote": "Xin phép nghỉ họp",
+            "statistic": {
+                "invitation": 2,
+                "available": 2,
+                "checkin": 0
+            }
+        },
+            {
+                "resourceInvitationId": 2,
+                "userId": 102,
+                "userName": "Trịnh Công Trình",
+                "createDate": 1521801943000,
+                "modifiedDate": 1521801943000,
+                "invitationType": 3,
+                "roleId": 1,
+                "toUserId": 101,
+                "fullName": "Trịnh Công Trình",
+                "email": "trinhtc@fds.vn",
+                "telNo": "0868979193",
+                "right": 1,
+                "available": 2,
+                "checkin":  false,
+                "mine": false,
+                "userNote": "Xin phép nghỉ họp Đi công tác",
+                "statistic": {
+                    "invitation": 1,
+                    "available": 0,
+                    "checkin": 0
+                }
+            },
+            {
+                "resourceInvitationId": 3,
+                "userId": 103,
+                "userName": "Nguyễn Tấn Dũng",
+                "createDate": 1521801943000,
+                "modifiedDate": 1521801943000,
+                "invitationType": 3,
+                "roleId": 1,
+                "toUserId": 0,
+                "fullName": "Nguyễn Tấn Dũng",
+                "email": "sontn@gmail.com",
+                "telNo": "0868979193",
+                "right": 0,
+                "available": 1,
+                "checkin":  true,
+                "mine": false,
+                "userNote": "Có mặt muộn 10 phút",
+                "statistic": {
+                    "invitation": 1,
+                    "available": 0,
+                    "checkin": 0
+                }
+            },
+            {
+                "resourceInvitationId": 8,
+                "userId": 108,
+                "userName": "Trương Tấn Sang",
+                "createDate": 1521801943000,
+                "modifiedDate": 1521801943000,
+                "invitationType": 4,
+                "roleId": 1,
+                "toUserId": 108,
+                "fullName": "Trương Tấn Sang",
+                "email": "sangtt@fds.vn",
+                "telNo": "0868979193",
+                "right": 0,
+                "available": 2,
+                "checkin":  false,
+                "mine": true,
+                "userNote": "Xin nghỉ ốm",
+                "statistic": {
+                    "invitation": 1,
+                    "available": 0,
+                    "checkin": 0
+                }
+            },
+        {
+            "resourceInvitationId": 4,
+            "userId": 104,
+            "userName": "Nguyễn Văn Thành",
+            "createDate": 1521801943000,
+            "modifiedDate": 1521801943000,
+            "invitationType": 1,
+            "roleId": 2,
+            "toUserId": 0,
+            "fullName": "Lãnh đạo các công ty con",
+            "email": "thanhnv@fds.vn",
+            "telNo": "0972047443",
+            "right": 1,
+            "available": 0,
+            "checkin":  true,
+            "mine": false,
+            "statistic": {
+                "invitation": 2,
+                "available": 1,
+                "checkin": 0
+            }
+        },
+            {
+                "resourceInvitationId": 5,
+                "userId": 105,
+                "userName": "Nguyễn Minh Triết",
+                "createDate": 1521801943000,
+                "modifiedDate": 1521801943000,
+                "invitationType": 5,
+                "roleId": 2,
+                "toUserId": 201,
+                "fullName": "Nguyễn Minh Triết",
+                "email": "trietnm@fds.vn",
+                "telNo": "0868979193",
+                "right": 0,
+                "available": 0,
+                "checkin": 1,
+                "mine": false,
+                "userNote": "Gặp mặt tại sảnh A",
+                "statistic": {
+                    "invitation": 1,
+                    "available": 0,
+                    "checkin": 0
+                }
+            },
+            {
+                "resourceInvitationId": 6,
+                "userId": 106,
+                "userName": "Trương Tấn Sang",
+                "createDate": 1521801943000,
+                "modifiedDate": 1521801943000,
+                "invitationType": 5,
+                "roleId": 2,
+                "toUserId": 202,
+                "fullName": "Trương Tấn Sang",
+                "email": "sangtt@fds.vn",
+                "telNo": "0868979193",
+                "right": 1,
+                "available": 2,
+                "checkin":  true,
+                "mine": false,
+                "userNote": "",
+                "statistic": {
+                    "invitation": 1,
+                    "available": 0,
+                    "checkin": 0
+                }
+            },
+        {
+            "resourceInvitationId": 7,
+            "userId": 107,
+            "userName": "Nông Đức Mạnh",
+            "createDate": 1521801943000,
+            "modifiedDate": 1521801943000,
+            "invitationType": 2,
+            "roleId": "",
+            "toUserId": 102,
+            "fullName": "Nông Đức Mạnh",
+            "email": "manhnd@fds.vn",
+            "telNo": "0868979193",
+            "right": 1,
+            "available": 1,
+            "checkin": 1,
+            "mine": false,
+            "userNote": "",
+            "statistic": {
+                "invitation": 1,
+                "available": 0,
+                "checkin": 0
+            }
+        }
+        
+    ]
+}
+
+  

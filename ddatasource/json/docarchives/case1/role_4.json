@@ -1,0 +1,6 @@
+{
+  "roleId" :4,
+  "roleName": "Trưởng phòng phát triển",
+  "readwrite": true,
+  "approval": false
+}

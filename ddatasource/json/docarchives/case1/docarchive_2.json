@@ -1,0 +1,34 @@
+{
+  "docArchiveId": 2,
+  "userId": 201,
+  "userName": "manhnv",
+  "createDate": "2017-08-30T04:05:01.722Z",
+  "modifiedDate": "2017-08-30T04:05:01.722Z",
+  "archiveYear": 2017,
+  "archiveSeq": 2,
+  "archiveNo": "HS102",
+  "archiveCode": "HS102-CODE",
+  "archiveName": "Hồ sơ dự án mobilink version 2",
+  "note": "Hồ sơ dự án mobilink version 2",
+  "startDate": "2017-08-30T04:05:01.722Z",
+  "endDate": "2017-08-30T04:05:01.722Z",
+  "language": "Tiếng Việt",
+  "pageTotal": 10,
+  "duration": 2,
+  "visibility": 2,
+  "isTemplate": false,
+  "permission": "1",
+  "labels": [
+    {
+      "lableId": 200,
+      "name": "HS102 mobilink",
+      "color": "#ff8000"
+    }
+  ],
+  "workspaces": [
+    {
+      "workspaceId": 202,
+      "name": "Dự án đường thủy nội địa"
+    }
+  ]
+}

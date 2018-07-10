@@ -1,0 +1,105 @@
+{
+  "total": 4,
+  "data": [
+    {
+      "employeeId": 101,
+      "createDate": "2017-09-30T14:31:29.615Z",
+      "modifiedDate": "2017-09-30T14:31:29.616Z",
+      "employeeNo": "NS101",
+      "fullName": "Trịnh Công Trình",
+      "title": "BS 1",
+      "jobTitle": "Chủ tịch UBND Quận",
+      "workingUnitName": "Hội đồng quản trị",
+      "gender": "Nam",
+
+	"birthdate": "1990-09-30T14:31:29.616Z",
+      "telNo": "09823456",
+      "email": "anv@gmail.com",
+      "workingStatus": 0,
+      "recruitDate": "2017-09-30T14:31:29.617Z",
+      "leaveDate": "2017-09-30T14:31:29.617Z",
+      "permission": "",
+      "mappingUser": {
+        "userId": 101,
+        "screenName": "anv",
+        "locking": false
+      }
+    },
+
+{
+      "employeeId": 102,
+      "createDate": "2017-09-30T14:31:29.615Z",
+      "modifiedDate": "2017-09-30T14:31:29.616Z",
+      "employeeNo": "NS102",
+      "fullName": "Nguyễn Văn Thành",
+      "jobTitle": "BS 2",
+      "jobPosTitle": "Phó chủ tịch Quận",
+      "workingUnitName": "Hội đồng quản trị",
+      "gender": "Nam",
+
+	"birthdate": "1990-09-30T14:31:29.616Z",
+      "telNo": "09823456",
+      "email": "bnv@gmail.com",
+      "workingStatus": 0,
+      "recruitDate": "2017-09-30T14:31:29.617Z",
+      "leaveDate": "2017-09-30T14:31:29.617Z",
+      "permission": "",
+      "mappingUser": {
+        "userId": 102,
+        "screenName": "anb",
+        "locking": false
+      }
+    },
+
+{
+      "employeeId": 103,
+      "createDate": "2017-09-30T14:31:29.615Z",
+      "modifiedDate": "2017-09-30T14:31:29.616Z",
+      "employeeNo": "NS103",
+      "fullName": "Lê Tiến Hoàn",
+      "jobTitle": "BS 1",
+      "jobPosTitle": "Giám đốc phòng TNMT",
+      "workingUnitName": "Hội đồng quản trị",
+      "gender": "Nam",
+
+	"birthdate": "1997-09-30T14:31:29.616Z",
+      "telNo": "09823456",
+      "email": "cnv@gmail.com",
+      "workingStatus": 1,
+      "recruitDate": "2017-09-30T14:31:29.617Z",
+      "leaveDate": "2017-09-30T14:31:29.617Z",
+      "permission": "",
+      "mappingUser": {
+        "userId": 103,
+        "screenName": "cnv",
+        "locking": false
+      }
+    },
+
+{
+      "employeeId": 104,
+      "createDate": "2017-09-30T14:31:29.615Z",
+      "modifiedDate": "2017-09-30T14:31:29.616Z",
+      "employeeNo": "NS104",
+      "fullName": "NGUYEN VAN A",
+      "title": "BS 1",
+      "jobPosTitle": "BS 1",
+      "workingUnitName": "Hội đồng quản trị",
+      "gender": "Nam",
+
+	"birthdate": "1999-09-30T14:31:29.616Z",
+      "telNo": "09823456",
+      "email": "dnv@gmail.com",
+      "workingStatus": 0,
+      "recruitDate": "2017-09-30T14:31:29.617Z",
+      "leaveDate": "2017-09-30T14:31:29.617Z",
+      "permission": "",
+      "mappingUser": {
+        "userId": 104,
+        "screenName": "dnv",
+        "locking": false
+      }
+    }
+
+  ]
+}

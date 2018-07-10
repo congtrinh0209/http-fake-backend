@@ -1,0 +1,10 @@
+{
+  "notificationType": "ACTIVITY-02",
+  "modifiedDate": "21/08/2017",
+  "emailSubject": "Cập nhật trạng thái của người tham gia hoạt động",
+  "emailBody": "Cập nhật trạng thái của người tham gia hoạt động",
+  "textMessage": "Cập nhật trạng thái của người tham gia hoạt động",
+    "sendSMS": true,
+  "sendEmail": false
+
+}

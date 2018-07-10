@@ -1,0 +1,33 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "docFileId": 1,
+      "codeNo": "TT20",
+      "codeNotation": "20-07-2017/TT20-BGTVT",
+      "subject": "Thông tư 20 Bộ GTVT",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 2,
+      "codeNo": "TT30",
+      "codeNotation": "30-07-2017/TT30-BGTVT",
+      "subject": "Thông tư 30 Bộ GTVT",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 3,
+      "codeNo": "ND30",
+      "codeNotation": "30-07-2017/ND30-TTCP",
+      "subject": "Nghị định 30 TTCP",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 4,
+      "codeNo": "ND31",
+      "codeNotation": "31-07-2017/ND31-TTCP",
+      "subject": "Nghị định 31 TTCP",
+      "typeName": "Văn bản pháp quy"
+    }
+  ]
+}

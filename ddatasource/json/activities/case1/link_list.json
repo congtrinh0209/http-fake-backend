@@ -1,0 +1,48 @@
+{
+  "total": 2,
+  "data": [
+    {
+      "activityId": 1701,
+      "subject": "Triển khai dự án Mobilink cho Delco",
+      "hosting": "Trịnh Công Trình",
+      "leaderName": "Nguyễn Văn Thành",
+      "openingState": 0,
+      "activityStatus": "Hoạt động đang diễn ra",
+      "relation": 2,
+      "activityType": "",
+      "activityCat": "",
+      "categoryName": "",
+      "hostingId": 0,
+      "startDate": 1525311673000,
+      "endDate": 1525311673000,
+      "state": 0,
+      "resultNote": "",
+      "stateName": "",
+      "managerId": 0,
+      "managerName": "",
+      "startend": 0
+
+    },
+    {
+      "activityId": 1704,
+      "subject": "Triển khai dự án Mobilink cho Long Biên",
+      "hosting": "Nguyễn Văn Thành",
+      "openingState": 0,
+      "leaderName": "Trịnh Công Trình",
+      "activityStatus": "Hoạt động đang diễn ra",
+      "relation": 2,
+      "activityType": "",
+      "activityCat": "",
+      "categoryName": "",
+      "hostingId": 0,
+      "startDate": 1525262813000,
+      "endDate": 1525262813000,
+      "state": 0,
+      "resultNote": "",
+      "stateName": "",
+      "managerId": 0,
+      "managerName": "",
+      "startend": 0
+    }
+  ]
+}

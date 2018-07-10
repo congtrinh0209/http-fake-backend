@@ -1,0 +1,18 @@
+{
+  "processActionId": 1,
+  "serviceProcessId": 1,
+  "preProcessStepId": 1,
+  "postProcessStepId": 2,
+  "autoEvent": "lorem",
+  "preCondition": "lorem",
+  "actionCode": "lorem",
+  "actionName": "lorem",
+  "allowAssignUser": false,
+  "assignUserId": 0,
+  "requestPayment": false,
+  "paymentFee": "lorem",
+  "createDossierFiles": "lorem",
+  "returnDossierFiles": "lorem",
+  "syncActionCode": "lorem",
+  "rollback": true
+}

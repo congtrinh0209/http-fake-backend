@@ -1,0 +1,66 @@
+{
+  "docFileId": 1,
+  "userId": 201,
+  "userName": "Đặng Quốc Việt",
+  "createDate": "25/07/2017",
+  "modifiedDate": "25/07/2017",
+  "issuerCode": "BGTVT",
+  "issuerName": "Bộ Giao Thông Vận Tải",
+  "codeNo": "TT30/BGTVT",
+  "codeNotation": "TT30",
+  "promulgationDate": "20/07/2010",
+  "signerInfo": "Trần Đại Quang",
+  "documentType": 1,
+  "typeName": "",
+  "subject": "Thông tư 30-BGTVT về quy định xây dựng cầu đường bộ VN",
+  "content": "Thông tư 30-BGTVT về quy định xây dựng cầu đường bộ VN",
+  "security": 1,
+  "priority": 0,
+  "pageAmount": 3,
+  "promulgationAmount": 100,
+  "language": "Tiếng Việt",
+  "visibility": 2,
+  "archiveCode": "HS01",
+  "archiveState": "1",
+  "register": 0,
+  "registerDate": "26/07/2017",
+  "seqNum": 1,
+  "dueDate": "27/07/2017",
+  "status": "0",
+  "approvalDate": "25/07/2017",
+  "signerUserId": 201,
+  "verified": false,
+  "labels": [
+    {
+      "labelId": 1,
+      "name": "Dự án mobilink",
+      "color": "#0xff0000ff"
+    }
+  ],
+  "links": [
+    {
+      "docFileId": 1,
+      "codeNo": "TT30",
+      "codeNotation": "TT30-BGTVT",
+      "subject": "Thông tư 30-BGTVT",
+      "typeName": ""
+    }
+  ],
+  "activities": [
+    {
+      "activityId": 1,
+      "subject": "Hoạt động triển khai dự án mobilink"
+    }
+  ],
+  "attachs": [
+    {
+      "fileEntryId": 201,
+      "fileName": "Văn bản thông tư",
+      "createdDate": "25/07/2017",
+      "modifiedDate": "25/07/2017",
+      "fileType": "pdf",
+      "fileSize": 10,
+      "version": "1.0"
+    }
+  ]
+}

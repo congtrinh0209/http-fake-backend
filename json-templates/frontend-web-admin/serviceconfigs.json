@@ -1,0 +1,82 @@
+{
+  "total": 7,
+  "data": [
+    {
+      "serviceConfigId": 1,
+      "serviceInfoId": 1,
+      "serviceName": "lorem",
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "serviceInstruction": "lorem",
+      "serviceLevel": 3,
+      "serviceUrl": "lorem",
+      "authentication": 1
+    },
+    {
+      "serviceConfigId": 2,
+      "serviceInfoId": 1,
+      "serviceName": "lorem",
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "serviceInstruction": "lorem",
+      "serviceLevel": 3,
+      "serviceUrl": "lorem",
+      "authentication": 1
+    },
+    {
+      "serviceConfigId": 3,
+      "serviceInfoId": 1,
+      "serviceName": "lorem",
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "serviceInstruction": "lorem",
+      "serviceLevel": 3,
+      "serviceUrl": "lorem",
+      "authentication": 1
+    },
+    {
+      "serviceConfigId": 4,
+      "serviceInfoId": 1,
+      "serviceName": "lorem",
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "serviceInstruction": "lorem",
+      "serviceLevel": 3,
+      "serviceUrl": "lorem",
+      "authentication": 1
+    },
+    {
+      "serviceConfigId": 5,
+      "serviceInfoId": 1,
+      "serviceName": "lorem",
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "serviceInstruction": "lorem",
+      "serviceLevel": 3,
+      "serviceUrl": "lorem",
+      "authentication": 1
+    },
+    {
+      "serviceConfigId": 6,
+      "serviceInfoId": 1,
+      "serviceName": "lorem",
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "serviceInstruction": "lorem",
+      "serviceLevel": 3,
+      "serviceUrl": "lorem",
+      "authentication": 1
+    },
+    {
+      "serviceConfigId": 7,
+      "serviceInfoId": 1,
+      "serviceName": "lorem",
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "serviceInstruction": "lorem",
+      "serviceLevel": 3,
+      "serviceUrl": "lorem",
+      "authentication": 1
+    }
+  ]
+}

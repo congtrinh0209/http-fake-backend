@@ -1,0 +1,114 @@
+{
+  "total": 14,
+  "data": [
+
+    {
+      "dictItemId": 1,
+      "createDate": "2017-07-20T04:05:01.722Z",
+      "modifiedDate": "2017-07-20T04:05:01.722Z",
+      "dictCollectionId": 2,
+      "itemCode": "BGTVT",
+      "itemName": "Bộ giao thông vận tải Việt Nam",
+      "itemNameEN": "Bộ giao thông vận tải Việt Nam",
+      "itemDescription": "Bộ giao thông vận tải Việt Nam",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": "",
+        "itemName": ""
+      },
+      "level": 0,
+      "sibling": 1,
+      "treeIndex": "1"
+    },
+    {
+      "dictItemId": 3,
+      "createDate": "2017-07-20T04:05:01.722Z",
+      "modifiedDate": "2017-07-20T04:05:01.722Z",
+      "dictCollectionId": 2,
+      "itemCode": "BTTTT",
+      "itemName": "Bộ thông tin tuyền thông",
+      "itemNameEN": "Bộ thông tin tuyền thông",
+      "itemDescription": "Bộ thông tin tuyền thông",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": "",
+        "itemName": ""
+      },
+      "level": 0,
+      "sibling": 1,
+      "treeIndex": "1"
+    },
+    {
+      "dictItemId": 30,
+      "createDate": "2017-07-20T04:05:01.722Z",
+      "modifiedDate": "2017-07-20T04:05:01.722Z",
+      "dictCollectionId": 2,
+      "itemCode": "BVHDL",
+      "itemName": "Bộ văn hóa và du lịch thể thao",
+      "itemNameEN": "Bộ văn hóa và du lịch thể thao",
+      "itemDescription": "Bộ văn hóa và du lịch thể thao",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": "",
+        "itemName": ""
+      },
+      "level": 0,
+      "sibling": 1,
+      "treeIndex": "1"
+    },
+    {
+      "dictItemId": 4,
+      "createDate": "2017-07-23T04:05:01.722Z",
+      "modifiedDate": "2017-07-23T04:05:01.722Z",
+      "dictCollectionId": 2,
+      "itemCode": "CTCPFDS",
+      "itemName": "Công ty cổ phần FDS",
+      "itemNameEN": "Công ty cổ phần FDS",
+      "itemDescription": "Công ty cổ phần FDS",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": "",
+        "itemName": ""
+      },
+      "level": 0,
+      "sibling": 1,
+      "treeIndex": "1"
+    },
+    {
+      "dictItemId": 5,
+      "createDate": "2017-07-24T04:05:01.722Z",
+      "modifiedDate": "2017-07-24T04:05:01.722Z",
+      "dictCollectionId": 2,
+      "itemCode": "TTCP",
+      "itemName": "Thanh tra chính phủ",
+      "itemNameEN": "Thanh tra chính phủ",
+      "itemDescription": "Thanh tra chính phủ",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": "",
+        "itemName": ""
+      },
+      "level": 0,
+      "sibling": 1,
+      "treeIndex": "1"
+    },
+    {
+      "dictItemId": 6,
+      "createDate": "2017-07-24T04:05:01.722Z",
+      "modifiedDate": "2017-07-24T04:05:01.722Z",
+      "dictCollectionId": 2,
+      "itemCode": "CTHHDELCO",
+      "itemName": "Công ty TNHH Delco",
+      "itemNameEN": "Công ty TNHH Delco",
+      "itemDescription": "Công ty TNHH Delco",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": "",
+        "itemName": ""
+      },
+      "level": 0,
+      "sibling": 1,
+      "treeIndex": "1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+    "total": 5,
+    "data": [
+      {
+        "className": "",
+        "classPK": 0,
+        "userId": 101,
+        "screenName": "",
+        "email": "trinhtc@fds.vn",
+        "fullName": "Trịnh Công Trình",
+        "contactEmail": "trinhtc@fds.vn",
+        "contactTelNo": "0868979193"
+      },
+      {
+        "className": "",
+        "classPK": 0,
+        "userId": 102,
+        "screenName": "",
+        "email": "thanhnv@fds.vn",
+        "fullName": "Nguyễn Văn Thành",
+        "contactEmail": "thanhnv@fds.vn",
+        "contactTelNo": "0963219123"
+      },
+      {
+        "className": "",
+        "classPK": 0,
+        "userId": 103,
+        "screenName": "",
+        "email": "hoanlt@fds.vn",
+        "fullName": "Lê Tiến Hoàn",
+        "contactEmail": "hoanlt@fds.vn",
+        "contactTelNo": "012763219123"
+      },
+      {
+        "className": "",
+        "classPK": 0,
+        "userId": 104,
+        "screenName": "",
+        "email": "binhng@fds.vn",
+        "fullName": "Nguyễn Gia bình",
+        "contactEmail": "binhng@fds.vn",
+        "contactTelNo": "012763219123"
+      },
+      {
+        "className": "",
+        "classPK": 0,
+        "userId": 105,
+        "screenName": "",
+        "email": "namhv@fds.vn",
+        "fullName": "Hoàng Văn Nam",
+        "contactEmail": "namhv@fds.vn",
+        "contactTelNo": "012763219123"
+      }
+    ]
+  }
+  

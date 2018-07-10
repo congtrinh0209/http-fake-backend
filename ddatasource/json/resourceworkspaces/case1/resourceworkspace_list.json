@@ -1,0 +1,65 @@
+{
+    "total": 12,
+    "data": [
+        {
+            "workspaceId": 2102,
+            "workspaceName": "Ban Giám đốc",
+            "selected": true
+        },
+        {
+            "workspaceId": 2101,
+            "workspaceName": "Công khai",
+            "selected": false
+        },
+        {
+            "workspaceId": 2111,
+            "workspaceName": "Hội đồng quản trị",
+            "selected": false
+        },
+        {
+            "workspaceId": 2103,
+            "workspaceName": "Ban Điều hành",
+            "selected": true
+        },
+        {
+            "workspaceId": 2107,
+            "workspaceName": "Công trường",
+            "selected": false
+        },
+        {
+            "workspaceId": 2106,
+            "workspaceName": "Thiết kế",
+            "selected": false
+        },
+        {
+            "workspaceId": 2109,
+            "workspaceName": "Hành chính",
+            "selected": true
+        },
+        {
+            "workspaceId": 2110,
+            "workspaceName": "Cơ điện",
+            "selected": false
+        },
+        {
+            "workspaceId": 2108,
+            "workspaceName": "Kế toán",
+            "selected": false
+        },
+        {
+            "workspaceId": 2105,
+            "workspaceName": "Vật tư",
+            "selected": false
+        },
+        {
+            "workspaceId": 2104,
+            "workspaceName": "Dự án",
+            "selected": false
+        },
+        {
+            "workspaceId": 2112,
+            "workspaceName": "An toàn loa động",
+            "selected": false
+        }
+    ]
+}

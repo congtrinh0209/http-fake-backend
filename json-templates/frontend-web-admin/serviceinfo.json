@@ -1,0 +1,38 @@
+{
+  "serviceInfoId": 1,
+  "createDate": "2017-08-01T03:38:46.385Z",
+  "modifiedDate": "2017-08-01T03:38:46.385Z",
+  "serviceCode": "lorem",
+  "serviceName": "lorem",
+  "processText": "lorem",
+  "methodText": "lorem",
+  "dossierText": "lorem",
+  "conditionText": "lorem",
+  "durationText": "lorem",
+  "resultText": "lorem",
+  "regularText": "lorem",
+  "feeText": "lorem",
+  "administrationCode": "lorem",
+  "administrationName": "lorem",
+  "domainCode": "lorem",
+  "domainName": "lorem",
+  "domainIndex": "lorem",
+  "activeStatus": 1,
+  "maxLevel": 3,
+  "fileTemplates": [{
+    "fileTemplateNo": 1,
+    "templateName": "lorem",
+    "fileType": "pdf",
+    "fileSize": 1000
+  }, {
+    "fileTemplateNo": 2,
+    "templateName": "2 lorem",
+    "fileType": "doc",
+    "fileSize": 1000
+  }, {
+    "fileTemplateNo": 3,
+    "templateName": "3 lorem",
+    "fileType": "docx",
+    "fileSize": 1000
+  }]
+}

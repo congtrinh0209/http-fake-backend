@@ -1,0 +1,20 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "docArchiveId": 201,
+      "archiveNo": "HS201",
+      "archiveName": "Hồ sơ thiết kế sàn"
+    },
+    {
+      "docArchiveId": 202,
+      "archiveNo": "HS202",
+      "archiveName": "Hồ sơ thiết kế mặt bằng"
+    },
+    {
+      "docArchiveId": 203,
+      "archiveNo": "HS203",
+      "archiveName": "Hồ sơ thi công mái tôn"
+    }
+  ]
+}

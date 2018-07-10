@@ -1,0 +1,66 @@
+{
+  "docFileId": 2,
+  "userId": 201,
+  "userName": "Đặng Khánh Toàn",
+  "createDate": "2017-07-26T04:05:01.722Z",
+  "modifiedDate": "2017-07-26T04:05:01.722Z",
+  "issuerCode": "BGTVT",
+  "issuerName": "Bộ Giao Thông Vận Tải",
+  "codeNo": "TT31/BGTVT",
+  "codeNotation": "TT31",
+  "promulgationDate": "2017-07-22T04:05:01.722Z",
+  "signerInfo": "Trần Đại Quang",
+  "documentType": 1,
+  "typeName": "Văn bản pháp quy",
+  "subject": "Thông tư 31-BGTVT về quy định xây dựng cầu đường bộ VN",
+  "content": "Thông tư 31-BGTVT về quy định xây dựng cầu đường bộ VN",
+  "security": 1,
+  "priority": 0,
+  "pageAmount": 3,
+  "promulgationAmount": 100,
+  "language": "Tiếng Việt",
+  "visibility": 2,
+  "archiveCode": "HS01",
+  "archiveState": "1",
+  "register": 0,
+  "registerDate": "2017-07-30T04:05:01.722Z",
+  "seqNum": 1,
+  "dueDate": "01/08/2017",
+  "status": "0",
+  "approvalDate": "2017-07-25T04:05:01.722Z",
+  "signerUserId": 201,
+  "verified": false,
+  "labels": [
+    {
+      "labelId": 1,
+      "name": "Dự án cầu đường bộ VN",
+      "color": "#0xff0000ff"
+    }
+  ],
+  "links": [
+    {
+      "docFileId": 2,
+      "codeNo": "TT31",
+      "codeNotation": "TT31-BGTVT",
+      "subject": "Thông tư 31-BGTVT",
+      "typeName": ""
+    }
+  ],
+  "activities": [
+    {
+      "activityId": 1,
+      "subject": "Hoạt động triển khai dự án mobilink"
+    }
+  ],
+  "attachs": [
+    {
+      "fileEntryId": 201,
+      "fileName": "Văn bản thông tư",
+      "createdDate": "2017-07-26T04:05:01.722Z",
+      "modifiedDate": "2017-07-26T04:05:01.722Z",
+      "fileType": "doc",
+      "fileSize": 10,
+      "version": "1.0"
+    }
+  ]
+}

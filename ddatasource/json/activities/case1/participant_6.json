@@ -1,0 +1,20 @@
+{
+      "participantId": 106,
+      "createDate": "2017-08-23T14:55:06.349Z",
+      "modifiedDate": "2017-08-23T14:55:06.349Z",
+      "fullName": "Trần Viết Minh",
+      "companyName": "Công ty TNHH DELCO",
+      "telNo": "0978123456",
+      "email": "minhtv@gmail.com",
+      "userMappingId": 206,
+      "participantRole": "Diễn giả",
+      "assignedBy": "Nguyễn Hải Bình",
+      "assignedNote": "Diễn giả",
+      "avaibility": 0,
+      "checkinTime": null,
+      "closedTime": null,
+      "participantNote": "Diễn giả",
+      "nosendEmail": false,
+      "isManager": false,
+      "lastAccess": null
+}

@@ -1,0 +1,149 @@
+{
+  "total": 16,
+  "data": [
+    {
+      "notificationType": "ACTIVITY-01",
+      "modifiedDate": "20/08/2017",
+      "emailSubject": "Mời tham gia hoạt động",
+      "emailBody": "Mời tham gia hoạt động",
+      "textMessage": "Mời tham gia hoạt động",
+        "sendSMS": true,
+  	"sendSMS": false
+    },
+    {
+      "notificationType": "ACTIVITY-02",
+      "modifiedDate": "21/08/2017",
+      "emailSubject": "Cập nhật trạng thái của người tham gia hoạt động",
+      "emailBody": "Cập nhật trạng thái của người tham gia hoạt động",
+      "textMessage": "Cập nhật trạng thái của người tham gia hoạt động",
+        "sendSMS": true,
+  	"sendSMS": false
+    },
+    {
+      "notificationType": "ACTIVITY-03",
+      "modifiedDate": "22/08/2017",
+      "emailSubject": "Cập nhật tài liệu/hình ảnh hoạt động",
+      "emailBody": "Cập nhật tài liệu/hình ảnh hoạt động",
+      "textMessage": "Cập nhật tài liệu/hình ảnh hoạt động",
+        "sendSMS": true,
+  	"sendSMS": false
+    },
+    {
+      "notificationType": "ACTIVITY-04",
+      "modifiedDate": "23/08/2017",
+      "emailSubject": "Cập nhật bình chọn hoạt động",
+      "emailBody": "Cập nhật bình chọn hoạt động",
+      "textMessage": "Cập nhật bình chọn hoạt động",
+        "sendSMS": true,
+  	"sendSMS": false
+    },
+    {
+      "notificationType": "ACTIVITY-05",
+      "modifiedDate": "24/08/2017",
+      "emailSubject": "Cập nhật công việc (checklist)",
+      "emailBody": "Cập nhật công việc (checklist)",
+      "textMessage": "Cập nhật công việc (checklist)",
+        "sendSMS": true,
+  	"sendSMS": false
+    },
+    {
+      "notificationType": "ACTIVITY-07",
+      "modifiedDate": "25/08/2017",
+      "emailSubject": "Cập nhật bình luận mới",
+      "emailBody": "Cập nhật bình luận mới",
+      "textMessage": "Cập nhật bình luận mới",
+        "sendSMS": true,
+  	"sendSMS": false
+    },
+    {
+      "notificationType": "ACTIVITY-08",
+      "modifiedDate": "26/08/2017",
+      "emailSubject": "Nhắc lịch hoạt động đã quá hạn",
+      "emailBody": "Nhắc lịch hoạt động đã quá hạn",
+      "textMessage": "Nhắc lịch hoạt động đã quá hạn",
+        "sendSMS": true,
+  	"sendSMS": false
+    },
+    {
+      "notificationType": "ACTIVITY-09",
+      "modifiedDate": "27/08/2017",
+      "emailSubject": "Cập nhật thời gian địa điểm hoạt động",
+      "emailBody": "Cập nhật thời gian địa điểm hoạt động",
+      "textMessage": "Cập nhật thời gian địa điểm hoạt động",
+        "sendSMS": true,
+  	"sendEmail": false
+    },
+    {
+      "notificationType": "ACTIVITY-10",
+      "modifiedDate": "28/08/2017",
+      "emailSubject": "Cập nhật trạng thái mới của hoạt động",
+      "emailBody": "Cập nhật trạng thái mới của hoạt động",
+      "textMessage": "Cập nhật trạng thái mới của hoạt động",
+        "sendSMS": true,
+  	"sendEmail": false
+    },
+    {
+      "notificationType": "DOCUMENT-01",
+      "modifiedDate": "29/08/2017",
+      "emailSubject": "Mời theo dõi văn bản mới",
+      "emailBody": "Mời theo dõi văn bản mới",
+      "textMessage": "Mời theo dõi văn bản mới",
+        "sendSMS": true,
+  	"sendEmail": false
+    },
+    {
+      "notificationType": "DOCUMENT-02",
+      "modifiedDate": "30/08/2017",
+      "emailSubject": "Yêu cầu xử lý văn bản",
+      "emailBody": "Yêu cầu xử lý văn bản",
+      "textMessage": "Yêu cầu xử lý văn bản",
+        "sendSMS": true,
+  	"sendEmail": false
+    },
+    {
+      "notificationType": "DOCUMENT-03",
+      "modifiedDate": "31/08/2017",
+      "emailSubject": "Lấy ý kiến văn bản",
+      "emailBody": "Lấy ý kiến văn bản",
+      "textMessage": "Lấy ý kiến văn bản",
+        "sendSMS": true,
+  	"sendEmail": false
+    },
+    {
+      "notificationType": "DOCUMENT-04",
+      "modifiedDate": "01/09/2017",
+      "emailSubject": "Cập nhật ý kiến văn bản",
+      "emailBody": "Cập nhật ý kiến văn bản",
+      "textMessage": "Cập nhật ý kiến văn bản",
+        "sendSMS": true,
+  	"sendEmail": false
+    },
+    {
+      "notificationType": "DOCUMENT-05",
+      "modifiedDate": "02/09/2017",
+      "emailSubject": "Cập nhật nội dung văn bản",
+      "emailBody": "Cập nhật nội dung văn bản",
+      "textMessage": "Cập nhật nội dung văn bản",
+        "sendSMS": true,
+  	"sendEmail": false
+    },
+    {
+      "notificationType": "DOCUMENT-06",
+      "modifiedDate": "03/09/2017",
+      "emailSubject": "Nhắc lịch kế hoạch",
+      "emailBody": "Nhắc lịch kế hoạch",
+      "textMessage": "Nhắc lịch kế hoạch",
+        "sendSMS": true,
+  	"sendEmail": false
+    },
+    {
+      "notificationType": "DOCUMENT-07",
+      "modifiedDate": "03/09/2017",
+      "emailSubject": "Cập nhật kế hoạch",
+      "emailBody": "Cập nhật kế hoạch",
+      "textMessage": "Cập nhật kế hoạch",
+        "sendSMS": true,
+  	"sendEmail": false
+    }
+  ]
+}

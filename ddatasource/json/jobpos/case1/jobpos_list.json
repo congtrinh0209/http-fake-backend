@@ -1,0 +1,71 @@
+{
+  "total": 6,
+  "data": [
+    {
+      "jobPosId": 1,
+      "createDate": "2017-08-01T07:16:51.926Z",
+      "modifiedDate": "2017-08-01T07:16:51.926Z",
+      "title": "Nhân viên kinh doanh",
+      "description": "Vị trí nhân viên kinh doanh",
+      "workingUnitId": 1,
+      "workingUnitName": "Phòng Kinh Doanh",
+      "leader": 0,
+      "mappingRoleId": 101
+    },
+    {
+      "jobPosId": 2,
+      "createDate": "2017-08-02T07:16:51.926Z",
+      "modifiedDate": "2017-08-02T07:16:51.926Z",
+      "title": "Trưởng phòng kinh doanh",
+      "description": "Vị trí trưởng phòng kinh doanh",
+      "workingUnitId": 1,
+      "workingUnitName": "Phòng Kinh Doanh",
+      "leader": 1,
+      "mappingRoleId": 102
+    },
+    {
+      "jobPosId": 3,
+      "createDate": "2017-08-03T07:16:51.926Z",
+      "modifiedDate": "2017-08-03T07:16:51.926Z",
+      "title": "Phó phòng kinh doanh",
+      "description": "Vị trí phó phòng kinh doanh",
+      "workingUnitId": 1,
+      "workingUnitName": "Phòng Kinh Doanh",
+      "leader": 2,
+      "mappingRoleId": 103
+    },
+    {
+      "jobPosId": 4,
+      "createDate": "2017-08-04T07:16:51.926Z",
+      "modifiedDate": "2017-08-04T07:16:51.926Z",
+      "title": "Nhân viên",
+      "description": "Vị trí nhân viên",
+      "workingUnitId": 2,
+      "workingUnitName": "Phòng Nhân Sự",
+      "leader": 0,
+      "mappingRoleId": 104
+    },
+    {
+      "jobPosId": 5,
+      "createDate": "2017-08-05T07:16:51.926Z",
+      "modifiedDate": "2017-08-05T07:16:51.926Z",
+      "title": "Trưởng phòng nhân sự",
+      "description": "Trưởng phòng nhân sự",
+      "workingUnitId": 3,
+      "workingUnitName": "Phòng Nhân Sự",
+      "leader": 1,
+      "mappingRoleId": 105
+    },
+    {
+      "jobPosId": 6,
+      "createDate": "2017-08-06T07:16:51.926Z",
+      "modifiedDate": "2017-08-06T07:16:51.926Z",
+      "title": "Phó phòng nhân sự",
+      "description": "Phó phòng nhân sự",
+      "workingUnitId": 3,
+      "workingUnitName": "Phòng Nhân Sự",
+      "leader": 2,
+      "mappingRoleId": 106
+    }
+  ]
+}

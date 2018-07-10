@@ -1,0 +1,14 @@
+{
+	"fileAttachId": 1,
+      "createdDate": "2017-09-18T02:21:32.720Z",
+      "modifiedDate": "2017-09-18T02:21:32.720Z",
+      "fullname": "abc",
+      "email": "abc@gmail.com",
+      "fileName": "file1.txt",
+      "fileType": "txt",
+      "fileSize": 345,
+      "version": "1",
+      "source": "source",
+      "sourceUrl": "source/",
+      "docFileId": 1
+}

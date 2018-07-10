@@ -1,0 +1,18 @@
+{
+      "workingUnitId": 105,
+      "createDate": "2017-07-12T01:53:11.249Z",
+      "modifiedDate": "2017-07-12T01:53:11.249Z",
+      "name": "Bộ phận phát triển PM",
+      "enName": "Bộ phận phát triển PM",
+      "govAgencyCode": "BPPTPM",
+      "parentWorkingUnitId": 201,
+      "address": "Số 3 Tôn Thất  Thuyết",
+      "telNo": "0948345678",
+      "faxNo": "0948345678",
+      "email": "bpkd@fds.vn",
+      "website": "fds.vn",
+      "sibling": 3,
+      "treeIndex": "1.3",
+      "level": 1,
+"ceremonyDate":"2017-07-12T01:53:11.249Z"
+}

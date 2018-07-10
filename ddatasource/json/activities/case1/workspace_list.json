@@ -1,0 +1,25 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "workspaceId": 201,
+      "name": "Dự án Mobilink"
+    },
+    {
+      "workspaceId": 202,
+      "name": "Dự án đường sắt VN"
+    },
+    {
+      "workspaceId": 203,
+      "name": "Dự án đường bộ VN"
+    },
+    {
+      "workspaceId": 204,
+      "name": "Dự án triển khai Mobilink"
+    },
+    {
+      "workspaceId": 204,
+      "name": "Dự án đường thủy nội địa"
+    }
+  ]
+}

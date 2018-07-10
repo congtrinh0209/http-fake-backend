@@ -1,0 +1,91 @@
+{
+  "total": 5,
+  "data": [
+    
+    {"dictItemId":1510,
+      "createDate":"2018-03-01T16:01:53.000Z",
+      "modifiedDate":"2018-03-01T16:01:53.000Z",
+      "itemCode":"EVENT",
+      "itemName":"Các loại sự kiện",
+      "itemNameEN":"Các loại sự kiện",
+      "itemDescription":"Các loại sự kiện",
+      "level":0,
+      "sibling":2,
+      "treeIndex":"0001",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": 1,
+        "itemName": "",
+        "itemNameEN": ""
+      }
+
+    },
+    {"dictItemId":1511,
+      "createDate":"2018-03-01T16:01:53.000Z",
+      "modifiedDate":"2018-03-01T16:01:53.000Z",
+      "itemCode":"EVENT1",
+      "itemName":"Sự kiện triển khai công nghệ cao trong nông nghiệp",
+      "itemNameEN":"Các loại sự kiện",
+      "itemDescription":"Các loại sự kiện",
+      "level":1,
+      "sibling":2,
+      "treeIndex":"0001.001",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": 1,
+        "itemName": "",
+        "itemNameEN": ""
+      }
+
+    },
+    {"dictItemId":1513,
+      "createDate":"2018-03-01T16:01:53.000Z",
+      "modifiedDate":"2018-03-01T16:01:53.000Z",
+      "itemCode":"EVENT2",
+      "itemName":"Giải phóng mặt bằng dự án Khu đô thị mới",
+      "itemNameEN":"Các loại sự kiện",
+      "itemDescription":"Các loại sự kiện",
+      "level":1,
+      "sibling":2,
+      "treeIndex":"0001.002",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": 1,
+        "itemName": "",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId":1514,
+      "createDate":"2018-03-01T16:01:53.000Z",
+      "modifiedDate":"2018-03-01T16:01:53.000Z",
+      "itemCode":"TASK",
+      "itemName":"Các công việc nội bộ của các cơ quan, tổ chức",
+      "itemNameEN":"Các công việc nội bộ của các cơ quan, tổ chức",
+      "itemDescription":"Các công việc nội bộ của các cơ quan, tổ chức",
+      "level":0,
+      "sibling":1,
+      "treeIndex":"0002",
+      "parentItem":""
+    },
+    {
+      "dictItemId":1513,
+      "createDate":"2018-03-01T16:01:53.000Z",
+      "modifiedDate":"2018-03-01T16:01:53.000Z",
+      "itemCode":"TASK1",
+      "itemName":"Các công việc nội bộ 1",
+      "itemNameEN":"Các công việc nội bộ của các cơ quan, tổ chức",
+      "itemDescription":"Các công việc nội bộ của các cơ quan, tổ chức",
+      "level":1,
+      "sibling":1,
+      "treeIndex":"0002.001",
+      "parentItem": {
+        "dictItemId": 0,
+        "itemCode": 2,
+        "itemName": "",
+        "itemNameEN": ""
+      }
+    }
+    
+  ]
+}

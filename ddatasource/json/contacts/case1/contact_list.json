@@ -1,0 +1,137 @@
+{
+  "total": 6,
+  "data": [
+    {
+      "contactId": 101,
+      "createDate": "2017-07-11T01:53:11.249Z",
+      "modifiedDate": "2017-07-11T01:53:11.249Z",
+      "userId":2017,
+      "userName": "Trần Ngọc",
+      "myContact": true,
+      "contactType": 0,
+      "shared": true,
+      "fullName": "Trần Ngọc Sơn",
+      "companyName": "Công ty Delco",
+      "telNo": "0949367788",
+      "email": "sontn@gmail.com",
+      "userMappingId": 0,
+      "groupList": ""
+    },
+    {
+      "contactId": 102,
+      "createDate": "2017-07-11T01:53:11.249Z",
+      "modifiedDate": "2017-07-11T01:53:11.249Z",
+      "userId":2680,
+      "userName": "Trần Ngọc",
+      "myContact": true,
+      "contactType": 0,
+      "shared": true,
+      "fullName": "Đặng Hữu Nam",
+      "companyName": "Công ty Delco",
+      "telNo": "0982372867",
+      "email": "namdh@gmail.com",
+      "userMappingId": 102,
+      "groupList": ""
+    },
+    {
+      "contactId": 103,
+      "createDate": "2017-07-11T01:53:11.249Z",
+      "modifiedDate": "2017-07-11T01:53:11.249Z",
+      "userId":2016,
+      "userName": "Trần Ngọc",
+      "myContact": false,
+      "contactType": 0,
+      "shared": true,
+      "fullName": "Nguyễn Quang Khải",
+      "companyName": "Công ty Delco",
+      "telNo": "098267536",
+      "email": "khainq@gmail.com",
+      "userMappingId": 0,
+      "groupList": ""
+    },
+    {
+      "contactId": 104,
+      "createDate": "2017-07-11T01:53:11.249Z",
+      "modifiedDate": "2017-07-11T01:53:11.249Z",
+      "userId":2017,
+      "userName": "Trần Ngọc",
+      "myContact": false,
+      "contactType": 1,
+      "shared": false,
+      "fullName": "Công ty cổ phần FDS",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "0949234567",
+      "email": "company@fds.vn",
+      "userMappingId": 204,
+      "groupList": ""
+    },
+    {
+      "contactId": 105,
+ 	"createDate": "2017-07-11T01:53:11.249Z",
+ 	"modifiedDate": "2017-07-11T01:53:11.249Z",
+  	"userId":2017,
+  	"userName": "Trần Ngọc",
+	"myContact": false,
+      "contactType": 2,
+      "shared": false,
+      "fullName": "Nhóm danh bạ FDS",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "0949234567",
+      "email": "company@fds.vn",
+      "userMappingId": 205,
+      "groupList": [
+        {
+          "fullName": "Trần Kim Dũng",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "0947234567",
+          "email": "dungtk@fds.vn",
+          "userMappingId": 301
+        },
+        {
+          "fullName": "Tạ Tuấn Anh",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "0947123456",
+          "email": "tuanta@fds.vn",
+          "userMappingId": 101
+        },
+        {
+          "fullName": "Lê Phú Cường",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "0947456789",
+          "email": "cuonglp@fds.vn",
+          "userMappingId": 303
+        },
+        {
+          "fullName": "Nguyễn Hồng Sơn",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "0974345678",
+          "email": "sonnh@fds.vn",
+          "userMappingId": 304
+        },
+        {
+          "fullName": "Nguyễn Xuân Bắc",
+          "companyName": "Công ty cổ phần FDS",
+          "telNo": "098123456",
+          "email": "bacnx@fds.vn",
+          "userMappingId": 305
+        }
+      ]
+    },
+    {
+      "contactId": 106,
+ 	"createDate": "2017-07-11T01:53:11.249Z",
+ 	"modifiedDate": "2017-07-11T01:53:11.249Z",
+  	"userId":2680,
+  	"userName": "Trần Kim Dũng",
+	"myContact": true,
+      "contactType": 0,
+      "shared": true,
+      "fullName": "Trần Kim Dũng",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "0947234567",
+      "email": "dungtk@fds.vn",
+      "userMappingId": 101,
+      "groupList": ""
+    }
+  ]
+}

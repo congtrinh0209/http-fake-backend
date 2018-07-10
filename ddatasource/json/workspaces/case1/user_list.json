@@ -1,0 +1,25 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "userId": 201,
+      "name": "Nguyễn Văn Thành"
+    },
+    {
+      "userId": 202,
+      "name": "Trần Thị Hà"
+    },
+    {
+      "userId": 203,
+      "name": "Đặng Bá Khải"
+    },
+    {
+      "userId": 204,
+      "name": "Nguyễn Hữu Hòa"
+    },
+    {
+      "userId": 205,
+      "name": "Đặng Tiến Minh"
+    }
+  ]
+}

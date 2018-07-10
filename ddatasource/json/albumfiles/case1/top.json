@@ -1,0 +1,44 @@
+{
+  "total": 0,
+  "data": [
+    {
+      "albumFileId": 1,
+      "userId": 1,
+      "createDate": "2017-09-16T16:56:22.552Z",
+      "modifiedDate": "2017-09-16T16:56:22.552Z",
+      "className": "DocFile",
+      "classPK": 1,
+      "fullName": "Nguyen Van Tien",
+      "email": "tiennv@gmail.com",
+      "fileName": "album 01",
+      "fileType": "pdf",
+      "fileSize": 2
+    },
+    {
+      "albumFileId": 2,
+      "userId": 2,
+      "createDate": "2017-09-16T16:56:22.552Z",
+      "modifiedDate": "2017-09-16T16:56:22.552Z",
+      "className": "DocFile",
+      "classPK": 2,
+      "fullName": "Phan Van Thang",
+      "email": "thangnp@gmail.com",
+      "fileName": "album 02",
+      "fileType": "pdf",
+      "fileSize": 5
+    },
+    {
+      "albumFileId": 3,
+      "userId": 3,
+      "createDate": "2017-09-16T16:56:22.552Z",
+      "modifiedDate": "2017-09-16T16:56:22.552Z",
+      "className": "DocFile",
+      "classPK": 3,
+      "fullName": "Tran Van Duan",
+      "email": "duantv@gmail.com",
+      "fileName": "album 03",
+      "fileType": "word",
+      "fileSize": 6
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "commentId": 1,
+  "userId": 3,
+  "createDate": "2017-07-26T04:05:01.722Z",
+  "modifiedDate": "2017-07-26T04:05:01.722Z",
+  "className": "DocFile",
+  "classPK": 101,
+  "fullname": "Nguyễn Văn Huân",
+  "email": "",
+  "parent": 0,
+  "content": "Việc áp dụng Mobilink vào quản lý hoạt động rất ý nghĩa và thuận tiến trong quản lý ",
+  "fileName": "",
+  "fileType": "",
+  "fileUrl": "",
+  "pictureUrl": "/ddatasource/json/comments/profilePicture.jpg",
+  "profileUrl": "/ddatasource/json/comments/profile.json",
+  "pings": 1101,
+  "isNew": false,
+  "upvoteCount": 1,
+  "userHasUpvoted": true,
+  "createdByCurrentUser": true,
+  "opinion": true
+}

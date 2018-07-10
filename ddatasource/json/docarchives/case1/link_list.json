@@ -1,0 +1,47 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "docArchiveLinkId" :1,
+      "createDate": "2017-07-20T04:05:01.722Z",
+      "modifiedDate": "2017-07-20T04:05:01.722Z",
+      "title": "Liên kết công ty 1",
+      "webUrl":"http:/vnexpress.net"
+    },
+    {
+      "docArchiveLinkId" :2,
+      "createDate": "2017-07-21T04:05:01.722Z",
+      "modifiedDate": "2017-07-21T04:05:01.722Z",
+      "title": "Liên kết công ty 2",
+      "webUrl":"http:/vnexpress.net"
+    },
+    {
+      "docArchiveLinkId" :3,
+      "createDate": "2017-07-22T04:05:01.722Z",
+      "modifiedDate": "2017-07-22T04:05:01.722Z",
+      "title": "Liên kết công ty 3",
+      "webUrl":"http:/vnexpress.net"
+    },
+    {
+      "docArchiveLinkId" :4,
+      "createDate": "2017-07-23T04:05:01.722Z",
+      "modifiedDate": "2017-07-23T04:05:01.722Z",
+      "title": "Liên kết công ty 4",
+      "webUrl":"http:/vnexpress.net"
+    },
+    {
+      "docArchiveLinkId" :5,
+      "createDate": "2017-07-24T04:05:01.722Z",
+      "modifiedDate": "2017-07-24T04:05:01.722Z",
+      "title": "Liên kết công ty 5",
+      "webUrl":"http:/vnexpress.net"
+    },
+    {
+      "docArchiveLinkId" :6,
+      "createDate": "2017-07-25T04:05:01.722Z",
+      "modifiedDate": "2017-07-25T04:05:01.722Z",
+      "title": "Liên kết công ty 6",
+      "webUrl":"http:/vnexpress.net"
+    }
+  ]
+}

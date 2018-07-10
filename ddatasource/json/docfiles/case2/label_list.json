@@ -1,0 +1,25 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "labelId": 1,
+      "name": "Dự án mobilink",
+      "color": "#80ff00"
+    },
+     {
+      "labelId": 2,
+      "name": "Dự án đường sắt VN",
+      "color": "#0000ff"
+    },
+     {
+      "labelId": 3,
+      "name": "Dự án đường bộ VN",
+      "color": "#ff8000"
+    },
+     {
+      "labelId": 3,
+      "name": "Dự án đường bộ VN",
+      "color": "#ff8000"
+    }
+  ]
+}

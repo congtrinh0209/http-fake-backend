@@ -1,0 +1,56 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "newsBoardId": 1,
+      "userId": 0,
+      "userName": "admin",
+      "createDate": 1520750682000,
+      "modifiedDate": 1520750682000,
+      "newsType": "NB",
+      "newsCat": "EVENT1",
+      "categoryName": "Thông báo",
+      "title": "Thông báo nộp sổ bảo hiểm xã hội",
+      "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32",
+      "publicationDate": 1520750682000,
+      "expireDate": 1520815482000,
+      "ontop": false,
+      "permission": "read",
+      "visited": false
+    },
+    {
+      "newsBoardId": 2,
+      "userId": 0,
+      "userName": "admin",
+      "createDate": 1523508282000,
+      "modifiedDate": 1523508282000,
+      "newsType": "NB",
+      "newsCat": "EVENT2",
+      "categoryName": "Thông báo",
+      "title": "Thông báo đi du lịch 2018",
+      "content": "Thông báo đi du lịch hè 2018",
+      "publicationDate": 1523508282000,
+      "expireDate": 1523792682000,
+      "ontop": false,
+      "permission": "",
+      "visited": false
+    },
+    {
+      "newsBoardId": 3,
+      "userId": 0,
+      "userName": "admin",
+      "createDate": 1521078282000,
+      "modifiedDate": 1521078282000,
+      "newsType": "NB",
+      "newsCat": "TB",
+      "categoryName": "Thông báo",
+      "title": "Thông báo lịch làm việc tuần 10",
+      "content": "Lịch làm việc tuần 10",
+      "publicationDate": 1521078282000,
+      "expireDate": 1521279882000,
+      "ontop": false,
+      "permission": "",
+      "visited": false
+    }
+  ]
+}

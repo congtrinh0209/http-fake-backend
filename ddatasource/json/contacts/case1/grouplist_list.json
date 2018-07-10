@@ -1,0 +1,40 @@
+{
+  "total": 0,
+  "data": [
+    {
+      "contactId": 201,
+      "fullName": "Trần Kim Dũng",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "0947234567",
+      "email": "dungtk@fds.vn"
+    },
+    {
+      "contactId": 202,
+      "fullName": "Tạ Tuấn Anh",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "0947123456",
+      "email": "tuanta@fds.vn"
+    },
+    {
+      "contactId": 203,
+      "fullName": "Lê Phú Cường",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "0947456789",
+      "email": "cuonglp@fds.vn"
+    },
+    {
+      "contactId": 204,
+      "fullName": "Nguyễn Hồng Sơn",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "0974345678",
+      "email": "sonnh@fds.vn"
+    },
+    {
+      "contactId": 205,
+      "fullName": "Nguyễn Xuân Bắc",
+      "companyName": "Công ty cổ phần FDS",
+      "telNo": "098123456",
+      "email": "bacnx@fds.vn"
+    }
+  ]
+}

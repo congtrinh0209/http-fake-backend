@@ -1,0 +1,103 @@
+{
+  "activityId": 1,
+  "userId": 2001,
+  "userName": "useradmin",
+  "createDate": "2017-07-16T12:10:42.742Z",
+  "modifiedDate": "2017-07-16T12:10:42.742Z",
+  "activityType": "TASK",
+  "activityCat": "TASK_FDS",
+  "categoryName": "Nhóm hoạt động công việc FDS",
+  "activityNo": "A_TASK101",
+  "templateNo": "A_TASK101",
+  "subject": "Họp triển khai dự án Mobilink cho DELCO",
+  "hosting": "Trần Kim Dũng",
+  "hostingId": 1,
+  "location": "Số 3 Tôn Thất Thuyết, Tòa nhà VAPA",
+  "locationId": 101,
+  "invitation": "Trịnh Công Trình, Lê Tiến Hoàn",
+  "managerId": 101,
+  "geolocation": "21.028509, 105.780758",
+  "startDate": "2017-07-16T12:10:42.742Z",
+  "endDate": "2017-07-18T12:10:42.742Z",
+  "dueDate": "2017-07-18T12:10:42.742Z",
+  "visibility": 2,
+  "priority": 1,
+  "openingState": 1,
+  "activityStatus": "Hoạt động đang diễn ra",
+  "onCalendar": true,
+  "personal": false,
+  "isTemplate": 0,
+  "isNew": true,
+  "overdue": 0,
+  "permission": "0",
+  "participantStatus": "",
+  "participantsCount": 10,
+  "documentsCount": 5,
+  "commentsCount": 20,
+  "checklistsCount": 3,
+  "finishedCount": 1,
+  "votingsCount": 10,
+  "states": [
+    {
+      "activityStateId": 201,
+      "activityStatus": "Hoạt động đang diễn ra",
+      "seqOrder": 1,
+      "color": "#80ff00",
+      "currentState": true
+    }
+  ],
+  "participators": [
+    {
+      "workingUnitId": 1,
+      "name": "Hội đồng quản trị"
+    },
+    {
+      "workingUnitId": 2,
+      "name": "Bộ phận kinh doanh"
+    }
+  ],
+  "description":"Nội dung mô tả",
+  "myParticipant": {
+    "participantId": 201,
+    "participantRole": "xử lý công việc",
+    "assignedBy": null,
+    "assignedNote": "xử lý công việc",
+    "avaibility": 1,
+    "checkinTime": "2017-07-16T12:10:42.742Z",
+    "checkinNote": "",
+    "closedTime": "2017-07-18T12:10:42.742Z",
+    "closedNote": "",
+    "nosendEmail": false
+  },
+  "contact": {
+    "contactId": 101,
+    "fullName": "Trần Ngọc Sơn",
+    "companyName": "",
+    "telNo": "",
+    "email": "",
+    "userMappingId": 0
+  },
+  "labels": [
+    {
+      "labelId": 102,
+      "name": "Dự án mobilink",
+      "color": "#80ff00"
+    }
+  ],
+  "workspaces": [
+    {
+      "workspaceId": 201,
+      "name": "Triển khai Mobilink"
+    }
+  ],
+  "links": [
+    {
+      "activityId": 201,
+      "subject": "Triển khai phần mềm",
+      "hosting": "Tạ Hữu Bình",
+      "openingState": 0,
+      "activityStatus": "Hoạt động đang diễn ra",
+      "relation": 2
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "createDate": 20180625042020,
+      "menuGroup": "ho_so_mot_cua",
+      "menuName": "HỒ SƠ MỘT CỬA",
+      "menuType": 1,
+      "order": 1,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=110,120",
+      "steps": [
+        {
+          "buttonConfig": "[\t{\t   \"title\": \"Bàn giao thụ lý\",\t   \"form\": \"ACTION_01\",\t   \"action\": \"2001\"\t},\t{\t   \"title\": \"Từ chối tiếp nhận\",\t   \"form\": \"ACTION_02\",\t   \"action\": \"4200\"\t},\t{\t   \"title\": \"Yêu cầu hoàn thiện\",\t   \"form\": \"ACTION_02\",\t   \"action\": \"5000\"\t},\t{\t   \"title\": \"In phiếu biên nhận\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_01\"\t},\t{\t   \"title\": \"In phiếu kiểm soát\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_06\"\t},\t{\t   \"title\": \"In biên bản bàn giao\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_04\"\t},\t{\t   \"title\": \"Sao chép hồ sơ\",\t   \"form\": \"COPY\"\t},\t{\t   \"title\": \"Sửa chữa hồ sơ\",\t   \"form\": \"UPDATE\"\t},\t{\t   \"title\": \"Xem chi tiết\",\t   \"form\": \"VIEW_01\"\t}]",
+          "dossierStatus": "new",
+          "dossierSubStatus": "new_0",
+          "menuStepName": "Bàn giao hồ sơ",
+          "stepCode": 110,
+          "stepName": "Bàn giao hồ sơ"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "new",
+          "dossierSubStatus": "new_2",
+          "menuStepName": "Yêu cầu rút",
+          "stepCode": 120,
+          "stepName": "Yêu cầu rút"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625041945,
+      "menuGroup": "ho_so_truc_tuyen",
+      "menuName": "HỒ SƠ TRỰC TUYẾN",
+      "menuType": 1,
+      "order": 2,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=130,140,150",
+      "steps": [
+        {
+          "buttonConfig": "",
+          "dossierStatus": "receiving",
+          "dossierSubStatus": "receiving_0",
+          "menuStepName": "Tiếp nhận lần đầu",
+          "stepCode": 130,
+          "stepName": "Tiếp nhận lần đầu"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "receiving",
+          "dossierSubStatus": "receiving_1",
+          "menuStepName": "Tiếp nhận bổ sung",
+          "stepCode": 140,
+          "stepName": "Tiếp nhận bổ sung"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "receiving",
+          "dossierSubStatus": "receiving_2",
+          "menuStepName": "Rút hồ sơ",
+          "stepCode": 150,
+          "stepName": "Rút hồ sơ"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625041951,
+      "menuGroup": "hoan_thien_bo_sung",
+      "menuName": "HOÀN THIỆN, BỔ SUNG",
+      "menuType": 1,
+      "order": 3,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=500,510,520",
+      "steps": [
+        {
+          "buttonConfig": "",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_0",
+          "menuStepName": "Chờ hoàn thiện",
+          "stepCode": 500,
+          "stepName": "Chờ hoàn thiện"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_1",
+          "menuStepName": "Chờ bổ sung",
+          "stepCode": 510,
+          "stepName": "Chờ bổ sung"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_4",
+          "menuStepName": "Bàn giao bổ sung",
+          "stepCode": 520,
+          "stepName": "Bàn giao bổ sung"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625041955,
+      "menuGroup": "thu_ly_giai_quyet",
+      "menuName": "THỤ LÝ GIẢI QUYẾT",
+      "menuType": 1,
+      "order": 4,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=200,2xx",
+      "steps": [
+        {
+          "buttonConfig": "",
+          "dossierStatus": "processing",
+          "dossierSubStatus": "processing_00",
+          "menuStepName": "Bắt đầu thụ lý",
+          "stepCode": 200,
+          "stepName": "Bắt đầu thụ lý"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "processing",
+          "dossierSubStatus": "processing_xx",
+          "menuStepName": "Bước thụ lý khác",
+          "stepCode": "2xx",
+          "stepName": "Bước thụ lý khác"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625041959,
+      "menuGroup": "ke_hoach_thuc_dia",
+      "menuName": "KẾ HOẠCH THỰC ĐỊA",
+      "menuType": 1,
+      "order": 5,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=330,332",
+      "steps": [
+        {
+          "buttonConfig": "",
+          "dossierStatus": "inspecting",
+          "dossierSubStatus": "inspecting_0",
+          "menuStepName": "Chờ xác nhận kế hoạch",
+          "stepCode": 330,
+          "stepName": "Chờ xác nhận kế hoạch"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "inspecting",
+          "dossierSubStatus": "inspecting_1",
+          "menuStepName": "Đề nghị điều chỉnh kế hoạch",
+          "stepCode": 332,
+          "stepName": "Đề nghị điều chỉnh kế hoạch"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180622045348,
+      "menuGroup": "tam_dung_thu_ly",
+      "menuName": "TẠM DỪNG THỤ LÝ",
+      "menuType": 1,
+      "order": 6,
+      "queryParams": "\/o\/rest\/v2\/dossiers?online=false&status=new&step=110,120",
+      "steps": {
+        "buttonConfig": "",
+        "dossierStatus": "inspecting",
+        "dossierSubStatus": "inspecting_2",
+        "menuStepName": "Tạm dừng thụ lý",
+        "stepCode": 340,
+        "stepName": "Tạm dừng thụ lý"
+      },
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625042004,
+      "menuGroup": "tra_ket_qua",
+      "menuName": "TRẢ KẾT QUẢ",
+      "menuType": 1,
+      "order": 7,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=300,301",
+      "steps": [
+        {
+          "buttonConfig": "",
+          "dossierStatus": "releasing",
+          "dossierSubStatus": "releasing_0",
+          "menuStepName": "Theo hẹn trả",
+          "stepCode": 300,
+          "stepName": "Trả đúng hạn"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "releasing",
+          "dossierSubStatus": "releasing_1",
+          "menuStepName": "Hẹn trả sớm",
+          "stepCode": 301,
+          "stepName": "Trả trước hạn"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625042007,
+      "menuGroup": "chuyen_phat_buu_chinh",
+      "menuName": "CHUYỂN PHÁT BƯU CHÍNH",
+      "menuType": 1,
+      "order": 8,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=310,311",
+      "steps": [
+        {
+          "buttonConfig": "",
+          "dossierStatus": "posting",
+          "dossierSubStatus": "posting_0",
+          "menuStepName": "Chờ gửi bưu chính",
+          "stepCode": 310,
+          "stepName": "Chờ chuyển phát"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "posting",
+          "dossierSubStatus": "posting_1",
+          "menuStepName": "Đang chuyển phát",
+          "stepCode": 311,
+          "stepName": "Đang chuyển phát"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625042009,
+      "menuGroup": "ho_so_lien_thong",
+      "menuName": "HỒ SƠ LIÊN THÔNG",
+      "menuType": 1,
+      "order": 9,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=320,321,322",
+      "steps": [
+        {
+          "buttonConfig": "",
+          "dossierStatus": "interoperating",
+          "dossierSubStatus": "interoperating_0",
+          "menuStepName": "Chờ chuyển phát",
+          "stepCode": 320,
+          "stepName": "Chờ chuyển phát"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "interoperating",
+          "dossierSubStatus": "interoperating_1",
+          "menuStepName": "Đang xử lý",
+          "stepCode": 321,
+          "stepName": "Đang xử lý"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "interoperating",
+          "dossierSubStatus": "interoperating_2",
+          "menuStepName": "Chờ bàn giao",
+          "stepCode": 322,
+          "stepName": "Chờ bàn giao"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625042012,
+      "menuGroup": "thu_phi",
+      "menuName": "THU PHÍ",
+      "menuType": 1,
+      "order": 10,
+      "queryParams": "\/o\/rest\/v2\/dossiers?step=600,610",
+      "steps": [
+        {
+          "buttonConfig": "",
+          "dossierStatus": "paying",
+          "dossierSubStatus": "paying_0",
+          "menuStepName": "Chờ nộp phí",
+          "stepCode": 600,
+          "stepName": "Chờ nộp phí"
+        },
+        {
+          "buttonConfig": "",
+          "dossierStatus": "paying",
+          "dossierSubStatus": "paying_2",
+          "menuStepName": "Chờ xác nhận",
+          "stepCode": 610,
+          "stepName": "Chờ xác nhận"
+        }
+      ],
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180622045405,
+      "menuGroup": "cham_han_tra",
+      "menuName": "CHẬM HẠN TRẢ",
+      "menuType": 2,
+      "order": 11,
+      "queryParams": "\/o\/rest\/v2\/dossiers?online=false&status=new&step=110,120",
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625041842,
+      "menuGroup": "qua_han_tra",
+      "menuName": "QUÁ HẠN TRẢ",
+      "menuType": 2,
+      "order": 12,
+      "queryParams": "\/dossiers?top=overdue&access=true",
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625041910,
+      "menuGroup": "sap_den_han",
+      "menuName": "SẮP ĐẾN HẠN",
+      "menuType": 2,
+      "order": 13,
+      "queryParams": "\/dossiers?top=coming&access=true",
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    },
+    {
+      "createDate": 20180625041854,
+      "menuGroup": "quay_lui_xu_ly",
+      "menuName": "QUAY LUI XỬ LÝ",
+      "menuType": 2,
+      "order": 14,
+      "queryParams": "\/dossiers\/todo?rollback=true",
+      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+    }
+  ],
+  "total": 14
+}

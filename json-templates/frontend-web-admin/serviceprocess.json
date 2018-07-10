@@ -1,0 +1,12 @@
+{
+  "serviceProcessId": 1,
+  "processNo": "lorem",
+  "description": "lorem",
+  "durationCount": 1,
+  "durationUnit": 0,
+  "counter": 3,
+  "generateDossierNo": false,
+  "dossierNoPattern": "lorem",
+  "generateDueDate": false,
+  "dueDatePattern": "lorem"
+}

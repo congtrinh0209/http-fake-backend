@@ -1,0 +1,62 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "paymentConfigId": 1,
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "govAgencyTaxNo": "lorem",
+      "invoiceTemplateNo": "lorem",
+      "invoiceIssueNo": "lorem",
+      "invoiceLastNo": "lorem",
+      "bankInfo": "lorem",
+      "placeInfo": "lorem",
+      "paymentDomain": "lorem",
+      "paymentVersion": "lorem",
+      "paymentMerchantCode": "lorem",
+      "paymentSecureKey": "lorem",
+      "reportTemplate": "lorem",
+      "paymentGateType": "lorem",
+      "returnUrl": "lorem",
+      "paymentConfigNo": "lorem"
+    },
+    {
+      "paymentConfigId": 2,
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "govAgencyTaxNo": "lorem",
+      "invoiceTemplateNo": "lorem",
+      "invoiceIssueNo": "lorem",
+      "invoiceLastNo": "lorem",
+      "bankInfo": "lorem",
+      "placeInfo": "lorem",
+      "paymentDomain": "lorem",
+      "paymentVersion": "lorem",
+      "paymentMerchantCode": "lorem",
+      "paymentSecureKey": "lorem",
+      "reportTemplate": "lorem",
+      "paymentGateType": "lorem",
+      "returnUrl": "lorem",
+      "paymentConfigNo": "lorem"
+    },
+    {
+      "paymentConfigId": 3,
+      "govAgencyCode": "lorem",
+      "govAgencyName": "lorem",
+      "govAgencyTaxNo": "lorem",
+      "invoiceTemplateNo": "lorem",
+      "invoiceIssueNo": "lorem",
+      "invoiceLastNo": "lorem",
+      "bankInfo": "lorem",
+      "placeInfo": "lorem",
+      "paymentDomain": "lorem",
+      "paymentVersion": "lorem",
+      "paymentMerchantCode": "lorem",
+      "paymentSecureKey": "lorem",
+      "reportTemplate": "lorem",
+      "paymentGateType": "lorem",
+      "returnUrl": "lorem",
+      "paymentConfigNo": "lorem"
+    }
+  ]
+}

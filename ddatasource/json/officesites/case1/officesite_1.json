@@ -1,0 +1,22 @@
+{
+  "officeSiteId": 201,
+  "createDate": "2017-07-26T04:05:01.722Z",
+  "modifiedDate": "2017-07-26T04:05:01.722Z",
+  "name": "Bộ giao thông vận tải",
+  "enName": "Bộ giao thông vận tải",
+  "govAgencyCode": "GOVERMENT_AGENCY",
+  "address": "Số 120, Xuân Thủy, Cầu Giấy",
+  "telNo": "0947837483",
+  "faxNo": "0947837483",
+  "email": "gtvtvn@gmail.com",
+  "website": "gtvt.vn",
+  "siteGroup": {
+    "groupId": 101,
+    "groupName": "Cơ quan tổ chức"
+  },
+  "adminUser": {
+    "userId": 301,
+    "screenName": "GTVTAdmin",
+    "email": "gtvtadmin@gmail.com"
+  }
+}

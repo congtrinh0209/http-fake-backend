@@ -1,0 +1,65 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "serviceConfigId": "101",
+      "serviceCode": "101-SVCODE",
+      "serviceName": "Service 101",
+      "govAgencyCode": "101-GOVCODE",
+      "govAgencyName": "",
+      "options": [
+        {
+          "processOptionId": "101-PRCID1", 
+          "optionName": "Option 101-1",
+          "instructionNote": "",
+          "templateNo": "101-TPN1",
+          "templateName": ""
+        },
+        {
+          "processOptionId": "101-PRCID2", 
+          "optionName": "Option 101-2",
+          "instructionNote": "",
+          "templateNo": "101-TPN2",
+          "templateName": ""
+        }
+      ]  
+    },{
+      "serviceConfigId": "102",
+      "serviceCode": "102-SVCODE",
+      "serviceName": "Service 102",
+      "govAgencyCode": "102-GOVCODE",
+      "govAgencyName": "",
+      "options": [
+        {
+          "processOptionId": "102-PRCID1", 
+          "optionName": "Option 102-1",
+          "instructionNote": "",
+          "templateNo": "102-TPN1",
+          "templateName": ""
+        },
+        {
+          "processOptionId": "102-PRCID2", 
+          "optionName": "Option 102-2",
+          "instructionNote": "",
+          "templateNo": "102-TPN2",
+          "templateName": ""
+        }
+      ] 
+    },{
+      "serviceConfigId": "103",
+      "serviceCode": "103-SVCODE",
+      "serviceName": "Service 103",
+      "govAgencyCode": "103-GOVCODE",
+      "govAgencyName": "",
+      "options": [
+        {
+          "processOptionId": "103-PRCID1", 
+          "optionName": "Option 103-1",
+          "instructionNote": "",
+          "templateNo": "101-TPN2",
+          "templateName": ""
+        }
+      ] 
+    }
+  ]
+}

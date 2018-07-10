@@ -1,0 +1,40 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "jobPosId": 101,
+      "title": "Trưởng phòng kinh doanh",
+      "workingUnitId": 0,
+      "workingUnitName": "Bộ phận kinh doanh",
+      "mainJobPos": false
+    },
+    {
+      "jobPosId": 102,
+      "title": "Trưởng phòng hành chính",
+      "workingUnitId": 0,
+      "workingUnitName": "Bộ phận hành chính",
+      "mainJobPos": false
+    },
+    {
+      "jobPosId": 103,
+      "title": "Trưởng phòng phát triển PM",
+      "workingUnitId": 0,
+      "workingUnitName": "Bộ phận phát triển PM",
+      "mainJobPos": false
+    },
+    {
+      "jobPosId": 104,
+      "title": "Kế toán trưởng",
+      "workingUnitId": 0,
+      "workingUnitName": "Bộ phận kế toán",
+      "mainJobPos": false
+    },
+    {
+      "jobPosId": 105,
+      "title": "Nhân viên lập trình",
+      "workingUnitId": 0,
+      "workingUnitName": "Bộ phận nhân viên",
+      "mainJobPos": false
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+   "total": 5,
+  "data": [
+    {
+      "docFileId": 1,
+      "userId": 201,
+      "userName": "Đặng Quốc Việt",
+      "createDate": "25/07/2017",
+      "modifiedDate": "25/07/2017",
+      "issuerCode": "BGTVT",
+      "issuerName": "Bộ Giao Thông Vận Tải",
+      "codeNo": "TT30/BGTVT",
+      "codeNotation": "TT30",
+      "promulgationDate": "20/07/2010",
+      "signerInfo": "Trần Đại Quang",
+      "documentType": 1,
+      "typeName": "",
+      "subject": "Thông tư 30-BGTVT về quy định xây dựng cầu đường bộ VN",
+      "templateNo": "0",
+      "register": 0,
+      "registerDate": "26/07/2017",
+      "seqNum": 0,
+      "dueDate": "27/07/2017",
+      "status": "0",
+      "isTemplate": false,
+      "isNew": false,
+      "overdue": 0,
+      "permission": "",
+      "labels": [
+        {
+          "labelId": 1,
+          "name": "Dự án mobilink",
+          "color": "#0xff0000ff"
+        }
+      ]
+    },
+    {
+      "docFileId": 2,
+      "userId": 201,
+      "userName": "Đặng Khánh Toàn",
+      "createDate": "26/07/2017",
+      "modifiedDate": "26/07/2017",
+      "issuerCode": "BGTVT",
+      "issuerName": "Bộ Giao Thông Vận Tải",
+      "codeNo": "TT31/BGTVT",
+      "codeNotation": "TT31",
+      "promulgationDate": "22/07/2010",
+      "signerInfo": "Trần Đại Quang",
+      "documentType": 1,
+      "typeName": "",
+      "subject": "Thông tư 31-BGTVT về quy định xây dựng cầu đường bộ VN",
+      "templateNo": "0",
+      "register": 0,
+      "registerDate": "30/07/2017",
+      "seqNum": 2,
+      "dueDate": "01/08/2017",
+      "status": "0",
+      "isTemplate": false,
+      "isNew": false,
+      "overdue": 0,
+      "permission": "",
+      "labels": [
+        {
+          "labelId": 1,
+          "name": "Dự án cầu đường bộ VN",
+          "color": "#0xff0000ff"
+        }
+      ]
+    },
+    {
+      "docFileId": 3,
+      "userId": 201,
+      "userName": "Nguyễn Tiến Thành",
+      "createDate": "16/07/2017",
+      "modifiedDate": "16/07/2017",
+      "issuerCode": "BGTVT",
+      "issuerName": "Tổng Cục Đường Bộ VN",
+      "codeNo": "ND31/BGTVT",
+      "codeNotation": "ND31",
+      "promulgationDate": "18/07/2010",
+      "signerInfo": "Phan Văn Hiển",
+      "documentType": 1,
+      "typeName": "",
+      "subject": "Nghị định 31-BGTVT về quy định lập dự toán về dự án đường thủy",
+      "templateNo": "0",
+      "register": 0,
+      "registerDate": "28/07/2017",
+      "seqNum": 0,
+      "dueDate": "30/08/2017",
+      "status": "0",
+      "isTemplate": false,
+      "isNew": false,
+      "overdue": 0,
+      "permission": "",
+      "labels": [
+        {
+          "labelId": 1,
+          "name": "Dự án đường thủy",
+          "color": "#0xff0000ff"
+        }
+      ]
+    },
+    {
+      "docFileId": 4,
+      "userId": 201,
+      "userName": "Phan Hồng Thanh",
+      "createDate": "11/07/2017",
+      "modifiedDate": "11/07/2017",
+      "issuerCode": "BGTVT",
+      "issuerName": "Tổng Cục Đường Bộ VN",
+      "codeNo": "QD02/BGTVT",
+      "codeNotation": "QD02",
+      "promulgationDate": "20/07/2010",
+      "signerInfo": "Chu Văn Hiển",
+      "documentType": 1,
+      "typeName": "",
+      "subject": "Quyết định 02-BGTVT về quy định điều phối dự án trọng điểm",
+      "templateNo": "0",
+      "register": 0,
+      "registerDate": "28/07/2017",
+      "seqNum": 0,
+      "dueDate": "30/08/2017",
+      "status": "0",
+      "isTemplate": false,
+      "isNew": false,
+      "overdue": 0,
+      "permission": "",
+      "labels": [
+        {
+          "labelId": 1,
+          "name": "Dự án trọng điểm",
+          "color": "#0xff0000ff"
+        }
+      ]
+    },
+    {
+      "docFileId": 5,
+      "userId": 201,
+      "userName": "Đặng Hữu Toàn",
+      "createDate": "12/08/2017",
+      "modifiedDate": "12/08/2017",
+      "issuerCode": "BGTVT",
+      "issuerName": "Tổng Cục Đường Bộ VN",
+      "codeNo": "QD05/BGTVT",
+      "codeNotation": "QD05",
+      "promulgationDate": "20/08/2010",
+      "signerInfo": "Chu Văn Hiển",
+      "documentType": 1,
+      "typeName": "",
+      "subject": "Quyết định 05-BGTVT về quy định áp dụng kinh phí dự phòng",
+      "templateNo": "0",
+      "register": 0,
+      "registerDate": "28/07/2017",
+      "seqNum": 0,
+      "dueDate": "30/08/2017",
+      "status": "0",
+      "isTemplate": false,
+      "isNew": false,
+      "overdue": 0,
+      "permission": "",
+      "labels": [
+        {
+          "labelId": 1,
+          "name": "kinh phí dự phòng",
+          "color": "#0xff0000ff"
+        }
+      ]
+    }
+  ]
+}

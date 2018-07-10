@@ -1,0 +1,23 @@
+{
+  "getListThuTucHanhChinh": "http://127.0.0.1:8081/api/onegate/serviceconfigs/processes",
+  "serviceInfoApi": "http://127.0.0.1:8081/api/serviceinfos",
+  "serviceConfigApi": "http://127.0.0.1:8081/api/onegate/serviceconfigs/processes",
+  "dossierTemplatesApi": "http://127.0.0.1:8081/api/dossiertemplates",
+  "groupId": "55301",
+  "regionApi": "http://127.0.0.1:8081/api/dictcollections",
+  "counterMenuStep": "http://127.0.0.1:8081/api/statistics/dossiers/counting",
+  "dossierlogsApi": "http://127.0.0.1:8081/api/dossierlogs",
+  "dossierApi": "http://127.0.0.1:8081/api/dossiers",
+  "applicantApi": "http://127.0.0.1:8081/api/applicant",
+  "cps_auth": "b5be25f5-185c-8a78-a37c-fed50fe58204",
+  "postDossierApi": "http://127.0.0.1:8081/api/onegate",
+  "menuConfigToDo": "http://127.0.0.1:8081/api/menuconfigs/todo",
+  "getNextAction": "http://127.0.0.1:8081/api/dossiers",
+  "commentApi": "http://127.0.0.1:8081/api/comments",
+  "user": {
+    "defaultUser": false,
+    "userEmail": "contrinh0209@gmail.com",
+    "userName": "Trịnh Công Trình",
+    "userId": "20164"
+  }
+}

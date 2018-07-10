@@ -1,0 +1,35 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "changeLogId": 1,
+      "userId": 1,
+      "createDate": "2017-09-18T02:54:02.608Z",
+      "fullName": "",
+      "email": "",
+      "content": "abc",
+      "logType": "create",
+      "payload": ""
+    },
+   {
+      "changeLogId": 2,
+      "userId": 3,
+      "createDate": "2017-09-18T02:54:02.608Z",
+      "fullName": "",
+      "email": "",
+      "content": "abc fdsfsdf sdf",
+      "logType": "update",
+      "payload": ""
+    },
+   {
+      "changeLogId": 3,
+      "userId": "",
+      "createDate": "2017-09-18T02:54:02.608Z",
+      "fullName": "nguyễn văn a",
+      "email": "nguyenvana@gmail.com",
+      "content": "abc fdsfsdf sdf",
+      "logType": "delete",
+      "payload": ""
+    }
+  ]
+}

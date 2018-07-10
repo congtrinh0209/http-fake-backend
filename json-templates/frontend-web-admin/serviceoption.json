@@ -1,0 +1,14 @@
+{
+  "serviceConfigId": 1,
+  "optionCode": "lorem",
+  "optionName": "lorem",
+  "optionOrder": 1,
+  "autoSelect": "lorem",
+  "dossierTemplateId": 3,
+  "serviceProcessId": 3,
+  "processNo": "lorem",
+  "processDescription": "lorem",
+  "templateName": "lorem",
+  "templateNo": "lorem",
+  "instructionNote": "lorem"
+}

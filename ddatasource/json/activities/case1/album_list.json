@@ -1,0 +1,35 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "fileEntryId": 101,
+      "filename": "album1.doc",
+      "fileType": "doc",
+      "fileSize": 3
+    },
+    {
+      "fileEntryId": 102,
+      "filename": "album2.doc",
+      "fileType": "doc",
+      "fileSize": 5
+    },
+    {
+      "fileEntryId": 103,
+      "filename": "album3.pdf",
+      "fileType": "pdf",
+      "fileSize": 10
+    },
+    {
+      "fileEntryId":104,
+      "filename": "album4.docx",
+      "fileType": "docx",
+      "fileSize": 6
+    },
+    {
+      "fileEntryId": 105,
+      "filename": "album5.png",
+      "fileType": "png",
+      "fileSize": 10
+    }
+  ]
+}

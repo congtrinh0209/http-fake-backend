@@ -1,0 +1,45 @@
+{
+  "votingId": 1,
+  "userId": 201,
+  "userName": "huannv",
+  "createDate": "2017-07-26T04:05:01.722Z",
+  "modifiedDate": "2017-07-26T04:05:01.722Z",
+  "className": "DocFile",
+  "classPK": 102,
+  "subject": "Bầu chọn ý kiến đi du lịch hè 2017 cho 3 địa điểm",
+  "answers": ["Tôi chọn địa điểm Quan Lạng","Tôi chọn địa điểm Vân Đồn","Tôi chọn địa điểm Cát Bà"],
+  "dueDate": "02/08/2017",
+  "createdByCurrentUser": true,
+  "results": [
+    {
+      "votingResultId": 1,
+      "modifiedDate": "2017-07-27T04:05:01.722Z",
+      "toUserId": 202,
+      "fullname": "Nguyễn Văn Huân",
+      "email": "huannv@gmail.com",
+      "comment": "Cát Bà là địa điểm phù hợp và rất đẹp",
+      "selected": 1,
+      "selectedByCurrentUser": false
+    },    
+    {
+      "votingResultId": 2,
+      "modifiedDate": "2017-07-29T04:05:01.722Z",
+      "toUserId": 203,
+      "fullname": "Trần Văn Hoàn",
+      "email": "hoantv@gmail.com",
+      "comment": "Cát Bà tôi thấy rất hoang sơ và thoải mái để tắm biển",
+      "selected": 1,
+      "selectedByCurrentUser": false
+    }
+    {
+      "votingResultId": 3,
+      "modifiedDate": "2017-08-01T04:05:01.722Z",
+      "toUserId": 204,
+      "fullname": "Bùi Tiến Dũng",
+      "email": "dungbt@gmail.com",
+      "comment": "Vân Đồn rất nhiều dịch vụ để thưởng thức, tôi chọn Vân Đồn",
+      "selected": 3,
+      "selectedByCurrentUser": false
+    }
+  ]
+}

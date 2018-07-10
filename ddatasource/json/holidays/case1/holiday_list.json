@@ -1,0 +1,21 @@
+{
+  "total": 4,
+  "data": [
+    {
+      "holidayDate": "2017-04-30",
+      "description": "Ngày nghĩ lễ giải phóng miền nam"
+    },
+    {
+      "holidayDate": "2017-05-01",
+      "description": "Ngày nghĩ lệ quốc tế lao động"
+    },
+    {
+      "holidayDate": "2017-03-10",
+      "description": "Ngày nghĩ lệ giỗ tổ Hùng Vương"
+    },
+    {
+      "holidayDate": "2017-01-28",
+      "description": "Ngày nghĩ lễ tết nguyên đán"
+    }
+  ]
+}

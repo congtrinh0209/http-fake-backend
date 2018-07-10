@@ -1,0 +1,17 @@
+{
+  "newsBoardId": 1,
+  "userId": 0,
+  "userName": "admin",
+  "createDate": "2018-03-05T03:23:51.128Z",
+  "modifiedDate": "2018-03-05T03:23:51.128Z",
+  "newsType": "NB",
+  "newsCat": "TB",
+  "categoryName": "Thông báo",
+  "title": "Thông báo nộp sổ bảo hiểm xã hội",
+  "content": "nộp sổ bảo hiểm xã hội",
+  "publicationDate": "2018-03-14T03:23:51.129Z",
+  "expireDate": "2018-03-19T03:23:51.129Z",
+  "ontop": false,
+  "permission": "",
+  "visited": false
+}

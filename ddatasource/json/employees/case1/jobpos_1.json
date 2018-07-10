@@ -1,0 +1,9 @@
+{
+"employeeJobPosId":1,
+  "workingUnitId": 0,
+  "workingUnitName": "Bộ phận kinh doanh",
+  "leader": 0,
+  "jobPosId": 101,
+  "jobPosTitle": "Trưởng phòng kinh doanh",
+  "mainJobPos": false
+}

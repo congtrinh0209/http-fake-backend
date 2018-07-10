@@ -1,0 +1,14 @@
+{
+	"dossierPartId": 4,
+	"templateNo": "lorem",
+	"partNo": "lorem",
+	"partName": "lorem",
+	"partTip": "lorem",
+	"partType": 1,
+	"multiple": true,
+	"formScript": "lorem",
+	"sampleData": "lorem",
+	"required": true,
+	"fileTemplateNo": "1-lorem",
+	"eSign": false
+}

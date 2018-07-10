@@ -1,0 +1,19 @@
+{
+  "partnerId": 101,
+  "createDate": "2017-07-11T07:45:06.893Z",
+  "modifiedDate": "2017-07-11T07:45:06.894Z",
+  "name": "Tiến",
+  "address": "Số 3 Tôn thất thuyết",
+  "telNo": "09843456",
+  "faxNo": "04-029843456",
+  "email": "tiennv@gmail.com",
+  "website": "vnexpress.net",
+  "partnerClass": "DTTN",
+  "partnerClassName": "Đối tác tiềm năng",
+  "mappingUser": 
+  {
+    "userId": 201,
+    "screenName": "Nguyễn Văn Tiến",
+    "locking": false
+  }
+}

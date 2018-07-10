@@ -1,0 +1,77 @@
+{
+    "total": 8,
+    "data": [
+        {
+            "userId": 57801,
+            "email": "dungtk@fds.vn",
+            "fullName": "Trần Kiêm Dũng",
+            "userClass": "com.liferay.portal.kernel.model.User",
+            "readonly": true,
+            "telNo": "08699831231",
+            "selected": false
+        },
+        {
+            "userId": 57807,
+            "email": "anhtt@fds.vn",
+            "fullName": "Tạ Tuấn Anh",
+            "userClass": "com.liferay.portal.kernel.model.User",
+            "readonly": true,
+            "telNo": "08699831231",
+            "selected": false
+        },
+        {
+            "userId": 58514,
+            "email": "cuonglp@fds.vn",
+            "fullName": "Lê Phú Cường",
+            "userClass": "com.liferay.portal.kernel.model.User",
+            "readonly": true,
+            "telNo": "08699831231",
+            "selected": false
+        },
+        {
+            "userId": 58546,
+            "email": "thanhnv@fds.vn",
+            "fullName": "Nguyễn Văn Thành",
+            "userClass": "com.liferay.portal.kernel.model.User",
+            "readonly": true,
+            "telNo": "08699831231",
+            "selected": false
+        },
+        {
+            "userId": 58540,
+            "email": "trungnt@fds.vn",
+            "fullName": "Nguyễn Thành Trung",
+            "userClass": "com.liferay.portal.kernel.model.User",
+            "readonly": true,
+            "telNo": "08699831231",
+            "selected": true
+        },
+        {
+            "userId": 58301,
+            "email": "duantv@fds.vn",
+            "fullName": "Trần Văn Duẩn",
+            "userClass": "com.liferay.portal.kernel.model.User",
+            "readonly": true,
+            "telNo": "0241831231",
+            "selected": false
+        },
+        {
+            "userId": 59202,
+            "email": "duantranvan@gmail.com",
+            "fullName": "Trần Văn Duẩn GM",
+            "userClass": "com.liferay.portal.kernel.model.User",
+            "readonly": true,
+            "telNo": "01699831231",
+            "selected": true
+        },
+        {
+            "userId": 58552,
+            "email": "thanhlk@fds.vn",
+            "fullName": "Lại Kim Thanh",
+            "telNo": "08998123231",
+            "userClass": "com.liferay.portal.kernel.model.User",
+            "readonly": true,
+            "selected": false
+        }
+    ]
+}

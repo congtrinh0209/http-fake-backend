@@ -1,0 +1,16 @@
+{
+  "contactId": 101,
+  "createDate": "2017-07-11T01:53:11.249Z",
+  "modifiedDate": "2017-07-11T01:53:11.249Z",
+  "userId":2017,
+  "userName": "Trần Ngọc",
+  "contactType": 0,
+  "myContact": true,
+"shared": true,
+  "fullName": "Trần Ngọc",
+  "companyName": "Công ty FDDD",
+  "telNo": "0949367788",
+  "email": "sontn@gmail.com",
+  "userMappingId": 201,
+  "groupList": ""
+}

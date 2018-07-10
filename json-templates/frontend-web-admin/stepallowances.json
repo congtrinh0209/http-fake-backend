@@ -1,0 +1,16 @@
+{
+	"total": 3,
+	"data": [{
+		"roleId": 1,
+		"roleName": "lorem",
+		"moderator": 1
+	}, {
+		"roleId": 2,
+		"roleName": "lorem",
+		"moderator": 0
+	}, {
+		"roleId": 3,
+		"roleName": "lorem",
+		"moderator": 0
+	}]
+}

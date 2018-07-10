@@ -1,0 +1,11 @@
+{
+  "jobPosId": 2,
+  "createDate": "2017-08-02T07:16:51.926Z",
+  "modifiedDate": "2017-08-02T07:16:51.926Z",
+  "title": "Trưởng phòng kinh doanh",
+  "description": "Vị trí trưởng phòng kinh doanh",
+  "workingUnitId": 1,
+  "workingUnitName": "Phòng Kinh Doanh",
+  "leader": 1,
+  "mappingRoleId": 2
+}

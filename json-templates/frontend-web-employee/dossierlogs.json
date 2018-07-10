@@ -1,0 +1,60 @@
+{
+	"total": 7,
+	"data": [{
+		"dossierLogId": 1,
+		"dossierId": 1,
+		"author": "lorem",
+		"content": "lorem",
+		"notificationType": "lorem",
+		"toUserIds": "lorem",
+		"deliveredDate": "2017-07-19T07:33:42.692Z"
+	}, {
+		"dossierLogId":2,
+		"dossierId": 1,
+		"author": "lorem",
+		"content": "lorem",
+		"notificationType": "lorem",
+		"toUserIds": "lorem",
+		"deliveredDate": "2017-07-19T07:33:42.692Z"
+	}, {
+		"dossierLogId":3,
+		"dossierId": 1,
+		"author": "lorem",
+		"content": "lorem",
+		"notificationType": "lorem",
+		"toUserIds": "lorem",
+		"deliveredDate": "2017-07-19T07:33:42.692Z"
+	}, {
+		"dossierLogId":4,
+		"dossierId": 1,
+		"author": "lorem",
+		"content": "lorem",
+		"notificationType": "lorem",
+		"toUserIds": "lorem",
+		"deliveredDate": "2017-07-19T07:33:42.692Z"
+	}, {
+		"dossierLogId":5,
+		"dossierId": 1,
+		"author": "lorem",
+		"content": "lorem",
+		"notificationType": "lorem",
+		"toUserIds": "lorem",
+		"deliveredDate": "2017-07-19T07:33:42.692Z"
+	}, {
+		"dossierLogId":6,
+		"dossierId": 1,
+		"author": "lorem",
+		"content": "lorem",
+		"notificationType": "lorem",
+		"toUserIds": "lorem",
+		"deliveredDate": "2017-07-19T07:33:42.692Z"
+	}, {
+		"dossierLogId":7,
+		"dossierId": 1,
+		"author": "lorem",
+		"content": "lorem",
+		"notificationType": "lorem",
+		"toUserIds": "lorem",
+		"deliveredDate": "2017-07-19T07:33:42.692Z"
+	}]
+}

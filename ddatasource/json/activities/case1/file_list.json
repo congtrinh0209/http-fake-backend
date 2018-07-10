@@ -1,0 +1,35 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "fileEntryId": 101,
+      "filename": "filename1.doc",
+      "fileType": "doc",
+      "fileSize": 3
+    },
+    {
+      "fileEntryId": 102,
+      "filename": "filename2.doc",
+      "fileType": "doc",
+      "fileSize": 5
+    },
+    {
+      "fileEntryId": 103,
+      "filename": "filename3.pdf",
+      "fileType": "pdf",
+      "fileSize": 10
+    },
+    {
+      "fileEntryId":104,
+      "filename": "filename4.docx",
+      "fileType": "docx",
+      "fileSize": 6
+    },
+    {
+      "fileEntryId": 105,
+      "filename": "filename5.png",
+      "fileType": "png",
+      "fileSize": 10
+    }
+  ]
+}

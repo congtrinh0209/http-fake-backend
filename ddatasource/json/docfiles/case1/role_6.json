@@ -1,0 +1,6 @@
+{
+  "roleId" :105,
+  "roleName": "Trưởng phòng hành chính",
+  "readwrite": false,
+  "approval": true
+}

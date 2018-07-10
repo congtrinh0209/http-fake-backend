@@ -1,0 +1,26 @@
+{
+    "total": 5,
+    "data": [
+        {
+            "tag": "Công việc 01",
+            "count": 0
+        },
+        {
+            "tag": "Công việc 02",
+            "count": 0
+        },
+        {
+            "tag": "Công việc 03",
+            "count": 0
+        },
+        {
+            "tag": "Công việc 04",
+            "count": 0
+        },
+        {
+
+            "tag": "Công việc 05",
+            "count": 0
+        }
+    ]
+}

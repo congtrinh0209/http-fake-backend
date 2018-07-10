@@ -1,0 +1,26 @@
+{
+  "dictItemId": 2,
+  "createDate": "2017-07-21T04:05:01.722Z",
+  "modifiedDate": "2017-07-21T04:05:01.722Z",
+  "dictCollectionId": 2,
+  "itemCode": "1",
+  "itemName": "Văn bản hành chính",
+  "itemNameEN": "Văn bản hành chính",
+  "itemDescription": "Văn bản hành chính",
+  "parentItem": {
+    "dictItemId": 0,
+    "itemCode": "",
+    "itemName": ""
+  },
+  "level": 1,
+  "sibling": 2,
+  "treeIndex": "1.2",
+  "groups": 
+  [
+    {
+      "groupCode": "DOCUMENT_GROUP",
+      "groupName": "Nhóm loại văn bản",
+      "groupNameEN": "Nhóm loại văn bản"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "total": 2,
+  "data": [
+    {
+      "activityStateId": 201,
+      "activityStatus": "Hoạt động đang diễn ra",
+      "openingState": 0,
+      "seqOrder": 1,
+      "autoCondition": "",
+      "color": "#ff8000"
+    },
+    {
+      "activityStateId": 202,
+      "activityStatus": "Hoạt động đã kết thúc",
+      "openingState": 1,
+      "seqOrder": 2,
+      "autoCondition": "",
+      "color": "#ff8000"
+    }
+  ]
+}

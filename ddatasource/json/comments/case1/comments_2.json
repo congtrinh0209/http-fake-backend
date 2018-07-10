@@ -1,0 +1,22 @@
+{
+  "commentId": 2,
+  "userId": 3,
+  "createDate": "2017-07-26T04:05:01.722Z",
+  "modifiedDate": "2017-07-26T04:05:01.722Z",
+  "className": "DocFile",
+  "classPK": 101,
+  "fullname": "Nguyễn Văn Huân",
+  "email": "",
+  "parent": 2501,
+  "content": "",
+  "fileName": "comments_1.pdf",
+  "fileType": "PDF",
+  "fileUrl": "/ddatasource/json/comments/comments_1.pdf",
+  "pictureUrl": "/ddatasource/json/comments/profilePicture.jpg",
+  "profileUrl": "/ddatasource/json/comments/profile.json",
+  "pings": [2,4],
+  "isNew": false,
+  "upvoteCount": 0,
+  "userHasUpvoted": false,
+  "createdByCurrentUser": false
+}

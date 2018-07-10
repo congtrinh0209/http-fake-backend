@@ -1,0 +1,35 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "userId": 201,
+      "name": "Trần Kim Dũng",
+      "readwrite": true,
+      "approval": true
+    },
+    {
+      "userId": 202,
+      "name": "Lê Phú Cường",
+      "readwrite": true,
+      "approval": false
+    },
+    {
+      "userId": 203,
+      "name": "Nguyễn Hồng Sơn",
+      "readwrite": true,
+      "approval": false
+    },
+    {
+      "userId": 204,
+      "name": "Tạ Tuấn Anh",
+      "readwrite": true,
+      "approval": true
+    },
+    {
+      "userId": 205,
+      "name": "Nguyễn Xuân Bắc",
+      "readwrite": false,
+      "approval": false
+    }
+  ]
+}

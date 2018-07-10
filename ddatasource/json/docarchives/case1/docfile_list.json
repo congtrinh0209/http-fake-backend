@@ -1,0 +1,53 @@
+{
+  "total": 6,
+  "data": [
+    {
+      "docFileId": 1,
+      "docArchivePartId": 2,
+      "codeNo": "TT30/BGTVT",
+      "codeNotation": "TT30",
+      "subject": "Thông tư 30-BGTVT về quy định xây dựng cầu đường bộ VN",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 2,
+      "docArchivePartId": 2,
+      "codeNo": "TT31/BGTVT",
+      "codeNotation": "TT31",
+      "subject": "Thông tư 31-BGTVT về quy định xây dựng cầu đường bộ VN",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 3,
+      "docArchivePartId": 2,
+      "codeNo": "TT32/BGTVT",
+      "codeNotation": "TT32",
+      "subject": "Thông tư 32-BGTVT về quy định xây dựng cầu đường bộ VN",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 4,
+      "docArchivePartId": 2,
+      "codeNo": "ND33/BGTVT",
+      "codeNotation": "ND33",
+      "subject": "Nghị định 33-BGTVT về quy định xây dựng cầu đường bộ VN",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 5,
+      "docArchivePartId": 2,
+      "codeNo": "ND34/BGTVT",
+      "codeNotation": "ND34",
+      "subject": "Nghị định 34-BGTVT về quy định xây dựng cầu đường bộ VN",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 6,
+      "docArchivePartId": 2,
+      "codeNo": "ND35/BGTVT",
+      "codeNotation": "ND35",
+      "subject": "Nghị định 35-BGTVT về quy định xây dựng cầu đường bộ VN",
+      "typeName": "Văn bản pháp quy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "itemCode": "TASK",
+      "itemName": "Các công việc nội bộ của các cơ quan, tổ chức",
+      "itemNameEN": "Các công việc nội bộ của các cơ quan, tổ chức",
+      "itemDescription": "Các công việc nội bộ của các cơ quan, tổ chức",
+	"selected":true
+    },
+    {
+      "itemCode": "EVENT",
+      "itemName": "Các loại sự kiện",
+      "itemNameEN": "Các loại sự kiện",
+      "itemDescription": "Các loại sự kiện",
+	"selected":false
+    },
+    {
+      "itemCode": "HOP",
+      "itemName": "Các loại sự kiện Hop",
+      "itemNameEN": "Hop",
+      "itemDescription": "Các loại sự kiện hop",
+	"selected":true
+    }
+  ]
+}

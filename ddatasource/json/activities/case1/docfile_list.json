@@ -1,0 +1,26 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "docFileId": 201,
+      "codeNo": "TT30",
+      "codeNotation": "30-8-2017/TT30-BGTVT",
+      "subject": "Thông tư 30 bộ GTVT",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 202,
+      "codeNo": "ND21",
+      "codeNotation": "21-8-2017/ND21-TTCP",
+      "subject": "Nghị định 21 TTCP",
+      "typeName": "Văn bản pháp quy"
+    },
+    {
+      "docFileId": 203,
+      "codeNo": "TKKT10",
+      "codeNotation": "10-8-2017/TKKT10-DELCO",
+      "subject": "Tài liệu kỹ Thuật 10",
+      "typeName": "Tài liệu kỹ Thuật"
+    }
+  ]
+}

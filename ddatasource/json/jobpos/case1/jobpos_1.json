@@ -1,0 +1,11 @@
+{
+      "jobPosId": 1,
+      "createDate": "2017-08-01T07:16:51.926Z",
+      "modifiedDate": "2017-08-01T07:16:51.926Z",
+      "title": "Nhân viên kinh doanh",
+      "description": "Vị trí nhân viên kinh doanh",
+      "workingUnitId": 1,
+      "workingUnitName": "Phòng Kinh Doanh",
+      "leader": 0,
+      "mappingRoleId": 1
+}

@@ -1,0 +1,16 @@
+{
+  "roles": [
+    {
+      "roleId": 1,
+      "readonly": false
+    },
+    {
+      "roleId": 2,
+      "readonly": false
+    },
+    {
+      "roleId": 3,
+      "readonly": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "roleId": 1,
+      "name": "Trưởng phòng",
+      "readwrite": true,
+      "approval": false
+    },
+    {
+      "roleId": 2,
+      "name": "Trửong phòng nhân sự",
+      "readwrite": false,
+      "approval": true
+    },
+    {
+      "roleId": 3,
+      "name": "Giám đốc",
+      "readwrite": true,
+      "approval": true
+    },
+    {
+      "roleId": 4,
+      "name": "Nhân viên",
+      "readwrite": false,
+      "approval": false
+    }
+  ]
+}

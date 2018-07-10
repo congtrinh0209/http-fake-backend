@@ -1,0 +1,23 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "activityRoleId": 101,
+      "roleName": "chủ trì",
+      "isManager": true,
+      "isCreator": true
+    },
+    {
+      "activityRoleId": 102,
+      "roleName": "diễn giả",
+      "isManager": false,
+      "isCreator": false
+    },
+    {
+      "activityRoleId": 103,
+      "roleName": "xử lý công việc",
+      "isManager": false,
+      "isCreator": true
+    }
+  ]
+}

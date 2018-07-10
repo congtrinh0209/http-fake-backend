@@ -1,0 +1,50 @@
+{
+  "total": 9,
+  "data": [
+    {
+      "actionId": "VIEW_EMPLOYEE",
+      "actionName": "VIEW_EMPLOYEE_name",
+      "selected": true
+    },
+    {
+       "actionId": "UPDATE_EMPLOYEE",
+      "actionName": "UPDATE_EMPLOYEE",
+      "selected": false
+    },
+    {
+      "actionId": "VIEW_PARTNER",
+      "actionName": "VIEW_PARTNER",
+      "selected": false
+    },
+    {
+       "actionId": "UPDATE_PARTNER",
+      "actionName": "UPDATE_PARTNER",
+      "selected": false
+    },
+    {
+       "actionId": "ADD_ACTIVITY_TEMPLATE",
+      "actionName": "ADD_ACTIVITY_TEMPLATE",
+      "selected": false
+    },
+    {
+       "actionId": "ADD_DOCFILE_TEMPLATE",
+      "actionName": "ADD_DOCFILE_TEMPLATE",
+      "selected": false
+    },
+    {
+       "actionId": "ADD_DOCARCHIVE_TEMPLATE",
+      "actionName": "ADD_DOCARCHIVE_TEMPLATE",
+      "selected": false
+    },
+    {
+       "actionId": "ADD_PROJECT",
+      "actionName": "ADD_PROJECT",
+      "selected": false
+    },
+    {
+       "actionId": "ADD_NEWSBOARD",
+      "actionName": "ADD_NEWSBOARD",
+      "selected": false
+    }
+  ]
+}

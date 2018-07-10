@@ -1,0 +1,37 @@
+{
+  "total": 4,
+  "data": [
+    {
+      "labelId": 101,
+      "createDate": "2017-07-19T08:29:24.447Z",
+      "modifiedDate": "2017-07-19T08:29:24.447Z",
+      "name": "Dự án mobilink",
+      "color": "#80ff00",
+      "scope": ""
+    },
+    {
+      "labelId": 102,
+      "createDate": "2017-07-19T08:29:24.447Z",
+      "modifiedDate": "2017-07-19T08:29:24.447Z",
+      "name": "Dự án đường sắt VN",
+      "color": "#0000ff",
+      "scope": ""
+    },
+    {
+      "labelId": 103,
+      "createDate": "2017-07-19T08:29:24.447Z",
+      "modifiedDate": "2017-07-19T08:29:24.447Z",
+      "name": "Dự án đường bộ VN",
+      "color": "#ff8000",
+      "scope": ""
+    },
+    {
+      "labelId": 104,
+      "createDate": "2017-07-19T08:29:24.447Z",
+      "modifiedDate": "2017-07-19T08:29:24.447Z",
+      "name": "Dự án triển khai Mobilink",
+      "color": "#ff8000",
+      "scope": ""
+    }
+  ]
+}

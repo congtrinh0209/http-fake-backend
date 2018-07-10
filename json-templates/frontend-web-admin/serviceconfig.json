@@ -1,0 +1,11 @@
+{
+  "serviceConfigId": 3,
+  "serviceInfoId": 1,
+  "serviceName": "lorem",
+  "govAgencyCode": "lorem",
+  "govAgencyName": "lorem",
+  "serviceInstruction": "lorem",
+  "serviceLevel": 3,
+  "serviceUrl": "lorem",
+  "authentication": 1
+}

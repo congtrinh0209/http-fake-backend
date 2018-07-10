@@ -1,0 +1,29 @@
+{
+  "total": 0,
+  "data": [
+     {
+      "roleId" :101,
+      "name": "Ban giám đốc FDS"
+    },
+    {
+      "roleId" :102,
+      "name": "Trưởng phòng BA"
+    },
+    {
+      "roleId" :103,
+      "name": "Trưởng phòng nhân sự"
+    },
+    {
+      "roleId" :104,
+      "name": "Trưởng phòng phát triển"
+    },
+    {
+      "roleId" :105,
+      "name": "Trưởng phòng hành chính"
+    },
+    {
+      "roleId" :106,
+      "name": "nhân viên"
+    }
+  ]
+}

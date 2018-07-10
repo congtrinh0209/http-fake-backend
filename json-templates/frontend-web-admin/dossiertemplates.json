@@ -1,0 +1,29 @@
+{
+	"total": 5,
+	"data": [{
+		"dossierTemplateId": 1,
+		"templateName": "lorem",
+		"description": "lorem",
+		"templateNo": "1-lorem"
+	}, {
+		"dossierTemplateId": 2,
+		"templateName": "lorem",
+		"description": "lorem",
+		"templateNo": "2-lorem"
+	}, {
+		"dossierTemplateId": 3,
+		"templateName": "lorem",
+		"description": "lorem",
+		"templateNo": "3-lorem"
+	}, {
+		"dossierTemplateId": 4,
+		"templateName": "lorem",
+		"description": "lorem",
+		"templateNo": "4-lorem"
+	}, {
+		"dossierTemplateId": 5,
+		"templateName": "lorem",
+		"description": "lorem",
+		"templateNo": "5-lorem"
+	}]
+}

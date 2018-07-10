@@ -1,0 +1,81 @@
+{
+  "total": 4,
+  "data": [
+    {
+      "partnerId": 101,
+      "createDate": "2017-07-11T07:45:06.893Z",
+      "modifiedDate": "2017-07-11T07:45:06.894Z",
+      "name": "Tiến",
+      "address": "Số 3 Tôn thất thuyết",
+      "telNo": "09843456",
+      "faxNo": "04-029843456",
+      "email": "tiennv@gmail.com",
+      "website": "vnexpress.net",
+      "partnerClass": "DTTN",
+      "partnerClassName": "Đối tác tiềm năng",
+      "mappingUser": 
+      {
+        "userId": 201,
+        "screenName": "Nguyễn Văn Tiến",
+        "locking": false
+      }
+    },
+    {
+      "partnerId": 102,
+      "createDate": "2017-07-12T07:45:06.893Z",
+      "modifiedDate": "2017-07-12T07:45:06.894Z",
+      "name": "Thành",
+      "address": "Số 3 Cầu giấy, TP Hà Nội",
+      "telNo": "09823456",
+      "faxNo": "04-02843456",
+      "email": "thanhbt@gmail.com",
+      "website": "dantri.com.vn",
+      "partnerClass": "DTTN",
+      "partnerClassName": "Đối tác tiềm năng",
+      "mappingUser": 
+      {
+        "userId": 202,
+        "screenName": "Bùi Tiến Thành",
+        "locking": false
+      }
+    },
+    {
+      "partnerId": 103,
+      "createDate": "2017-07-13T07:45:06.893Z",
+      "modifiedDate": "2017-07-13T07:45:06.894Z",
+      "name": "Hoàng",
+      "address": "Số 60 Cầu giấy, TP Hà Nội",
+      "telNo": "094823456",
+      "faxNo": "04-02843458",
+      "email": "hoangnh@gmail.com",
+      "website": "24h.com.vn",
+      "partnerClass": "DTTN",
+      "partnerClassName": "Đối tác tiềm năng",
+      "mappingUser": 
+      {
+        "userId": 203,
+        "screenName": "Nguyễn Hữu Hoàng",
+        "locking": false
+      }
+    },
+    {
+      "partnerId": 104,
+      "createDate": "2017-07-14T07:45:06.893Z",
+      "modifiedDate": "2017-07-14T07:45:06.894Z",
+      "name": "Thắng",
+      "address": "Số 10 Cầu giấy, TP Hà Nội",
+      "telNo": "094823456",
+      "faxNo": "04-02843458",
+      "email": "thangnv@gmail.com",
+      "website": "24h.com.vn",
+      "partnerClass": "DTTN",
+      "partnerClassName": "Đối tác tiềm năng",
+      "mappingUser": 
+      {
+        "userId": 204,
+        "screenName": "Nguyễn Văn Thắng",
+        "locking": false
+      }
+    }
+  ]
+}

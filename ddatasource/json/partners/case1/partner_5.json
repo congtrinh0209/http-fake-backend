@@ -1,0 +1,19 @@
+{
+  "partnerId": 105,
+  "createDate": "2017-07-14T07:45:06.893Z",
+  "modifiedDate": "2017-07-14T07:45:06.894Z",
+  "name": "Thắng",
+  "address": "Số 10 Cầu giấy, TP Hà Nội",
+  "telNo": "094823456",
+  "faxNo": "04-02843458",
+  "email": "hoangnh@gmail.com",
+  "website": "24h.com.vn",
+  "partnerClass": "DTTN",
+  "partnerClassName": "Đối tác tiềm năng",
+  "mappingUser": 
+  {
+    "userId": 204,
+    "screenName": "Nguyễn Văn Thắng",
+    "locking": false
+  }
+}
