@@ -6,10 +6,10 @@
       "menuName": "HỒ SƠ MỘT CỬA",
       "menuType": 1,
       "order": 1,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=110,120",
+      "queryParams": "\/api\/dossiers?step=110,120",
       "steps": [
         {
-          "buttonConfig": "[\t{\t   \"title\": \"Bàn giao thụ lý\",\t   \"form\": \"ACTION_01\",\t   \"action\": \"2001\"\t},\t{\t   \"title\": \"Từ chối tiếp nhận\",\t   \"form\": \"ACTION_02\",\t   \"action\": \"4200\"\t},\t{\t   \"title\": \"Yêu cầu hoàn thiện\",\t   \"form\": \"ACTION_02\",\t   \"action\": \"5000\"\t},\t{\t   \"title\": \"In phiếu biên nhận\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_01\"\t},\t{\t   \"title\": \"In phiếu kiểm soát\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_06\"\t},\t{\t   \"title\": \"In biên bản bàn giao\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_04\"\t},\t{\t   \"title\": \"Sao chép hồ sơ\",\t   \"form\": \"COPY\"\t},\t{\t   \"title\": \"Sửa chữa hồ sơ\",\t   \"form\": \"UPDATE\"\t},\t{\t   \"title\": \"Xem chi tiết\",\t   \"form\": \"VIEW_01\"\t}]",
+          "buttonConfig": "[\t{\t   \"title\": \"Bàn giao thụ lý\",\t   \"form\": \"NEW\",\t   \"action\": \"2001\"\t},\t{\t   \"title\": \"Từ chối tiếp nhận\",\t   \"form\": \"ACTION_02\",\t   \"action\": \"4200\"\t},\t{\t   \"title\": \"Yêu cầu hoàn thiện\",\t   \"form\": \"ACTION_02\",\t   \"action\": \"5000\"\t},\t{\t   \"title\": \"In phiếu biên nhận\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_01\"\t},\t{\t   \"title\": \"In phiếu kiểm soát\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_06\"\t},\t{\t   \"title\": \"In biên bản bàn giao\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_04\"\t},\t{\t   \"title\": \"Sao chép hồ sơ\",\t   \"form\": \"COPY\"\t},\t{\t   \"title\": \"Sửa chữa hồ sơ\",\t   \"form\": \"UPDATE\"\t},\t{\t   \"title\": \"Xem chi tiết\",\t   \"form\": \"VIEW_01\"\t}]",
           "dossierStatus": "new",
           "dossierSubStatus": "new_0",
           "menuStepName": "Bàn giao hồ sơ",
@@ -33,7 +33,7 @@
       "menuName": "HỒ SƠ TRỰC TUYẾN",
       "menuType": 1,
       "order": 2,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=130,140,150",
+      "queryParams": "\/api\/dossiers?step=130,140,150",
       "steps": [
         {
           "buttonConfig": "",
@@ -68,7 +68,7 @@
       "menuName": "HOÀN THIỆN, BỔ SUNG",
       "menuType": 1,
       "order": 3,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=500,510,520",
+      "queryParams": "\/api\/dossiers?step=500,510,520",
       "steps": [
         {
           "buttonConfig": "",
@@ -103,7 +103,7 @@
       "menuName": "THỤ LÝ GIẢI QUYẾT",
       "menuType": 1,
       "order": 4,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=200,2xx",
+      "queryParams": "\/api\/dossiers?step=200,2xx",
       "steps": [
         {
           "buttonConfig": "",
@@ -130,7 +130,7 @@
       "menuName": "KẾ HOẠCH THỰC ĐỊA",
       "menuType": 1,
       "order": 5,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=330,332",
+      "queryParams": "\/api\/dossiers?step=330,332",
       "steps": [
         {
           "buttonConfig": "",
@@ -157,7 +157,7 @@
       "menuName": "TẠM DỪNG THỤ LÝ",
       "menuType": 1,
       "order": 6,
-      "queryParams": "\/o\/rest\/v2\/dossiers?online=false&status=new&step=110,120",
+      "queryParams": "\/api\/dossiers?online=false&status=new&step=110,120",
       "steps": {
         "buttonConfig": "",
         "dossierStatus": "inspecting",
@@ -174,7 +174,7 @@
       "menuName": "TRẢ KẾT QUẢ",
       "menuType": 1,
       "order": 7,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=300,301",
+      "queryParams": "\/api\/dossiers?step=300,301",
       "steps": [
         {
           "buttonConfig": "",
@@ -201,7 +201,7 @@
       "menuName": "CHUYỂN PHÁT BƯU CHÍNH",
       "menuType": 1,
       "order": 8,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=310,311",
+      "queryParams": "\/api\/dossiers?step=310,311",
       "steps": [
         {
           "buttonConfig": "",
@@ -228,7 +228,7 @@
       "menuName": "HỒ SƠ LIÊN THÔNG",
       "menuType": 1,
       "order": 9,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=320,321,322",
+      "queryParams": "\/api\/dossiers?step=320,321,322",
       "steps": [
         {
           "buttonConfig": "",
@@ -263,7 +263,7 @@
       "menuName": "THU PHÍ",
       "menuType": 1,
       "order": 10,
-      "queryParams": "\/o\/rest\/v2\/dossiers?step=600,610",
+      "queryParams": "\/api\/dossiers?step=600,610",
       "steps": [
         {
           "buttonConfig": "",
@@ -290,7 +290,7 @@
       "menuName": "CHẬM HẠN TRẢ",
       "menuType": 2,
       "order": 11,
-      "queryParams": "\/o\/rest\/v2\/dossiers?online=false&status=new&step=110,120",
+      "queryParams": "\/api\/dossiers?online=false&status=new&step=110,120",
       "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
     },
     {
