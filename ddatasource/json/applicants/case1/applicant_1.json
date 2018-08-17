@@ -1,0 +1,24 @@
+{
+  "applicantId": 1,
+  "createDate": "2017-08-01T03:07:05.012Z",
+  "modifiedDate": "2017-08-01T03:07:05.012Z",
+  "applicantName": "Trịnh Công Trình",
+  "applicantIdType": "",
+  "applicantIdNo": "",
+  "applicantIdDate": "2017-08-01T03:07:05.013Z",
+  "address": "",
+  "cityCode": "",
+  "cityName": "",
+  "districtCode": "",
+  "districtName": "",
+  "wardCode": "",
+  "wardName": "",
+  "contactName": "",
+  "contactTelNo": "",
+  "contactEmail": "",
+  "mappingUser": {
+    "userId": 0,
+    "screenName": "",
+    "locking": false
+  }
+}

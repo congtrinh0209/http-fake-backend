@@ -1,0 +1,23 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "fieldName": "Bổ sung thông tin",
+      "fieldLabel": "Lý do bổ sung",
+      "fieldType": "textarea",
+      "value": "text area"
+    },
+    {
+      "fieldName": "Bổ sung thông tin",
+      "fieldLabel": "Lý do bổ sung 2",
+      "fieldType": "date",
+      "value": ""
+    },
+    {
+      "fieldName": "Bổ sung thông tin",
+      "fieldLabel": "Lý do bổ sung 3",
+      "fieldType": "number",
+      "value": "number 123"
+    }
+  ]
+}

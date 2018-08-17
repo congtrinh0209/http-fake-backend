@@ -1,0 +1,213 @@
+{
+  "total": 8,
+  "data": [
+    {
+      "assignUsers": [
+        {
+          "userName": "Một cửa sở Xây dựng",
+          "userId": "398701"
+        }
+      ],
+      "sequenceNo": "01",
+      "sequenceRole": "Trung tâm HCC",
+      "statusText": "Đang thực hiện: Nhận bổ sung hồ sơ",
+      "sequenceName": "Tiếp nhận và bàn giao",
+      "actions": [
+        {
+          "actionUser": "Một cửa sở Xây dựng",
+          "stepCode": "110",
+          "nextActionId": "73608",
+          "pending": false,
+          "dueDate": "1532925384000",
+          "serviceProcessId": "13419",
+          "previousActionId": "73501",
+          "userId": "398701",
+          "rollbackable": false,
+          "fromStepCode": "110",
+          "sequenceNo": "01",
+          "payload": "",
+          "stepName": "Tiếp nhận hồ sơ một cửa",
+          "fromStepName": "Tiếp nhận hồ sơ một cửa",
+          "actionNote": "",
+          "actionOverdue": 0,
+          "modifiedDate": "1532925572000",
+          "dossierId": "74301",
+          "actionCode": "1100",
+          "state": 1,
+          "actionName": "Tiếp nhận hồ sơ",
+          "createDate": "1532925384000"
+        },
+        {
+          "actionUser": "Một cửa sở Xây dựng",
+          "stepCode": "200",
+          "nextActionId": "73701",
+          "pending": false,
+          "dueDate": "1532925572000",
+          "serviceProcessId": "13419",
+          "previousActionId": "73602",
+          "userId": "398701",
+          "rollbackable": false,
+          "fromStepCode": "110",
+          "sequenceNo": "02",
+          "payload": "null",
+          "stepName": "Phân công thụ lý hồ sơ",
+          "fromStepName": "Tiếp nhận hồ sơ một cửa",
+          "actionNote": "null",
+          "actionOverdue": 0,
+          "modifiedDate": "1532926226000",
+          "dossierId": "74301",
+          "actionCode": "2000",
+          "state": 1,
+          "actionName": "Bàn giao thụ lý",
+          "createDate": "1532925572000"
+        },
+        {
+          "actionUser": "Một cửa sở Xây dựng",
+          "stepCode": "540",
+          "nextActionId": "0",
+          "pending": false,
+          "dueDate": "1533119897000",
+          "serviceProcessId": "13419",
+          "previousActionId": "76101",
+          "userId": "398701",
+          "rollbackable": false,
+          "fromStepCode": "520",
+          "sequenceNo": "01",
+          "payload": "null",
+          "stepName": "Nhận bổ sung hồ sơ",
+          "fromStepName": "Thông báo bổ sung",
+          "actionNote": "null",
+          "actionOverdue": 0,
+          "modifiedDate": "1533119897000",
+          "dossierId": "74301",
+          "actionCode": "5400",
+          "state": 1,
+          "actionName": "Thông báo bổ sung",
+          "createDate": "1533119897000"
+        }
+      ],
+      "durationCount": 0
+    },
+    {
+      "assignUsers": [
+        {
+          "userName": "Lãnh đạo phòng sở Xây dựng",
+          "userId": "398707"
+        }
+      ],
+      "sequenceNo": "02",
+      "sequenceRole": "Lãnh đạo phòng",
+      "sequenceName": "Phân công",
+      "actions": [
+        {
+          "actionUser": "Lãnh đạo phòng sở Xây dựng",
+          "stepCode": "211",
+          "nextActionId": "76101",
+          "pending": false,
+          "dueDate": "1532926225000",
+          "serviceProcessId": "13419",
+          "previousActionId": "73608",
+          "userId": "398707",
+          "rollbackable": false,
+          "fromStepCode": "200",
+          "sequenceNo": "03",
+          "payload": "null",
+          "stepName": "Lãnh đạo phòng thụ lý hồ sơ",
+          "fromStepName": "Phân công thụ lý hồ sơ",
+          "actionNote": "\"Trực tiếp xử lý\"",
+          "actionOverdue": 0,
+          "modifiedDate": "1533107317000",
+          "dossierId": "74301",
+          "actionCode": "2101",
+          "state": 1,
+          "actionName": "Tôi thụ lý",
+          "createDate": "1532926225000"
+        }
+      ],
+      "durationCount": 2,
+      "startDate": "1533119897000"
+    },
+    {
+      "assignUsers": [
+        {
+          "userName": "Lãnh đạo phòng sở Xây dựng",
+          "userId": "398707"
+        }
+      ],
+      "sequenceNo": "03",
+      "sequenceRole": "Chuyên viên",
+      "sequenceName": "Thụ lý hồ sơ",
+      "actions": [
+        {
+          "actionUser": "Lãnh đạo phòng sở Xây dựng",
+          "stepCode": "520",
+          "nextActionId": "77401",
+          "pending": false,
+          "dueDate": "1533107317000",
+          "serviceProcessId": "13419",
+          "previousActionId": "73701",
+          "userId": "398707",
+          "rollbackable": false,
+          "fromStepCode": "211",
+          "sequenceNo": "01",
+          "payload": "{\"complementNote\":\"Vo can cu\",\"complementDoc\":\"DuanTV can nhan tien\",\"complementDate\":\"09/08/2018\"}",
+          "stepName": "Thông báo bổ sung",
+          "fromStepName": "Lãnh đạo phòng thụ lý hồ sơ",
+          "actionNote": "null",
+          "actionOverdue": 0,
+          "modifiedDate": "1533119897000",
+          "dossierId": "74301",
+          "actionCode": "5200",
+          "state": 1,
+          "actionName": "Yêu cầu bổ sung",
+          "createDate": "1533107317000"
+        }
+      ],
+      "durationCount": 24,
+      "startDate": "1532925572000"
+    },
+    {
+      "assignUsers": [],
+      "sequenceNo": "04",
+      "sequenceRole": "Lãnh đạo phòng",
+      "sequenceName": "Xét duyệt",
+      "actions": [],
+      "durationCount": 2
+    },
+    {
+      "assignUsers": [],
+      "sequenceNo": "05",
+      "sequenceRole": "Lãnh đạo đơn vị",
+      "sequenceName": "Ký duyệt",
+      "actions": [],
+      "durationCount": 1
+    },
+    {
+      "assignUsers": [],
+      "sequenceNo": "06",
+      "sequenceRole": "Chuyên viên xử lý",
+      "sequenceName": "Lưu và bàn giao",
+      "actions": [],
+      "durationCount": 0
+    },
+    {
+      "assignUsers": [],
+      "sequenceNo": "07",
+      "sequenceRole": "Trung tâm HCC",
+      "sequenceName": "Trả kết quả",
+      "actions": [],
+      "durationCount": 0
+    },
+    {
+      "assignUsers": [],
+      "sequenceNo": "08",
+      "sequenceRole": "Trung tâm HCC",
+      "sequenceName": "Rút hồ sơ",
+      "actions": [],
+      "durationCount": 0
+    }
+  ],
+  "durationUnit": 0,
+  "durationCount": 30,
+  "processNo": "SXD_CGPXD02"
+}

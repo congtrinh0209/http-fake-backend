@@ -1,0 +1,35 @@
+{
+  "total": 0,
+  "data": [
+    {
+      "referenceUid": "",
+      "createDate": "2018-07-04T02:50:01.924Z",
+      "documentType": "",
+      "documentName": "Văn bản bàn giao",
+      "documentCode": 0,
+      "docSync": 0,
+      "fileType": "",
+      "fileSize": 0
+    },
+    {
+      "referenceUid": "",
+      "createDate": "2018-07-04T02:50:01.924Z",
+      "documentType": "",
+      "documentName": "Văn bản tiếp nhận",
+      "documentCode": 1,
+      "docSync": 0,
+      "fileType": "",
+      "fileSize": 0
+    },
+    {
+      "referenceUid": "",
+      "createDate": "2018-07-04T02:50:01.924Z",
+      "documentType": "",
+      "documentName": "Văn bản kiểm tra",
+      "documentCode": 2,
+      "docSync": 0,
+      "fileType": "",
+      "fileSize": 0
+    }
+  ]
+}

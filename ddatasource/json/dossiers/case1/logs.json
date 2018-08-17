@@ -1,1 +1,58 @@
-{"total":11,"data":[{"dossierLogId":"174917","payload":{"jobposTitle":"0: Create Dossier","dossier":[{"referenceUid":"53e0bfcf-bc41-cb37-158f-92a1fcbabf0c"}],"briefNote":""},"author":"","notificationType":"Dossier00","content":"On Dossiser Created","createDate":"2018-06-12T15:06:42.000Z"},{"dossierLogId":"174918","payload":{"stepName":"Tiếp nhận hồ sơ một cửa","files":[],"jobPosName":"","stepInstruction":""},"author":"","notificationType":"PROCESS_TYPE","content":"","createDate":"2018-06-12T15:07:16.000Z"},{"dossierLogId":"174919","payload":{},"author":"Tiếp nhận STNMT","notificationType":"","content":"On DossiserAction Created","createDate":"2018-06-12T15:07:16.000Z"},{"dossierLogId":"174920","payload":{"stepName":"Chuyển hồ sơ thụ lý","files":[],"jobPosName":"","stepInstruction":""},"author":"Tiếp nhận STNMT","notificationType":"PROCESS_TYPE","content":"1233","createDate":"2018-06-12T15:07:37.000Z"},{"dossierLogId":"174924","payload":{"stepName":"Hoàn thành thụ lý","files":[{"fileName":"280b454208.png","dossierFileId":"75607","createDate":"2018-06-12T15:09:22.801Z"}],"jobPosName":"","stepInstruction":""},"author":"Chuyên viên CCQLĐĐ1","notificationType":"PROCESS_TYPE","content":"âdadad","createDate":"2018-06-12T15:09:31.000Z"},{"dossierLogId":"174925","payload":{"stepName":"Gửi hồ sơ lên tỉnh","files":[],"jobPosName":"","stepInstruction":""},"author":"Tiếp nhận STNMT","notificationType":"PROCESS_TYPE","content":"akdjjdhjsd","createDate":"2018-06-12T15:14:16.000Z"},{"dossierLogId":"175001","payload":{"stepName":"Hồ sơ liên thông hợp lệ","files":[],"jobPosName":"","stepInstruction":""},"author":"Tiếp nhận văn phòng UBND Tỉnh","notificationType":"PROCESS_TYPE","content":"adadadad","createDate":"2018-06-12T15:26:24.000Z"},{"dossierLogId":"175003","payload":{"stepName":"Hồ sơ hợp lệ","files":[],"jobPosName":"","stepInstruction":""},"author":"Chuyên viên phòng Kinh tế ngành 1","notificationType":"PROCESS_TYPE","content":"iugjhdasjhfgadf","createDate":"2018-06-12T15:36:41.000Z"},{"dossierLogId":"175004","payload":{"stepName":"Trả kết quả về sở","files":[],"jobPosName":"","stepInstruction":""},"author":"Tiếp nhận văn phòng UBND Tỉnh","notificationType":"PROCESS_TYPE","content":"adadadadad","createDate":"2018-06-12T15:38:21.000Z"},{"dossierLogId":"175006","payload":{"stepName":"Trả kết quả hồ sơ","files":[{"fileName":"280b454208-1.png","dossierFileId":"75702","createDate":"2018-06-12T15:39:38.743Z"}],"jobPosName":"","stepInstruction":""},"author":"Tiếp nhận STNMT","notificationType":"PROCESS_TYPE","content":"adadadad","createDate":"2018-06-12T15:39:40.000Z"},{"dossierLogId":"175007","payload":{},"author":"Tiếp nhận STNMT","notificationType":"","content":"On DossiserAction Created","createDate":"2018-06-12T15:39:40.000Z"}]}
+{
+  "total": 11,
+  "data": [
+    {
+      "dossierLogId": "174918",
+      "payload": {
+        "stepName": "Tiếp nhận hồ sơ một cửa",
+        "files": [],
+        "jobPosName": "",
+        "stepInstruction": ""
+      },
+      "author": "",
+      "notificationType": "PROCESS_TYPE",
+      "content": "Tiếp nhận hồ sơ một cửa",
+      "createDate": 20180405105251
+    },
+    {
+      "dossierLogId": "174919",
+      "payload": {},
+      "author": "Tiếp nhận STNMT",
+      "notificationType": "",
+      "content": "Tiếp nhận STNMT",
+      "createDate": 20180405105251
+    },
+    {
+      "dossierLogId": "174920",
+      "payload": {
+        "stepName": "Chuyển hồ sơ thụ lý",
+        "files": [],
+        "jobPosName": "",
+        "stepInstruction": ""
+      },
+      "author": "Tiếp nhận STNMT",
+      "notificationType": "PROCESS_TYPE",
+      "content": "Chuyển hồ sơ thụ lý",
+      "createDate": 20180405105251
+    },
+    {
+      "dossierLogId": "174924",
+      "payload": {
+        "stepName": "Hoàn thành thụ lý",
+        "files": [
+          {
+            "fileName": "280b454208.png",
+            "dossierFileId": "75607",
+            "createDate": "2018-06-12T15:09:22.801Z"
+          }
+        ],
+        "jobPosName": "",
+        "stepInstruction": ""
+      },
+      "author": "Chuyên viên CCQLĐĐ1",
+      "notificationType": "PROCESS_TYPE",
+      "content": "Hoàn thành thụ lý",
+      "createDate": 20180405105251
+    }
+  ]
+}

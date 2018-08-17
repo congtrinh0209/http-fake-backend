@@ -1,0 +1,45 @@
+{
+  "processActionId": 0,
+  "actionCode": 1100,
+  "editable": true,
+  "actionName": "",
+  "preStepCode": "",
+  "postStepCode": "",
+  "autoEvent": "",
+  "preCondition": "",
+  "allowAssignUser": 0,
+  "eSignature": false,
+  "signatureType": "",
+  "extraForm": false,
+  "userNote": 0,
+  "payment": {
+    "requestPayment": 5,
+    "advanceAmount": 100000,
+    "feeAmount": 1000000,
+    "serviceAmount": 0,
+    "shipAmount": 0,
+    "editable": 3,
+    "paymentFee": "Lệ phí làm thủ tục",
+    "paymentNote": "Người làm thủ tục nộp phí trực tiếp tại bộ phận một cửa"
+  },
+  "receiving": {
+    "receiveDate": 1532683354000,
+    "dueDate": 1532683354000,
+    "editable": true
+  },
+  "toUsers": {
+    "userId": 101,
+    "userName": "Trịnh Công Trình",
+    "moderator": 0,
+    "assigned": 0
+  },
+  "createFiles": [],
+  "returnFiles": [
+  ],
+  "createDossiers": [
+    {
+      "govAgencyCode": "",
+      "govAgencyName": ""
+    }
+  ]
+}

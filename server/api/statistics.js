@@ -4,8 +4,7 @@ const SetupEndpoint = require('./setup/setup.js');
 
 module.exports = SetupEndpoint({
   name: 'statistics',
-  urls: /* activities*/
-    /* KICH BAN activities */
+  urls:
   [
     {
       params: '/dossiers/counting',

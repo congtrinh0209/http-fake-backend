@@ -8,7 +8,7 @@ module.exports = SetupEndpoint({
         /* KICH BAN fileattachs */
         [
         {
-            params: '/TT302011BGTVTTDTKXCG',
+            params: '/MAU_HO_SO_01',
             requests: 
             [{
                 method: 'GET',

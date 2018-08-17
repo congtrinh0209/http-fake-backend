@@ -1,0 +1,77 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "applicantId": 1,
+      "createDate": "2017-08-01T03:07:05.012Z",
+      "modifiedDate": "2017-08-01T03:07:05.012Z",
+      "applicantName": "Trịnh Công Trình",
+      "applicantIdType": "citizen",
+      "applicantIdNo": 101,
+      "applicantIdDate": "2017-08-01T03:07:05.013Z",
+      "address": "Hà Đông - Hà Nội",
+      "cityCode": 15,
+      "cityName": "",
+      "districtCode": 25,
+      "districtName": "",
+      "wardCode": 30,
+      "wardName": "",
+      "contactName": "",
+      "contactTelNo": "0868979392",
+      "contactEmail": "congtrinh0209@fds.vn",
+      "mappingUser": {
+        "userId": 0,
+        "screenName": "",
+        "locking": false
+      }
+    },
+    {
+      "applicantId": 2,
+      "createDate": "2017-08-01T03:07:05.012Z",
+      "modifiedDate": "2017-08-01T03:07:05.012Z",
+      "applicantName": "Thái Hoàng Anh",
+      "applicantIdType": "business",
+      "applicantIdNo": 102,
+      "applicantIdDate": "2017-08-01T03:07:05.013Z",
+      "address": "Thanh Xuân - Hà Nội",
+      "cityCode": 40,
+      "cityName": "",
+      "districtCode": 37,
+      "districtName": "",
+      "wardCode": 45,
+      "wardName": "",
+      "contactName": "",
+      "contactTelNo": "09123123123",
+      "contactEmail": "anhth@fds.vn",
+      "mappingUser": {
+        "userId": 0,
+        "screenName": "",
+        "locking": false
+      }
+    },
+    {
+      "applicantId": 3,
+      "createDate": "2017-08-01T03:07:05.012Z",
+      "modifiedDate": "2017-08-01T03:07:05.012Z",
+      "applicantName": "Nguyễn Văn Thành",
+      "applicantIdType": "citizen",
+      "applicantIdNo": 103,
+      "applicantIdDate": "2017-08-01T03:07:05.013Z",
+      "address": "Bắc Từ Liêm - Hà Nội",
+      "cityCode": 15,
+      "cityName": "",
+      "districtCode": 25,
+      "districtName": "",
+      "wardCode": 30,
+      "wardName": "",
+      "contactName": "",
+      "contactTelNo": "0987788766",
+      "contactEmail": "thanhnv@fds.vn",
+      "mappingUser": {
+        "userId": 0,
+        "screenName": "",
+        "locking": false
+      }
+    }
+  ]
+}

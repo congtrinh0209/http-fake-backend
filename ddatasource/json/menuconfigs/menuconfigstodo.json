@@ -1,325 +1,321 @@
 {
   "data": [
     {
-      "createDate": 20180625042020,
-      "menuGroup": "ho_so_mot_cua",
-      "menuName": "HỒ SƠ MỘT CỬA",
+      "buttonConfig": "\n      {\n        \"buttons\": [\n          {\n            \"tiltle\": \"Thêm mới hồ sơ\",\n            \"form\": \"NEW\"\n          },\n          {\n            \"tiltle\": \"Hướng dẫn thủ tục\",\n            \"form\": \"GUIDING\",\n            \"document\": \"DOC_03\"\n          },\n          {\n            \"tiltle\": \"Bàn giao\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"2000\",\n            \"onlySteps\": [\"110\"] \n          },\n          {\n            \"tiltle\": \"In biên bản bàn giao\",\n            \"form\": \"PRINT_02\",\n            \"document\": \"DOC_05\",\n            \"onlySteps\": [\"110\"] \n          },\n          {\n            \"tiltle\": \"Đã hoàn thiện\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"1101\",\n            \"onlySteps\": [\"500\"] \n          }\n\t    ]\n      }\n      ",
+      "menuGroup": "tiep_nhan_mot_cua",
+      "menuName": "TIẾP NHẬN MỘT CỬA",
       "menuType": 1,
       "order": 1,
-      "queryParams": "\/api\/dossiers?step=110,120",
+      "queryParams": "\/api\/dossiers\/todo?step=110,500",
       "steps": [
         {
-          "buttonConfig": "[\t{\t   \"title\": \"Bàn giao thụ lý\",\t   \"form\": \"NEW\",\t   \"action\": \"2001\"\t},\t{\t   \"title\": \"Từ chối tiếp nhận\",\t   \"form\": \"ACTION_02\",\t   \"action\": \"4200\"\t},\t{\t   \"title\": \"Yêu cầu hoàn thiện\",\t   \"form\": \"ACTION_02\",\t   \"action\": \"5000\"\t},\t{\t   \"title\": \"In phiếu biên nhận\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_01\"\t},\t{\t   \"title\": \"In phiếu kiểm soát\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_06\"\t},\t{\t   \"title\": \"In biên bản bàn giao\",\t   \"form\": \"PRINT_01\",\t   \"document\": \"DOC_04\"\t},\t{\t   \"title\": \"Sao chép hồ sơ\",\t   \"form\": \"COPY\"\t},\t{\t   \"title\": \"Sửa chữa hồ sơ\",\t   \"form\": \"UPDATE\"\t},\t{\t   \"title\": \"Xem chi tiết\",\t   \"form\": \"VIEW_01\"\t}]",
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"In phiếu biên nhận\",\n          \"form\": \"PRINT_01\",\n          \"document\": \"DOC_01\"\n        },\n\t\t{\n          \"title\": \"In phiếu kiểm soát\",\n          \"form\": \"PRINT_01\",\n          \"document\": \"DOC_06\"\n        },\n\t\t{\n          \"title\": \"In biên bản bàn giao\",\n          \"form\": \"PRINT_01\",\n          \"document\": \"DOC_04\"\n        },\n\t\t{\n          \"title\": \"Sao chép hồ sơ\",\n          \"form\": \"COPY\"\n        },\n\t\t{\n          \"title\": \"Sửa chữa hồ sơ\",\n          \"form\": \"UPDATE\"\n        },\n\t\t{\n          \"title\": \"Xóa hồ sơ\",\n          \"form\": \"DELETE\"\n        }\n      ]}\n      ",
           "dossierStatus": "new",
           "dossierSubStatus": "new_0",
           "menuStepName": "Bàn giao hồ sơ",
           "stepCode": 110,
-          "stepName": "Bàn giao hồ sơ"
+          "stepName": "Tiếp nhận hồ sơ một cửa"
         },
         {
-          "buttonConfig": "",
-          "dossierStatus": "new",
-          "dossierSubStatus": "new_2",
-          "menuStepName": "Yêu cầu rút",
-          "stepCode": 120,
-          "stepName": "Yêu cầu rút"
-        }
-      ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
-    },
-    {
-      "createDate": 20180625041945,
-      "menuGroup": "ho_so_truc_tuyen",
-      "menuName": "HỒ SƠ TRỰC TUYẾN",
-      "menuType": 1,
-      "order": 2,
-      "queryParams": "\/api\/dossiers?step=130,140,150",
-      "steps": [
-        {
-          "buttonConfig": "",
-          "dossierStatus": "receiving",
-          "dossierSubStatus": "receiving_0",
-          "menuStepName": "Tiếp nhận lần đầu",
-          "stepCode": 130,
-          "stepName": "Tiếp nhận lần đầu"
-        },
-        {
-          "buttonConfig": "",
-          "dossierStatus": "receiving",
-          "dossierSubStatus": "receiving_1",
-          "menuStepName": "Tiếp nhận bổ sung",
-          "stepCode": 140,
-          "stepName": "Tiếp nhận bổ sung"
-        },
-        {
-          "buttonConfig": "",
-          "dossierStatus": "receiving",
-          "dossierSubStatus": "receiving_2",
-          "menuStepName": "Rút hồ sơ",
-          "stepCode": 150,
-          "stepName": "Rút hồ sơ"
-        }
-      ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
-    },
-    {
-      "createDate": 20180625041951,
-      "menuGroup": "hoan_thien_bo_sung",
-      "menuName": "HOÀN THIỆN, BỔ SUNG",
-      "menuType": 1,
-      "order": 3,
-      "queryParams": "\/api\/dossiers?step=500,510,520",
-      "steps": [
-        {
-          "buttonConfig": "",
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"In thông báo\",\n          \"form\": \"PRINT_03\"\n        }\n      ]}\n      ",
           "dossierStatus": "waiting",
           "dossierSubStatus": "waiting_0",
           "menuStepName": "Chờ hoàn thiện",
           "stepCode": 500,
-          "stepName": "Chờ hoàn thiện"
-        },
-        {
-          "buttonConfig": "",
-          "dossierStatus": "waiting",
-          "dossierSubStatus": "waiting_1",
-          "menuStepName": "Chờ bổ sung",
-          "stepCode": 510,
-          "stepName": "Chờ bổ sung"
-        },
-        {
-          "buttonConfig": "",
-          "dossierStatus": "waiting",
-          "dossierSubStatus": "waiting_4",
-          "menuStepName": "Bàn giao bổ sung",
-          "stepCode": 520,
-          "stepName": "Bàn giao bổ sung"
+          "stepName": "Hoàn thiện hồ sơ tại một cửa (NLTT)"
         }
       ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
     },
     {
-      "createDate": 20180625041955,
-      "menuGroup": "thu_ly_giai_quyet",
-      "menuName": "THỤ LÝ GIẢI QUYẾT",
+      "buttonConfig": "\n      {\n        \"buttons\": [\n          {\n            \"tiltle\": \"Đồng ý tiếp nhận\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"2000,7100\"\n          }\n        ]\n      }\n      ",
+      "menuGroup": "tiep_nhan_truc_tuyen",
+      "menuName": "TIẾP NHẬN TRỰC TUYẾN",
+      "menuType": 1,
+      "order": 2,
+      "queryParams": "\/api\/dossiers\/todo?step=13x,14x,15x",
+      "steps": [
+        {
+          "buttonConfig": "\n      ",
+          "dossierStatus": "receiving",
+          "dossierSubStatus": "receiving_0",
+          "menuStepName": "Tiếp nhận lần đầu ",
+          "stepCode": "13x",
+          "stepName": "Tiếp nhận hồ sơ mới trực tuyến"
+        },
+        {
+          "buttonConfig": "\n      ",
+          "dossierStatus": "receiving",
+          "dossierSubStatus": "receiving_1",
+          "menuStepName": "Tiếp nhận bổ sung",
+          "stepCode": "14x",
+          "stepName": "Tiếp nhận hồ sơ bổ sung trực tuyến"
+        },
+        {
+          "buttonConfig": "\n      ",
+          "dossierStatus": "receiving",
+          "dossierSubStatus": "receiving_2",
+          "menuStepName": "Xác nhận nộp biên lai",
+          "stepCode": "15x",
+          "stepName": "Xác nhận nộp biên lai thuế trực tuyến"
+        }
+      ],
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
+    },
+    {
+      "buttonConfig": "\n      {\n        \"buttons\": [\n          {\n            \"tiltle\": \"Bàn giao hồ sơ liên thông\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"2000\",\n            \"onlySteps\": [\"120\"] \n          },\n          {\n            \"tiltle\": \"Chuyển thông báo bổ sung\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"5800\",\n            \"onlySteps\": [\"57x\"] \n          },\n          {\n            \"tiltle\": \"Bàn giao hồ sơ bổ sung\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"7100\",\n            \"onlySteps\": [\"59x\"] \n          },\n          {\n            \"tiltle\": \"Trả kết quả liên thông\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"4000\",\n            \"onlySteps\": [\"301\"] \n          },\n          {\n            \"tiltle\": \"Trả văn bản thông báo\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"4300\",\n            \"onlySteps\": [\"441\"] \n          }\n        ]\n      }\t  \n      ",
+      "menuGroup": "lien_thong_den",
+      "menuName": "HỒ SƠ LIÊN THÔNG ĐẾN",
+      "menuType": 1,
+      "order": 3,
+      "queryParams": "\/api\/dossiers\/todo?step=120,57x,59x,301,441",
+      "steps": [
+        {
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"In phiếu biên nhận\",\n          \"form\": \"PRINT_01\",\n          \"document\": \"DOC_01\"\n        },\n\t\t{\n          \"title\": \"In phiếu kiểm soát\",\n          \"form\": \"PRINT_01\",\n          \"document\": \"DOC_06\"\n        },\n\t\t{\n          \"title\": \"In biên bản bàn giao\",\n          \"form\": \"PRINT_01\",\n          \"document\": \"DOC_04\"\n        },\n\t\t{\n          \"title\": \"Sao chép hồ sơ\",\n          \"form\": \"COPY\"\n        },\n\t\t{\n          \"title\": \"Sửa chữa hồ sơ\",\n          \"form\": \"UPDATE\"\n        },\n\t\t{\n          \"title\": \"Xóa hồ sơ\",\n          \"form\": \"DELETE\"\n        }\n      ]}\n      ",
+          "dossierStatus": "new",
+          "dossierSubStatus": "new_1",
+          "menuStepName": "Tiếp nhận hồ sơ liên thông",
+          "stepCode": 120,
+          "stepName": "Tiếp nhận hồ sơ một cửa"
+        },
+        {
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"In thông báo\",\n          \"form\": \"PRINT_03\"\n        }\n      ]}\n      ",
+          "dossierStatus": "unresolved",
+          "dossierSubStatus": "unresolved_2",
+          "menuStepName": "Thông báo không giải quyết",
+          "stepCode": 441,
+          "stepName": "Thông báo không giải quyết liên thông"
+        },
+        {
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"In yêu cầu bổ sung\",\n          \"form\": \"PRINT_03\"\n        }\n      ]}\n      ",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_7",
+          "menuStepName": "Thông báo bổ sung liên thông",
+          "stepCode": "57x",
+          "stepName": "Thông báo yêu cầu bổ sung hồ sơ liên thông"
+        },
+        {
+          "buttonConfig": "\n      ",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_9",
+          "menuStepName": "Nhận bổ sung liên thông",
+          "stepCode": "59x",
+          "stepName": "Tiếp nhận bổ sung liên thông"
+        }
+      ],
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
+    },
+    {
+      "buttonConfig": "\n      {\n        \"buttons\": [\n          {\n            \"tiltle\": \"Bàn giao bổ sung\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"7100\",\n            \"onlySteps\": [\"54x\"] \n          },\n          {\n            \"tiltle\": \"Chuyển thông báo\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"5300,5400\",\n            \"onlySteps\": [\"52x\"] \n          }\n        ]\n      }\n      ",
+      "menuGroup": "bo_sung_ho_so",
+      "menuName": "BỔ SUNG HỒ SƠ",
       "menuType": 1,
       "order": 4,
-      "queryParams": "\/api\/dossiers?step=200,2xx",
+      "queryParams": "\/api\/dossiers\/todo?step=52x,54x",
       "steps": [
         {
-          "buttonConfig": "",
-          "dossierStatus": "processing",
-          "dossierSubStatus": "processing_00",
-          "menuStepName": "Bắt đầu thụ lý",
-          "stepCode": 200,
-          "stepName": "Bắt đầu thụ lý"
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"In thông báo\",\n          \"form\": \"PRINT_03\"\n        }\n      ]}\n      ",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_2",
+          "menuStepName": "Yêu cầu bổ sung",
+          "stepCode": "52x",
+          "stepName": "Bổ sung hồ sơ tại một cửa"
         },
         {
-          "buttonConfig": "",
-          "dossierStatus": "processing",
-          "dossierSubStatus": "processing_xx",
-          "menuStepName": "Bước thụ lý khác",
-          "stepCode": "2xx",
-          "stepName": "Bước thụ lý khác"
+          "buttonConfig": "\n      ",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_4",
+          "menuStepName": "Tiếp nhận bổ sung",
+          "stepCode": "54x",
+          "stepName": "Nhận bổ sung hồ sơ một cửa"
         }
       ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
     },
     {
-      "createDate": 20180625041959,
-      "menuGroup": "ke_hoach_thuc_dia",
-      "menuName": "KẾ HOẠCH THỰC ĐỊA",
+      "buttonConfig": "\n      {\n        \"buttons\": [\n          {\n            \"tiltle\": \"Bàn giao biên lai\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"7100\",\n            \"onlySteps\": [\"561\"] \n          },\n          {\n            \"tiltle\": \"Chuyển thông báo\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"5600,5610\",\n            \"onlySteps\": [\"550\"] \n          }\n        ]\n      }\n      ",
+      "menuGroup": "nghia_vu_tai_chinh",
+      "menuName": "NGHĨA VỤ TÀI CHÍNH",
       "menuType": 1,
       "order": 5,
-      "queryParams": "\/api\/dossiers?step=330,332",
+      "queryParams": "\/api\/dossiers\/todo?step=550,561",
       "steps": [
         {
-          "buttonConfig": "",
-          "dossierStatus": "inspecting",
-          "dossierSubStatus": "inspecting_0",
-          "menuStepName": "Chờ xác nhận kế hoạch",
-          "stepCode": 330,
-          "stepName": "Chờ xác nhận kế hoạch"
+          "buttonConfig": "\n      ",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_5",
+          "menuStepName": "Thông báo nộp thuế",
+          "stepCode": 550,
+          "stepName": "Thông báo nộp thuế bổ sung"
         },
         {
-          "buttonConfig": "",
-          "dossierStatus": "inspecting",
-          "dossierSubStatus": "inspecting_1",
-          "menuStepName": "Đề nghị điều chỉnh kế hoạch",
-          "stepCode": 332,
-          "stepName": "Đề nghị điều chỉnh kế hoạch"
+          "buttonConfig": "\n      ",
+          "dossierStatus": "waiting",
+          "dossierSubStatus": "waiting_6b",
+          "menuStepName": "Nhận biên lai thuế",
+          "stepCode": 561,
+          "stepName": "Nhận bổ sung biên lai thuế"
         }
       ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
     },
     {
-      "createDate": 20180622045348,
-      "menuGroup": "tam_dung_thu_ly",
-      "menuName": "TẠM DỪNG THỤ LÝ",
+      "buttonConfig": "\n      {\n        \"buttons\": [\n          {\n            \"tiltle\": \"Chuyển hồ sơ liên thông\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"3500\",\n            \"onlySteps\": [\"33x\",\"34x\"] \n          },\n          {\n            \"tiltle\": \"Bàn giao yêu cầu bổ sung\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"7200\",\n            \"onlySteps\": [\"36x\"] \n          },\n          {\n            \"tiltle\": \"Chuyển kết quả liên thông\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"3000,7200\",\n            \"onlySteps\": [\"37x\"] \n          },\n          {\n            \"tiltle\": \"Nhận văn bản thông báo\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"4400\",\n            \"onlySteps\": [\"38x\"] \n          }\n        ]\n      }\t  \n      ",
+      "menuGroup": "lien_thong_di",
+      "menuName": "HỒ SƠ LIÊN THÔNG ĐI",
       "menuType": 1,
-      "order": 6,
-      "queryParams": "\/api\/dossiers?online=false&status=new&step=110,120",
-      "steps": {
-        "buttonConfig": "",
-        "dossierStatus": "inspecting",
-        "dossierSubStatus": "inspecting_2",
-        "menuStepName": "Tạm dừng thụ lý",
-        "stepCode": 340,
-        "stepName": "Tạm dừng thụ lý"
-      },
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
-    },
-    {
-      "createDate": 20180625042004,
-      "menuGroup": "tra_ket_qua",
-      "menuName": "TRẢ KẾT QUẢ",
-      "menuType": 1,
-      "order": 7,
-      "queryParams": "\/api\/dossiers?step=300,301",
+      "order": 10,
+      "queryParams": "\/api\/dossiers\/todo?step=33x,36x,34x,37x,38x",
       "steps": [
         {
-          "buttonConfig": "",
-          "dossierStatus": "releasing",
-          "dossierSubStatus": "releasing_0",
-          "menuStepName": "Theo hẹn trả",
-          "stepCode": 300,
-          "stepName": "Trả đúng hạn"
-        },
-        {
-          "buttonConfig": "",
+          "buttonConfig": "\n      ",
           "dossierStatus": "releasing",
           "dossierSubStatus": "releasing_1",
-          "menuStepName": "Hẹn trả sớm",
+          "menuStepName": "Trả kết quả liên thông",
           "stepCode": 301,
-          "stepName": "Trả trước hạn"
-        }
-      ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
-    },
-    {
-      "createDate": 20180625042007,
-      "menuGroup": "chuyen_phat_buu_chinh",
-      "menuName": "CHUYỂN PHÁT BƯU CHÍNH",
-      "menuType": 1,
-      "order": 8,
-      "queryParams": "\/api\/dossiers?step=310,311",
-      "steps": [
-        {
-          "buttonConfig": "",
-          "dossierStatus": "posting",
-          "dossierSubStatus": "posting_0",
-          "menuStepName": "Chờ gửi bưu chính",
-          "stepCode": 310,
-          "stepName": "Chờ chuyển phát"
+          "stepName": "Trả kết quả liên thông"
         },
         {
-          "buttonConfig": "",
-          "dossierStatus": "posting",
-          "dossierSubStatus": "posting_1",
-          "menuStepName": "Đang chuyển phát",
-          "stepCode": 311,
-          "stepName": "Đang chuyển phát"
-        }
-      ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
-    },
-    {
-      "createDate": 20180625042009,
-      "menuGroup": "ho_so_lien_thong",
-      "menuName": "HỒ SƠ LIÊN THÔNG",
-      "menuType": 1,
-      "order": 9,
-      "queryParams": "\/api\/dossiers?step=320,321,322",
-      "steps": [
-        {
-          "buttonConfig": "",
+          "buttonConfig": "\n      ",
           "dossierStatus": "interoperating",
           "dossierSubStatus": "interoperating_0",
-          "menuStepName": "Chờ chuyển phát",
-          "stepCode": 320,
-          "stepName": "Chờ chuyển phát"
+          "menuStepName": "Gửi hồ sơ liên thông",
+          "stepCode": "33x",
+          "stepName": "Chờ gửi hồ sơ liên thông"
         },
         {
-          "buttonConfig": "",
+          "buttonConfig": "\n      ",
           "dossierStatus": "interoperating",
           "dossierSubStatus": "interoperating_1",
-          "menuStepName": "Đang xử lý",
-          "stepCode": 321,
-          "stepName": "Đang xử lý"
+          "menuStepName": "Bổ sung hồ sơ liên thông",
+          "stepCode": "34x",
+          "stepName": "Chờ gửi bổ sung liên thông"
         },
         {
-          "buttonConfig": "",
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"Tình trạng liên thông\",\n          \"form\": \"INTEROPERATING\"\n        }\n      ]}\n      ",
           "dossierStatus": "interoperating",
-          "dossierSubStatus": "interoperating_2",
-          "menuStepName": "Chờ bàn giao",
-          "stepCode": 322,
-          "stepName": "Chờ bàn giao"
+          "dossierSubStatus": "interoperating_3",
+          "menuStepName": "Nhận yêu cầu bổ sung",
+          "stepCode": "36x",
+          "stepName": "Nhận yêu cầu bổ sung liên thông"
+        },
+        {
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"Tình trạng liên thông\",\n          \"form\": \"INTEROPERATING\"\n        }\n      ]}\n      ",
+          "dossierStatus": "interoperating",
+          "dossierSubStatus": "interoperating_4",
+          "menuStepName": "Nhận kết quả liên thông",
+          "stepCode": "37x",
+          "stepName": "Nhận kết quả liên thông"
+        },
+        {
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"Tình trạng liên thông\",\n          \"form\": \"INTEROPERATING\"\n        }\n      ]}\n      ",
+          "dossierStatus": "interoperating",
+          "dossierSubStatus": "interoperating_5",
+          "menuStepName": "Nhận thông báo không giải quyết",
+          "stepCode": "38x",
+          "stepName": "Nhận thông báo không giải quyết liên thông"
         }
       ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
     },
     {
-      "createDate": 20180625042012,
+      "buttonConfig": "\n      ",
       "menuGroup": "thu_phi",
       "menuName": "THU PHÍ",
       "menuType": 1,
-      "order": 10,
-      "queryParams": "\/api\/dossiers?step=600,610",
+      "order": 11,
+      "queryParams": "\/api\/dossiers\/todo?step=60x,62x",
       "steps": [
         {
-          "buttonConfig": "",
+          "buttonConfig": "\n      ",
           "dossierStatus": "paying",
           "dossierSubStatus": "paying_0",
           "menuStepName": "Chờ nộp phí",
-          "stepCode": 600,
-          "stepName": "Chờ nộp phí"
+          "stepCode": "60x",
+          "stepName": "Chờ thanh toán một cửa"
         },
         {
-          "buttonConfig": "",
+          "buttonConfig": "\n      ",
           "dossierStatus": "paying",
-          "dossierSubStatus": "paying_2",
+          "dossierSubStatus": "paying_1",
           "menuStepName": "Chờ xác nhận",
-          "stepCode": 610,
-          "stepName": "Chờ xác nhận"
+          "stepCode": "62x",
+          "stepName": "Chờ xác nhận thanh toán"
         }
       ],
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
     },
     {
-      "createDate": 20180622045405,
-      "menuGroup": "cham_han_tra",
-      "menuName": "CHẬM HẠN TRẢ",
-      "menuType": 2,
-      "order": 11,
-      "queryParams": "\/api\/dossiers?online=false&status=new&step=110,120",
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
-    },
-    {
-      "createDate": 20180625041842,
-      "menuGroup": "qua_han_tra",
-      "menuName": "QUÁ HẠN TRẢ",
-      "menuType": 2,
+      "buttonConfig": "\n      {\n        \"buttons\": [\n          {\n            \"tiltle\": \"Trả trực tiếp\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"4000\",\n            \"onlySteps\": [\"300\"] \n          },\n          {\n            \"tiltle\": \"Trả qua bưu chính\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"3100\",\n            \"onlySteps\": [\"300\"] \n          },\n          {\n            \"tiltle\": \"Đã chuyển phát xong\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"4000\",\n            \"onlySteps\": [\"310\"] \n          },\n          {\n            \"tiltle\": \"Trả văn bản thông báo\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"4300\",\n            \"onlySteps\": [\"440\"] \n          }\n        ]\n      }\n      ",
+      "menuGroup": "tra_ket_qua",
+      "menuName": "TRẢ KẾT QUẢ",
+      "menuType": 1,
       "order": 12,
-      "queryParams": "\/dossiers?top=overdue&access=true",
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+      "queryParams": "\/api\/dossiers\/todo?step=300,310,440",
+      "steps": [
+        {
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"Báo sớm hạn\",\n          \"form\": \"BETIMES\"\n        }\n      ]}\n      ",
+          "dossierStatus": "releasing",
+          "dossierSubStatus": "releasing_0",
+          "menuStepName": "Chờ trả kết quả",
+          "stepCode": 300,
+          "stepName": "Trả kết quả trực tiếp (NLTT)"
+        },
+        {
+          "buttonConfig": "\n      ",
+          "dossierStatus": "posting",
+          "dossierSubStatus": "",
+          "menuStepName": "Đã gửi bưu chính",
+          "stepCode": 310,
+          "stepName": "Trả kết quả qua bưu chính (NLTT)"
+        },
+        {
+          "buttonConfig": "\n      {\"buttons\": [\n\t    { \n          \"title\": \"In thông báo\",\n          \"form\": \"PRINT_03\"\n        }\n      ]}\n      ",
+          "dossierStatus": "unresolved",
+          "dossierSubStatus": "unresolved_1",
+          "menuStepName": "Thông báo không giải quyết",
+          "stepCode": 440,
+          "stepName": "Thông báo không đủ điều kiện giải quyết (NLTT)"
+        }
+      ],
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
     },
     {
-      "createDate": 20180625041910,
-      "menuGroup": "sap_den_han",
-      "menuName": "SẮP ĐẾN HẠN",
-      "menuType": 2,
+      "buttonConfig": "\n      {\n        \"buttons\": [\n          {\n            \"tiltle\": \"Nhận yêu cầu rút\",\n            \"form\": \"CANCEL\"\n          },\n          {\n            \"tiltle\": \"Đồng ý rút hồ sơ\",\n            \"form\": \"ACTIONS\",\n            \"action\": \"4100\"\n          }\n        ]\n      }\n      ",
+      "menuGroup": "rut_ho_so",
+      "menuName": "RÚT HỒ SƠ",
+      "menuType": 1,
       "order": 13,
-      "queryParams": "\/dossiers?top=coming&access=true",
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+      "queryParams": "\/api\/dossiers\/todo?step=411,412",
+      "steps": [
+        {
+          "buttonConfig": "\n      ",
+          "dossierStatus": "cancelled",
+          "dossierSubStatus": "cancelled_1",
+          "menuStepName": "Rút trực tiếp",
+          "stepCode": 411,
+          "stepName": "Yêu cầu rút hồ sơ trực tiếp"
+        },
+        {
+          "buttonConfig": "\n      ",
+          "dossierStatus": "cancelled",
+          "dossierSubStatus": "cancelled_2",
+          "menuStepName": "Rút trực tuyến",
+          "stepCode": 412,
+          "stepName": "Tiếp nhận yêu cầu rút hồ sơ trực tuyến"
+        }
+      ],
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":false,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Bước xử lý\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dueDate\",\n\t\t\t\"class\": \"column_dueDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.stepName}}<\/p><p>Quyền: <span v-if=\\\"item.assigned==1\\\" style=\\\"color:blue;font-weight:bold\\\">Thực hiện<\/span><span v-else-if=\\\"item.assigned==2\\\" style=\\\"color:blue\\\">Phối hợp<\/span><span v-else>Theo dõi<\/span><\/p><p style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Chuyển đến bởi\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"stepOverdue\",\n\t\t\t\"class\": \"column_stepOverdue\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.lastActionUser}}<\/p><p>{{item.lastActionNote}}<\/p><p v-if=\\\"item.stepOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.stepOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.stepOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thao tác\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_action\",\n\t\t\t\"width\": \"50\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          }         \n        ]\n      }\n\t  \n      "
     },
     {
-      "createDate": 20180625041854,
-      "menuGroup": "quay_lui_xu_ly",
-      "menuName": "QUAY LUI XỬ LÝ",
-      "menuType": 2,
-      "order": 14,
-      "queryParams": "\/dossiers\/todo?rollback=true",
-      "tableConfig": "{  \n   \"headers\":[  \n      {  \n         \"text\":\"STT\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"stt_column\",\n         \"class_column\":\"stt_column\"\n      },\n      {  \n         \"text\":\"Mã hồ sơ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dossierIdCTN\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Người đăng ký\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"applicantName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Tên thủ tục\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"serviceName\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Địa chỉ\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"address\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Ngày giờ hẹn trả\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"dueDate\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thời hạn\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"value\": \"processUnit\",\n         \"class_column\":\"text-xs-center\"\n      },\n      {  \n         \"text\":\"Thao tác\",\n         \"align\":\"center\",\n         \"sortable\":false,\n         \"class\":\"action_column\",\n         \"class_column\":\"text-xs-center\"\n      }\n   ]\n}"
+      "buttonConfig": "\n\t  \t  \n\t  {\n        \"layout_view\": {\n          template: \"<v-layout wrap><v-flex xs2 class=\\\"px-2\\\"><v-select :items=\\\"item.years\\\" v-model=\\\"item.year\\\" label=\\\"Lọc hồ sơ theo năm:\\\" autocomplete item-text=\\\"name\\\" item-value=\\\"value\\\" return-object :hide-selected=\\\"true\\\" ><\/v-select><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-select :items=\\\"item.months\\\" v-model=\\\"item.month\\\" label=\\\"Lọc hồ sơ theo tháng:\\\" autocomplete item-text=\\\"name\\\" item-value=\\\"value\\\" return-object :hide-selected=\\\"true\\\" ><\/v-select><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-select :items=\\\"item.tops\\\" v-model=\\\"item.top\\\" label=\\\"Lọc hồ sơ theo top:\\\" autocomplete item-text=\\\"name\\\" item-value=\\\"value\\\" return-object :hide-selected=\\\"true\\\" ><\/v-select><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-select @change=\\\"getSubStatusList\\\" :items=\\\"item.statusLists\\\" v-model=\\\"item.status\\\" label=\\\"Lọc trạng thái hồ sơ:\\\" autocomplete item-text=\\\"itemName\\\" item-value=\\\"itemCode\\\" return-object :hide-selected=\\\"true\\\" ><\/v-select><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-select :items=\\\"item.substatusLists\\\" v-model=\\\"item.substatus\\\" label=\\\"Lọc trạng thái con:\\\" autocomplete item-text=\\\"itemName\\\" item-value=\\\"itemCode\\\" return-object :hide-selected=\\\"true\\\" ><\/v-select><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-select :items=\\\"item.agencyLists\\\" v-model=\\\"item.agency\\\" label=\\\"Lọc theo mã đơn vị:\\\" autocomplete item-text=\\\"administrationName\\\" item-value=\\\"administrationCode\\\" return-object :hide-selected=\\\"true\\\" ><\/v-select><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-select :items=\\\"item.serviceLists\\\" v-model=\\\"item.service\\\" label=\\\"Lọc theo mã thủ tục:\\\" autocomplete item-text=\\\"serviceName\\\" item-value=\\\"serviceCode\\\" return-object :hide-selected=\\\"true\\\" ><\/v-select><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-select :items=\\\"item.domainLists\\\" v-model=\\\"item.domain\\\" label=\\\"Lọc theo lĩnh vực:\\\" autocomplete item-text=\\\"domainName\\\" item-value=\\\"domainCode\\\" return-object :hide-selected=\\\"true\\\" ><\/v-select><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-text-field v-model=\\\"item.keyword\\\" label=\\\"Tìm theo từ khóa\\\" placeholder=\\\"từ khoá: abc...\\\" ><\/v-text-field><\/v-flex><v-flex xs2 class=\\\"px-2\\\"><v-text-field v-model=\\\"item.register\\\" label=\\\"Tìm theo mã sổ theo dõi\\\" placeholder=\\\"từ khoá: abc...\\\" ><\/v-text-field><\/v-flex> <v-flex xs12 class=\\\"px-2\\\"><v-btn color=\\\"primary\\\" class=\\\"mx-0\\\" style=\\\"float: left\\\" v-on:click.native=\\\"timKiemCustom()\\\">Tìm kiếm<\/v-btn><\/v-flex> <\/v-layout>\",\n          data: () => ({\n\t          item: this.item\n          }),\n          created: function () {\n\t\t    var vm = this\n\t\t    vm.$store.dispatch('getStatusLists').then(function (result) {\n\t\t\t    vm.item.statusLists = result\n\t\t\t})\n\t\t\tlet filter = {\n\t\t\t\titemCode: ''\n\t\t\t}\n\t\t\tvm.$store.dispatch('getSubstatusLists', filter).then(function (result) {\n\t\t\t    vm.item.substatusLists = result\n\t\t\t})\n\t\t\tvm.$store.dispatch('getAgencyLists').then(function (result) {\n\t\t\t    vm.item.agencyLists = result\n\t\t\t})\t\t\t\n\t\t\tvm.$store.dispatch('getServiceLists').then(function (result) {\n\t\t\t    vm.item.serviceLists = result\n\t\t\t})\n\t\t\tvm.$store.dispatch('getDomainLists').then(function (result) {\n\t\t\t    vm.item.domainLists = result\n\t\t\t})\t\t\t\n\t\t  },\n\t\t  methods: {\n\t\t\t  getSubStatusList: function (item) {\n\t\t\t\t  var vm = this\n\t\t\t\t  let filter = {\n\t\t\t\t\t  itemCode: item.itemCode\n\t\t\t\t  }\n\t\t\t\t  vm.$store.dispatch('getSubstatusLists', filter).then(function (result) {\n\t\t\t\t    vm.item.substatusLists = result\n\t\t\t\t  })\n\t\t\t  },\n\t\t\t  timKiemCustom: function () {\n\t\t\t\t  var vm = this\n\t\t\t\t  let currentQuery = vm.$router.history.current.query\n\t\t\t\t  vm.$router.push({\n\t\t\t          path: vm.$router.history.current.path,\n\t\t\t          query: {\n\t\t                recount: Math.floor(Math.random() * (100 - 1 + 1)) + 1,\n\t\t                renew: Math.floor(Math.random() * (100 - 1 + 1)) + 1,\n\t\t                agency: vm.item.agency.administrationCode,\n\t\t                service: vm.item.service.serviceCode,\n\t\t                domain: vm.item.domain.domainCode,\n\t\t                status: vm.item.status.itemCode,\n\t\t                substatus: vm.item.substatus.itemCode,\n\t\t                year: vm.item.year.value,\n\t\t                month: vm.item.month.value,\n\t\t                top: vm.item.top.value,\n\t\t                keyword: vm.item.keyword,\n\t\t                register: vm.item.register,\n\t\t                q: currentQuery['q']\n\t\t              }\n\t\t\t        })\n\t\t\t  }\n\t\t  }\n        }\n      }\n\t  \n      ",
+      "menuGroup": "tra_cuu_ho_so",
+      "menuName": "TRA CỨU HỒ SƠ",
+      "menuType": 3,
+      "order": 15,
+      "queryParams": "\/api\/dossiers?",
+      "tableConfig": "\n\t  \n      {\n        \"hideAction\":true,\n        \"headers\": [ \n          {  \n            \"text\":\"#\",\n            \"align\":\"center\",\n            \"sortable\":false,\n\t\t\t\"class\": \"column_stt\",\n\t\t\t\"width\": \"30\",\n\t\t\t\"class_column\": \"text-xs-center\"\n          },\n          {  \n            \"text\":\"Mã hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":true,\n            \"value\":\"dossierNo\",\n\t\t\t\"class\": \"column_dossierNo\",\n\t\t\t\"width\": \"150\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierNo}}<\/p><p v-if=\\\"!item.online\\\" style=\\\"color:green\\\">Hồ sơ một cửa<\/p><p v-else style=\\\"color:blue\\\">Hồ sơ trực tuyến<\/p><p v-if=\\\"item.viaPostal==2\\\" style=\\\"color:blue\\\">Dịch vụ chuyển phát<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thủ tục\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"serviceName\",\n\t\t\t\"class\": \"column_serviceName\",\n\t\t\t\"width\": \"250\",\n\t\t\t\"class_column\": \"text-xs-left\"\n          },\n          {  \n            \"text\":\"Chủ hồ sơ\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"applicantName\",\n\t\t\t\"class\": \"column_applicantName\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.applicantName}}<\/p><span>{{item.wardName}}<\/span><span v-if=\\\"item.wardName\\\">, <\/span><span>{{item.districtName}}<\/span><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Thời gian\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"receiveDate\",\n\t\t\t\"class\": \"column_receiveDate\",\n\t\t\t\"width\": \"180\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>Tiếp nhận: {{item.receiveDate}}<\/p><p>Hẹn trả: {{item.dueDate}}<\/p><p v-if=\\\"item.dossierOverdue.indexOf(\\'Quá\\') >= 0\\\" style=\\\"color:red\\\">{{item.dossierOverdue}}<\/p><p v-else style=\\\"color:green\\\">{{item.dossierOverdue}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Trạng thái\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"dossierStatusText\",\n\t\t\t\"class\": \"column_dossierStatusText\",\n\t\t\t\"width\": \"120\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p>{{item.dossierStatusText}}<\/p><p>{{item.dossierSubStatusText}}<\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          },\n          {  \n            \"text\":\"Ghi chú\",\n            \"align\":\"center\",\n            \"sortable\":false,\n            \"value\":\"briefNote\",\n\t\t\t\"class\": \"column_briefNote\",\n\t\t\t\"width\": \"200\",\n\t\t\t\"class_column\": \"text-xs-left\",\n            \"layout_view\": {\n\t\t      \"template\": \"<div><p v-html=\\\"item.briefNote\\\"><\/p><p v-html=\\\"item.dossierNote\\\"><\/p><\/div>\",\n\t\t      \"data\": () => ({\n\t\t        \"item\": this.item\n\t\t      })\n\t\t    }\n          }\n        ]\n      }\n\t  \n      "
     }
   ],
-  "total": 14
+  "total": 10
 }

@@ -1,105 +1,101 @@
 {
-  "total": 4,
+  "total": 15,
   "data": [
     {
-      "employeeId": 101,
-      "createDate": "2017-09-30T14:31:29.615Z",
-      "modifiedDate": "2017-09-30T14:31:29.616Z",
-      "employeeNo": "NS101",
+      "employeeId": 12101,
+      "userId": 20164,
+      "userName": "Trịnh Công Trình",
+      "createDate": "2018-07-21T15:03:40.000Z",
+      "modifiedDate": "2018-07-21T15:33:34.000Z",
+      "employeeNo": "test",
       "fullName": "Trịnh Công Trình",
-      "title": "BS 1",
-      "jobTitle": "Chủ tịch UBND Quận",
-      "workingUnitName": "Hội đồng quản trị",
-      "gender": "Nam",
-
-	"birthdate": "1990-09-30T14:31:29.616Z",
-      "telNo": "09823456",
-      "email": "anv@gmail.com",
-      "workingStatus": 0,
-      "recruitDate": "2017-09-30T14:31:29.617Z",
-      "leaveDate": "2017-09-30T14:31:29.617Z",
-      "permission": "",
-      "mappingUser": {
-        "userId": 101,
-        "screenName": "anv",
-        "locking": false
-      }
-    },
-
-{
-      "employeeId": 102,
-      "createDate": "2017-09-30T14:31:29.615Z",
-      "modifiedDate": "2017-09-30T14:31:29.616Z",
-      "employeeNo": "NS102",
-      "fullName": "Nguyễn Văn Thành",
-      "jobTitle": "BS 2",
-      "jobPosTitle": "Phó chủ tịch Quận",
-      "workingUnitName": "Hội đồng quản trị",
-      "gender": "Nam",
-
-	"birthdate": "1990-09-30T14:31:29.616Z",
-      "telNo": "09823456",
-      "email": "bnv@gmail.com",
-      "workingStatus": 0,
-      "recruitDate": "2017-09-30T14:31:29.617Z",
-      "leaveDate": "2017-09-30T14:31:29.617Z",
-      "permission": "",
-      "mappingUser": {
-        "userId": 102,
-        "screenName": "anb",
-        "locking": false
-      }
-    },
-
-{
-      "employeeId": 103,
-      "createDate": "2017-09-30T14:31:29.615Z",
-      "modifiedDate": "2017-09-30T14:31:29.616Z",
-      "employeeNo": "NS103",
-      "fullName": "Lê Tiến Hoàn",
-      "jobTitle": "BS 1",
-      "jobPosTitle": "Giám đốc phòng TNMT",
-      "workingUnitName": "Hội đồng quản trị",
-      "gender": "Nam",
-
-	"birthdate": "1997-09-30T14:31:29.616Z",
-      "telNo": "09823456",
-      "email": "cnv@gmail.com",
+      "title": "",
+      "gender": 1,
+      "birthdate": "1989-12-19T00:00:00.000Z",
+      "telNo": "",
+      "mobile": "",
+      "email": "congtrinh@liferay.com",
       "workingStatus": 1,
-      "recruitDate": "2017-09-30T14:31:29.617Z",
-      "leaveDate": "2017-09-30T14:31:29.617Z",
-      "permission": "",
+      "permission": "read",
+      "jobPosTitle": "Chuyên viên xử lý",
+      "workingUnitName": "Sở tài nguyên và môi trường",
       "mappingUser": {
-        "userId": 103,
-        "screenName": "cnv",
+        "userId": 20164,
+        "screenName": "Trịnh Công Trình",
         "locking": false
       }
     },
-
-{
-      "employeeId": 104,
-      "createDate": "2017-09-30T14:31:29.615Z",
-      "modifiedDate": "2017-09-30T14:31:29.616Z",
-      "employeeNo": "NS104",
-      "fullName": "NGUYEN VAN A",
-      "title": "BS 1",
-      "jobPosTitle": "BS 1",
-      "workingUnitName": "Hội đồng quản trị",
-      "gender": "Nam",
-
-	"birthdate": "1999-09-30T14:31:29.616Z",
-      "telNo": "09823456",
-      "email": "dnv@gmail.com",
-      "workingStatus": 0,
-      "recruitDate": "2017-09-30T14:31:29.617Z",
-      "leaveDate": "2017-09-30T14:31:29.617Z",
-      "permission": "",
+    {
+      "employeeId": 12301,
+      "userId": 20164,
+      "userName": "Nguyễn Văn Thành",
+      "createDate": "2018-07-23T10:22:08.000Z",
+      "modifiedDate": "2018-07-23T10:22:12.000Z",
+      "employeeNo": "mc_sxd",
+      "fullName": "Nguyễn Văn Thành",
+      "title": "",
+      "gender": 1,
+      "birthdate": "1983-10-19T00:00:00.000Z",
+      "telNo": "",
+      "mobile": "",
+      "email": "thanhnv@phutho.gov.vn",
+      "workingStatus": 1,
+      "permission": "read",
+      "jobPosTitle": "Trưởng phòng",
+      "workingUnitName": "Sở Xây dựng",
       "mappingUser": {
-        "userId": 104,
-        "screenName": "dnv",
+        "userId": 398701,
+        "screenName": "Nguyễn Văn Thành",
+        "locking": false
+      }
+    },
+    {
+      "employeeId": 12302,
+      "userId": 20164,
+      "userName": "Thái Hoàng Anh",
+      "createDate": "2018-07-23T10:24:01.000Z",
+      "modifiedDate": "2018-07-23T10:24:04.000Z",
+      "employeeNo": "mc_stn",
+      "fullName": "Thái Hoàng Anh",
+      "title": "",
+      "gender": 1,
+      "birthdate": "1987-11-29T00:00:00.000Z",
+      "telNo": "",
+      "mobile": "",
+      "email": "anhth@phutho.gov.vn",
+      "workingStatus": 1,
+      "permission": "read",
+      "jobPosTitle": "Chuyên viên",
+      "workingUnitName": "Sở Tài Nguyên Và Môi Trường",
+      "mappingUser": {
+        "userId": 406902,
+        "screenName": "Thái Hoàng Anh",
+        "locking": false
+      }
+    },
+    {
+      "employeeId": 12305,
+      "userId": 20169,
+      "userName": "Nguyễn Văn Nam",
+      "createDate": "2018-07-23T10:24:01.000Z",
+      "modifiedDate": "2018-07-23T10:24:04.000Z",
+      "employeeNo": "mc_stn",
+      "fullName": "Nguyễn Văn Nam",
+      "title": "",
+      "gender": 1,
+      "birthdate": "1989-12-19T00:00:00.000Z",
+      "telNo": "",
+      "mobile": "",
+      "email": "namnv@phutho.gov.vn",
+      "workingStatus": 1,
+      "permission": "read",
+      "jobPosTitle": "Phó phòng",
+      "workingUnitName": "Sở Tài Nguyên Và Môi Trường",
+      "mappingUser": {
+        "userId": 406902,
+        "screenName": "Nguyễn Văn Nam",
         "locking": false
       }
     }
-
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "total": 2,
+  "users": [
+    {
+      "userId": 398701,
+      "userName": "Một cửa sở Xây dựng",
+      "moderator": false,
+      "assigned": 0
+    },
+    {
+      "userId": 428785,
+      "userName": "Full Quyền",
+      "moderator": false,
+      "assigned": 0
+    }
+  ],
+  "data": [
+    {
+      "processActionId": 22137,
+      "actionCode": 5000,
+      "actionName": "Yêu cầu hoàn thiện",
+      "preStepCode": 110,
+      "postStepCode": 500,
+      "autoEvent": "",
+      "preCondition": "",
+      "enable": 1
+    },
+    {
+      "processActionId": 22137,
+      "actionCode": 1100,
+      "actionName": "Phân công thụ lý",
+      "preStepCode": 110,
+      "postStepCode": 500,
+      "autoEvent": "",
+      "preCondition": "",
+      "enable": 1
+    },
+    {
+      "processActionId": 22137,
+      "actionCode": 2000,
+      "actionName": "Bàn giao thụ lý",
+      "preStepCode": 110,
+      "postStepCode": 200,
+      "autoEvent": "",
+      "preCondition": "",
+      "enable": 1
+    },
+    {
+      "processActionId": 22137,
+      "actionCode": 7100,
+      "actionName": "Trả kết quả",
+      "preStepCode": 110,
+      "postStepCode": 200,
+      "autoEvent": "",
+      "preCondition": "",
+      "enable": 1
+    }
+  ],
+  "stepOverdueNextAction" : "Quá hạn 5 ngày"
+}
