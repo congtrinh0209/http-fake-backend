@@ -1,0 +1,25 @@
+{
+  "total": 4,
+  "data": [
+    {
+      "domainIndex": "",
+      "domainCode": "SVHTTDL_DL",
+      "domainName": "Du lịch"
+    },
+    {
+      "domainIndex": "",
+      "domainCode": "SVHTTDL_GD",
+      "domainName": "Gia đình"
+    },
+    {
+      "domainIndex": "",
+      "domainCode": "SVHTTDL_TDTT",
+      "domainName": "Thể dục thể thao"
+    },
+    {
+      "domainIndex": "",
+      "domainCode": "SVHTTDL_VH",
+      "domainName": "Văn hóa"
+    }
+  ]
+}

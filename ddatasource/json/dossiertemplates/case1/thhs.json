@@ -1,1 +1,118 @@
-{"dossierTemplateId":12106,"createDate":"27\/02\/2018 10:07:08","modifiedDate":"27\/02\/2018 10:07:08","templateName":"Công nhận Ban vận động thành lập hội thể thao quốc gia","description":"Công nhận Ban vận động thành lập hội thể thao quốc gia","templateNo":"TT69_HS69","dossierParts":[{"partNo":"TP1","partName":"Đơn xin công nhận Ban vận động thành lập hội, trong đơn nêu rõ tên hội, tôn chỉ, mục đích của hội, lĩnh vực mà hội dự kiến hoạt động, phạm vi hoạt động, dự kiến thời gian trù bị thành lập hội và nơi tạm thời làm địa điểm hội họp","partTip":"Đơn xin công nhận Ban vận động thành lập hội, trong đơn nêu rõ tên hội, tôn chỉ, mục đích của hội, lĩnh vực mà hội dự kiến hoạt động, phạm vi hoạt động, dự kiến thời gian trù bị thành lập hội và nơi tạm thời làm địa điểm hội họp","partType":1,"multiple":false,"required":true,"fileTemplateNo":"TP1","esign":false,"hasForm":true,"deliverableAction":0},{"partNo":"TP2","partName":"Danh sách và trích ngang của những người dự kiến trong Ban vận động thành lập hội: Họ, tên; ngày, tháng, năm sinh; trú quán; trình độ văn hóa; trình độ chuyên môn","partTip":"Danh sách và trích ngang của những người dự kiến trong Ban vận động thành lập hội: Họ, tên; ngày, tháng, năm sinh; trú quán; trình độ văn hóa; trình độ chuyên môn","partType":1,"multiple":false,"required":true,"fileTemplateNo":"TP2","esign":false,"hasForm":true,"deliverableAction":0},{"partNo":"KQ1","partName":"Quyết định công nhận","partTip":"Quyết định công nhận","partType":2,"multiple":false,"required":true,"fileTemplateNo":"KQ1","esign":false,"hasForm":true,"deliverableAction":0},{"partNo":"KQ2","partName":"Văn bản yêu cầu hoàn thiện, bổ sung hồ sơ","partTip":"Văn bản yêu cầu hoàn thiện, bổ sung hồ sơ","partType":2,"multiple":false,"required":true,"fileTemplateNo":"KQ2","esign":false,"hasForm":false,"deliverableAction":0},{"partNo":"KQ3","partName":"Văn bản từ chối","partTip":"Văn bản từ chối","partType":2,"multiple":false,"required":true,"fileTemplateNo":"KQ3","esign":false,"hasForm":false,"deliverableAction":0},{"partNo":"KQ4","partName":"Danh sách thành viên Ban vận động","partTip":"Danh sách thành viên Ban vận động","partType":2,"multiple":false,"required":true,"fileTemplateNo":"KQ4","esign":false,"hasForm":false,"deliverableAction":0}]}
+{
+  "dossierTemplateId": 515,
+  "createDate": "26/09/2018 18:28:45",
+  "modifiedDate": "09/11/2018 16:46:56",
+  "templateName": "Cấp phép phổ biến tác phẩm sáng tác trước năm 1975 hoặc tác phẩm của người Việt Nam đang sinh sống và định cư ở nước ngoài",
+  "description": "",
+  "templateNo": "TT50_79_2012_ND_CP_HS50",
+  "dossierParts": [
+    {
+      "partNo": "TP1",
+      "partName": "01 đơn đề nghị cấp phép phổ biến tác phẩm sáng tác trước năm 1975 hoặc tác phẩm của người Việt Nam định cư ở nước ngoài",
+      "partTip": "Bản khai trực tuyến",
+      "partType": 1,
+      "multiple": true,
+      "required": true,
+      "fileTemplateNo": "BM08_79_2012_ND_CP_TT50",
+      "esign": false,
+      "hasForm": true,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP2",
+      "partName": "01 bản sao bản nhạc hoặc kịch bản sân khấu",
+      "partTip": "{\"tip\":\"Đính kèm\",\"maxSize\":10,\"extensions\":\"png,jpg,jpeg,pdf,docx,doc,xls,xlsx,txt,rtf\"}",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP2",
+      "esign": false,
+      "hasForm": true,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP3",
+      "partName": "01 bản sao chứng minh nhân dân hoặc hộ chiếu của tác giả",
+      "partTip": "Đính kèm",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP3",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP4",
+      "partName": "01 bản sao quyết định thành lập hoặc giấy chứng nhận đăng ký doanh nghiệp",
+      "partTip": "{\"tip\":\"Đính kèm\",\"maxSize\":10,\"extensions\":\"png,jpg,jpeg,pdf,docx,doc,xls,xlsx,txt,rtf\"}",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP4",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP5",
+      "partName": "01 bản sao văn bản nhận xét của cơ quan ngoại giao Việt Nam tại nước sở tại",
+      "partTip": "Đính kèm",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP5",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP6",
+      "partName": "01 bản ghi âm có nội dung tác phẩm",
+      "partTip": "Đính kèm",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP6",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "KQ3",
+      "partName": "Văn bản yêu cầu bổ sung hồ sơ",
+      "partTip": "{\"tip\":\"Đính kèm\",\"maxSize\":10,\"extensions\":\"png,jpg,jpeg,pdf,docx,doc,xls,xlsx,txt,rtf\"}",
+      "partType": 2,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "KQ3",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "KQ2",
+      "partName": "Văn bản từ chối",
+      "partTip": "{\"tip\":\"Đính kèm\",\"maxSize\":10,\"extensions\":\"png,jpg,jpeg,pdf,docx,doc,xls,xlsx,txt,rtf\"}",
+      "partType": 2,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "KQ2",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "KQ4",
+      "partName": "Phiếu kết quả tính số tiền thẩm định",
+      "partTip": "{\"tip\":\"Đính kèm\",\"maxSize\":10,\"extensions\":\"png,jpg,jpeg,pdf,docx,doc,xls,xlsx,txt,rtf\"}",
+      "partType": 2,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "KQ4",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    }
+  ]
+}

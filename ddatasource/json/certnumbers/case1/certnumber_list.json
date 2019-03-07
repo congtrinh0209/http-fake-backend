@@ -1,0 +1,1295 @@
+{
+  "total": 215,
+  "data": [
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "1",
+      "certId": "DVCPT_CERT@SCT@53617"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "213",
+      "certId": "DVCPT_CERT_CURR@SCT@53617"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "75",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10046"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "76",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10291"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "77",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10294"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "78",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10308"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "79",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10309"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "80",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10310"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "81",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10343"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "82",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10454"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "83",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10673"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "84",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10897"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "85",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@10938"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "86",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11376"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "87",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11389"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "88",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11407"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "89",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11520"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "90",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11521"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "91",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11813"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "92",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11839"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "93",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11866"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "94",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11923"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "95",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11937"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "96",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11955"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "97",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11964"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "98",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@11974"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "99",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@12059"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "100",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@12061"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "101",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@12318"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "102",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@12323"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "103",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@13166"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "104",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@13301"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "105",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@13302"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "106",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@13303"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "107",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@13356"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "108",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@13361"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "109",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@14365"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "110",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@14743"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "111",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@14744"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "112",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@14749"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "113",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15032"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "114",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15062"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "115",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15208"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "116",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15283"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "117",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15432"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "118",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15444"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "119",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15485"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "120",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15634"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "121",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15635"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "122",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15636"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "123",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15637"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "124",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15638"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "125",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15715"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "126",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15716"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "127",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15717"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "128",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15719"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "129",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15723"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "130",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15724"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "131",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15745"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "132",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15782"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "133",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15789"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "134",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15792"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "135",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15829"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "136",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15832"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "137",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15852"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "138",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15866"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "139",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15904"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "140",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15905"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "141",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15906"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "142",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15907"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "143",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15908"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "144",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15909"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "145",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15910"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "146",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15911"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "147",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15912"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "148",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15913"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "149",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15914"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "150",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15915"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "151",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15916"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "152",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15919"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "153",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15975"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "154",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15976"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "155",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@15987"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "156",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16021"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "157",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16024"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "158",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16026"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "159",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16080"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "160",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16082"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "161",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16178"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "162",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16180"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "163",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16337"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "164",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16415"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "165",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16452"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "166",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16455"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "167",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16458"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "168",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16464"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "169",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16469"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "170",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@16926"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "171",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17183"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "172",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17195"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "173",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17210"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "174",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17259"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "175",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17323"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "176",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17337"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "177",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17339"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "178",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17394"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "179",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17396"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "180",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17488"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "181",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@17676"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "182",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@18106"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "183",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@18109"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "184",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@18113"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "185",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@18324"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "186",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@18379"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "187",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@18808"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "188",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@19413"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "189",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@20263"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "190",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@20560"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "191",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@20561"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "192",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@20925"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "193",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@20940"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "194",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@20950"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "195",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@20960"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "196",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@20975"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "197",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21025"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "198",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21113"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "199",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21193"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "200",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21264"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "201",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21585"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "202",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21607"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "203",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21788"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "204",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21810"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "205",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21813"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "206",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21871"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "207",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@21878"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "208",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@22378"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "209",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@22568"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "210",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@22888"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "211",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@23121"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "212",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@23774"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "213",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@23839"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "1",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@4702"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "2",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@4815"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "3",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5133"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "4",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5143"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "5",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5151"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "6",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5164"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "7",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5167"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "8",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5206"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "9",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5212"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "10",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5215"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "11",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5219"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "12",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5316"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "13",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5317"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "14",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5318"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "15",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5336"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "16",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@5338"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "17",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@6811"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "18",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@7462"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "19",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@7475"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "20",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@7516"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "21",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@7603"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "22",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@7605"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "23",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@7912"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "24",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8034"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "25",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8215"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "26",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8225"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "27",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8227"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "28",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8237"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "29",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8258"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "30",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8306"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "31",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8310"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "32",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8312"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "33",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8315"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "34",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8319"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "35",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8601"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "36",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8603"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "37",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8614"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "38",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8635"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "39",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8636"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "40",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8638"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "41",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8640"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "42",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8642"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "43",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8644"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "44",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8665"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "45",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8717"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "46",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8719"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "47",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8809"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "48",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8812"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "49",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8856"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "50",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8866"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "51",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8872"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "52",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8890"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "53",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@8904"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "54",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9022"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "55",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9023"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "56",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9026"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "57",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9027"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "58",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9028"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "59",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9029"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "60",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9030"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "61",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9037"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "62",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9038"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "63",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9047"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "64",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9048"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "65",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9049"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "66",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9115"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "67",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9123"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "68",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9197"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "69",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9212"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "70",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9220"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "71",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9225"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "72",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9247"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "73",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9544"
+    },
+    {
+      "groupId": "53617",
+      "pattern": "SCT",
+      "initNumber": "74",
+      "certId": "DVCPT_CERT_ELM@SCT@53617@9548"
+    }
+  ]
+}

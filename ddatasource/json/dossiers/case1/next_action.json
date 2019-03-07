@@ -1,5 +1,6 @@
 {
   "total": 2,
+  "checkInput":0,
   "users": [
     {
       "userId": 398701,
@@ -8,8 +9,14 @@
       "assigned": 0
     },
     {
-      "userId": 428785,
+      "userId": 20164,
       "userName": "Full Quyền",
+      "moderator": false,
+      "assigned": 1
+    },
+    {
+      "userId": 20161,
+      "userName": "Cv Mot cua",
       "moderator": false,
       "assigned": 0
     }
@@ -23,7 +30,7 @@
       "postStepCode": 500,
       "autoEvent": "",
       "preCondition": "",
-      "enable": 1
+      "enable": 2
     },
     {
       "processActionId": 22137,
@@ -52,6 +59,26 @@
       "preStepCode": 110,
       "postStepCode": 200,
       "autoEvent": "",
+      "preCondition": "",
+      "enable": 1
+    },
+    {
+      "processActionId": 22137,
+      "actionCode": 7100,
+      "actionName": "Rút hồ sơ",
+      "preStepCode": 110,
+      "postStepCode": 200,
+      "autoEvent": "special",
+      "preCondition": "",
+      "enable": 0
+    },
+    {
+      "processActionId": 284940,
+      "actionCode": 4200,
+      "actionName": "Từ chối tiếp nhận",
+      "preStepCode": 130,
+      "postStepCode": 420,
+      "autoEvent": "special",
       "preCondition": "",
       "enable": 1
     }

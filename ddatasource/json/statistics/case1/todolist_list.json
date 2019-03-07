@@ -1,1 +1,75 @@
-{"total": 0}
+{
+  "total": 165,
+  "data": [
+    {
+      "key": "new",
+      "title": "Hồ sơ mới",
+      "count": 1
+    },
+    {
+      "key": "cancelled",
+      "title": "Rút hồ sơ",
+      "count": 0
+    },
+    {
+      "key": "denied",
+      "title": "Từ chối tiếp nhận",
+      "count": 0
+    },
+    {
+      "key": "waiting",
+      "title": "Chờ bổ sung",
+      "count": 1
+    },
+    {
+      "key": "receiving",
+      "title": "Chờ tiếp nhận",
+      "count": 10
+    },
+    {
+      "key": "interoperating",
+      "title": "Đang xử lý liên thông",
+      "count": 26
+    },
+    {
+      "key": "processing",
+      "title": "Đang xử lý",
+      "count": 53
+    },
+    {
+      "key": "done",
+      "title": "Hoàn thành",
+      "count": 57
+    },
+    {
+      "key": "unresolved",
+      "title": "Từ chối giải quyết",
+      "count": 4
+    },
+    {
+      "key": "posting",
+      "title": "Bưu điện đang chuyển phát",
+      "count": 4
+    },
+    {
+      "key": "paying",
+      "title": "Chờ thanh toán",
+      "count": 9
+    },
+    {
+      "key": "delay",
+      "title": "Chậm hạn",
+      "count": 0
+    },
+    {
+      "key": "overdue",
+      "title": "Quá hạn",
+      "count": 52
+    },
+    {
+      "key": "coming",
+      "title": "Sắp đến hạn",
+      "count": 11
+    }
+  ]
+}

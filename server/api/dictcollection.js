@@ -415,12 +415,32 @@ module.exports = SetupEndpoint({
             ]
         },
         {
-            params: '/GOVERMENT_AGENCY/dictitems',
+            params: '/GOVERNMENT_AGENCY/dictitems',
             requests: 
             [
             {
                 method: ['GET'],  
                 response: '/ddatasource/json/dictcollections/case1/dictitem_goverment_list.json',
+                statusCode: 200
+            },
+            {
+                method: ['POST'],  
+                response: 
+                {
+                    code: 123, 
+                    message: "No permission"
+                },
+                statusCode: 403 
+            }
+            ]
+        },
+        {
+            params: '/GOVERNMENT_AGENCY/dictgroups',
+            requests: 
+            [
+            {
+                method: ['GET'],  
+                response: '/ddatasource/json/dictcollections/case1/dictgroup_goverment_list.json',
                 statusCode: 200
             },
             {
@@ -461,6 +481,46 @@ module.exports = SetupEndpoint({
             {
                 method: ['GET'],  
                 response: '/ddatasource/json/dictcollections/case1/dictitem_region_list.json',
+                statusCode: 200
+            },
+            {
+                method: ['POST'],  
+                response: 
+                {
+                    code: 123, 
+                    message: "No permission"
+                },
+                statusCode: 403 
+            }
+            ]
+        },
+        {
+            params: '/DOSSIER_STATUS/dictitems',
+            requests: 
+            [
+            {
+                method: ['GET'],  
+                response: '/ddatasource/json/dictcollections/case1/dictitem_dossier_status.json',
+                statusCode: 200
+            },
+            {
+                method: ['POST'],  
+                response: 
+                {
+                    code: 123, 
+                    message: "No permission"
+                },
+                statusCode: 403 
+            }
+            ]
+        },
+        {
+            params: '/jexcel/backend.datamgt.service/org.opencps.datamgt.model.DictCollection/org.opencps.datamgt.service.DictCollectionLocalServiceUtil/collectionCode/dataForm',
+            requests: 
+            [
+            {
+                method: ['GET'],  
+                response: '/ddatasource/json/dictcollections/case1/privacy.json',
                 statusCode: 200
             },
             {

@@ -3,7 +3,7 @@
 const SetupEndpoint = require('./setup/setup.js');
 
 module.exports = SetupEndpoint({
-    name: 'serverconfigs',
+    name: 'serviceconfigs',
     urls:
     [
         {
@@ -59,7 +59,7 @@ module.exports = SetupEndpoint({
             ]
         },
 		{
-            params: '/3',
+            params: '/9331/guide',
             requests:
             [
                 {
@@ -312,7 +312,39 @@ module.exports = SetupEndpoint({
                     statusCode: 201
                 }
             ]
+        },
+        {
+            params: '/6871/processes',
+            requests:
+            [
+                {
+                    method: ['GET',],
+                    response: '/ddatasource/json/serviceopts/case1/serviceProcess.json',
+                    statusCode: 200
+                }
+            ]
+        },
+        {
+            params: '/pubish/STNMT/domains',
+            requests:
+            [
+                {
+                    method: ['GET',],
+                    response: '/ddatasource/json/serviceopts/case1/domains.json',
+                    statusCode: 200
+                }
+            ]
+        },
+        {
+            params: '/pubish/SKHCN/domains',
+            requests:
+            [
+                {
+                    method: ['GET',],
+                    response: '/ddatasource/json/serviceopts/case1/domains.json',
+                    statusCode: 200
+                }
+            ]
         }
-
     ]
 });

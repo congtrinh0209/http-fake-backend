@@ -1,0 +1,130 @@
+{
+  "dossierTemplateId": 506,
+  "createDate": "26/09/2018 18:28:37",
+  "modifiedDate": "19/10/2018 09:56:21",
+  "templateName": "Cấp giấy phép tổ chức biểu diễn nghệ thuật, trình diễn thời trang cho các tổ chức thuộc Trung ương",
+  "description": "",
+  "templateNo": "TT40_79_2012_ND_CP_HS40",
+  "dossierParts": [
+    {
+      "partNo": "TP1",
+      "partName": "Đơn đề nghị cấp giấy phép tổ chức biểu diễn nghệ thuật, trình diễn thời trang (Mẫu số 01 Phụ lục ban hành kèm theo Nghị định số 79/2012/NĐ-CP ngày 05 tháng 10 năm 2012)",
+      "partTip": "Bản khai trực tuyến",
+      "partType": 1,
+      "multiple": true,
+      "required": true,
+      "fileTemplateNo": "BM01_79_2012_ND_CP_TT40",
+      "esign": false,
+      "hasForm": true,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP2",
+      "partName": "Bản nội dung chương trình, tác giả, đạo diễn, người biểu diễn; danh mục bộ sưu tập và mẫu phác thảo thiết kế đối với trình diễn thời trang",
+      "partTip": "{\"tip\":\"Đính kèm\",\"maxSize\":10,\"extensions\":\"png,jpg,jpeg,pdf,docx,doc,xls,xlsx,txt,rtf\"}",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP2",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP3",
+      "partName": "Bản nhạc hoặc kịch bản đối với tác phẩm công diễn lần đầu;",
+      "partTip": "{\"tip\":\"Đính kèm\",\"maxSize\":10,\"extensions\":\"png,jpg,jpeg,pdf,docx,doc,xls,xlsx,txt,rtf\"}",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP3",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP4",
+      "partName": "Bản sao chứng thực quyết định cho phép tổ chức, cá nhân nước ngoài, cá nhân là người Việt Nam định cư ở nước ngoài vào Việt Nam biểu diễn nghệ thuật, trình diễn thời trang (đối với chương trình có sự tham gia của tổ chức, cá nhân nước ngoài, cá nhân là người Việt Nam định cư ở nước ngoài)",
+      "partTip": "Đính kèm",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP4",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP5",
+      "partName": "Văn bản đồng ý của Uỷ ban nhân dân cấp tỉnh, nơi dự định tổ chức biểu diễn (đối với chương trình có sự tham gia của tổ chức nước ngoài)",
+      "partTip": "Đính kèm",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP5",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "TP6",
+      "partName": "Bản sao chứng thực quyết định thành lập hoặc giấy chứng nhận đăng ký doanh nghiệp có chức năng hoạt động văn hóa nghệ thuật",
+      "partTip": "Đính kèm",
+      "partType": 1,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "TP6",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "KQ1",
+      "partName": "Giấy phép tổ chức",
+      "partTip": "",
+      "partType": 2,
+      "multiple": false,
+      "required": false,
+      "fileTemplateNo": "KQ1_TT40",
+      "esign": true,
+      "hasForm": true,
+      "fileMark": 0
+    },
+    {
+      "partNo": "KQ2",
+      "partName": "Văn bản từ chối",
+      "partTip": "",
+      "partType": 2,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "KQ2",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "KQ3",
+      "partName": "Văn bản yêu cầu bổ sung",
+      "partTip": "",
+      "partType": 2,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "KQ3",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    },
+    {
+      "partNo": "KQ4",
+      "partName": "Biên bản thẩm định",
+      "partTip": "Biên bản thẩm định",
+      "partType": 2,
+      "multiple": true,
+      "required": false,
+      "fileTemplateNo": "KQ4",
+      "esign": false,
+      "hasForm": false,
+      "fileMark": 0
+    }
+  ]
+}

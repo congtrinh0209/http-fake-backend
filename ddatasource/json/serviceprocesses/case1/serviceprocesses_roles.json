@@ -1,0 +1,23 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "roleId": 101,
+      "roleName": "Trịnh Công Trình",
+      "moderator": true,
+      "condition": "esignature"
+    },
+    {
+      "roleId": 102,
+      "roleName": "Nguyễn Văn Nam",
+      "moderator": false,
+      "condition": "payOk"
+    },
+    {
+      "roleId": 103,
+      "roleName": "Vũ Văn Dũng",
+      "moderator": true,
+      "condition": "rollback"
+    }
+  ]
+}

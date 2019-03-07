@@ -1,23 +1,39 @@
 {
-  "total": 3,
+  "total": 6,
   "data": [
     {
-      "fieldName": "Bổ sung thông tin",
-      "fieldLabel": "Lý do bổ sung",
-      "fieldType": "textarea",
-      "value": "text area"
-    },
-    {
-      "fieldName": "Bổ sung thông tin",
-      "fieldLabel": "Lý do bổ sung 2",
+    "fieldName": "receiveDate",
+      "fieldLabel": "Ngày tiếp nhận",
       "fieldType": "date",
-      "value": ""
-    },
+      "required": true,
+      "value": 1533119897000
+      },
     {
-      "fieldName": "Bổ sung thông tin",
-      "fieldLabel": "Lý do bổ sung 3",
-      "fieldType": "number",
-      "value": "number 123"
-    }
+    "fieldName": "dueDate",
+      "fieldLabel": "Ngày hẹn trả",
+      "fieldType": "date",
+      "required": false
+      },
+    {
+    "fieldName": "releaseDate",
+      "fieldLabel": "Ngày hoàn thành",
+      "fieldType": "date",
+      "required": false,
+      "value": "3 Jan 2019 03:04:30 GMT"
+      },
+    {
+    "fieldName": "finishDate",
+      "fieldLabel": "Ngày kết thúc",
+      "fieldType": "date",
+      "required": true,
+      "value": "_dueDate"
+      },
+    {
+    "fieldName": "dossierNote",
+      "fieldLabel": "Lý do điều chỉnh",
+      "fieldType": "textarea",
+      "required": true,
+      "value": "Hồ sơ bị lỗi"
+      }
   ]
 }

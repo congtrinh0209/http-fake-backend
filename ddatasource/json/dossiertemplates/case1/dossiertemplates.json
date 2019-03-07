@@ -1,0 +1,37 @@
+{
+  "total": 4,
+  "data": [
+    {
+      "dossierTemplateId": 8901,
+      "createDate": 20180928143704,
+      "modifiedDate": 20181001043812,
+      "templateName": "Công nhận điểm du lịch",
+      "description": "",
+      "templateNo": "MAU_SVHTTDL_DL01"
+    },
+    {
+      "dossierTemplateId": 8902,
+      "createDate": 20180928143705,
+      "modifiedDate": 20181001043813,
+      "templateName": "Cấp giấy phép kinh doanh dịch vụ lữ hành nội địa",
+      "description": "",
+      "templateNo": "MAU_SVHTTDL_DL02"
+    },
+    {
+      "dossierTemplateId": 8904,
+      "createDate": 20180928143706,
+      "modifiedDate": 20181001043814,
+      "templateName": "Cấp đổi giấy phép kinh doanh dịch vụ lữ hành nội địa",
+      "description": "",
+      "templateNo": "MAU_SVHTTDL_DL04"
+    },
+    {
+      "dossierTemplateId": 8903,
+      "createDate": 20180928143706,
+      "modifiedDate": 20181001043814,
+      "templateName": "Cấp lại giấy phép kinh doanh dịch vụ lữ hành nội địa",
+      "description": "",
+      "templateNo": "MAU_SVHTTDL_DL03"
+    }
+  ]
+}

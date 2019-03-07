@@ -1,45 +1,41 @@
 {
-  "total": 5,
+  "total": 6,
   "data": [
     {
-	"createDate": "2017-07-19T10:01:18.237Z",
-	"modifiedDate": "2017-07-19T10:01:18.237Z",
-      "collectionCode": "ACTIVITY_TYPE",
-      "collectionName": "Loại hoạt động",
-      "collectionNameEN": "Loại hoạt động",
-      "description": "Loại hoạt động"
+      "collectionCode": "DOSSIER_STATUS",
+      "collectionName": "Trạng thái hồ sơ",
+      "collectionNameEN": "DOSSIER STATUS",
+      "description": "DOSSIER STATUS"
     },
     {
-	"createDate": "2017-07-19T10:01:18.237Z",
-	"modifiedDate": "2017-07-19T10:01:18.237Z",
-      "collectionCode": "DOCUMENT_TYPE",
-      "collectionName": "Loại văn bản",
-      "collectionNameEN": "Loại văn bản",
-      "description": "Loại văn bản"
+      "collectionCode": "GOVERNMENT_AGENCY",
+      "collectionName": "Cơ quan thực hiện TTHC",
+      "collectionNameEN": "GOVERNMENT AGENCY",
+      "description": "GOVERNMENT AGENCY"
     },
     {
-	"createDate": "2017-07-19T10:01:18.237Z",
-	"modifiedDate": "2017-07-19T10:01:18.237Z",
-      "collectionCode": "GOVERMENT_AGENCY",
-      "collectionName": "Cơ quan ban hành",
-      "collectionNameEN": "Cơ quan ban hành",
-      "description": "Cơ quan ban hành"
+      "collectionCode": "SERVICE_ADMINISTRATION",
+      "collectionName": "Cấp quản lý TTHC",
+      "collectionNameEN": "SERVICE ADMINISTRATION",
+      "description": "SERVICE ADMINISTRATION"
     },
     {
-	"createDate": "2017-07-19T10:01:18.237Z",
-	"modifiedDate": "2017-07-19T10:01:18.237Z",
-      "collectionCode": "ADMINISTRATIVE_UNITS",
-      "collectionName": "Đơn vị hành chính",
-      "collectionNameEN": "Đơn vị hành chính",
-      "description": "Đơn vị hành chính"
+      "collectionCode": "SERVICE_DOMAIN",
+      "collectionName": "Lĩnh vực thủ tục hành chính",
+      "collectionNameEN": "SERVICE DOMAIN",
+      "description": "SERVICE DOMAIN"
     },
     {
-	"createDate": "2017-07-19T10:01:18.237Z",
-	"modifiedDate": "2017-07-19T10:01:18.237Z",
-      "collectionCode": "ANOTHER_TYPE",
-      "collectionName": "Loại dữ liệu khác",
-      "collectionNameEN": "Loại dữ liệu khác",
-      "description": "Loại dữ liệu khác"
+      "collectionCode": "ADMINISTRATIVE_REGION",
+      "collectionName": "Danh mục các đơn vị hành chính 3 cấp tinh, huyện, xã",
+      "collectionNameEN": "ADMINISTRATIVE REGION",
+      "description": "ADMINISTRATIVE REGION"
+    },
+    {
+      "collectionCode": "VNPOST_CITY_CODE",
+      "collectionName": "Mã tỉnh thành theo VNPOST",
+      "collectionNameEN": "VNPOST_CITY_CODE",
+      "description": "VNPOST_CITY_CODE"
     }
   ]
 }

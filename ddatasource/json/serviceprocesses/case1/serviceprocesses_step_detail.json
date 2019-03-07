@@ -1,0 +1,17 @@
+  {
+    "stepCode": 140,
+    "processStepId": 206625,
+    "stepName": "Chờ tiếp nhận bổ sung hồ sơ",
+    "sequenceNo": "",
+    "dossierStatus": "receiving",
+    "dossierStatusText": "Chờ tiếp nhận",
+    "dossierSubStatus": "receiving_1",
+    "dossierSubStatusText": "Chờ tiếp nhận bổ sung hồ sơ trực tuyến",
+    "durationCount": 0,
+    "stepInstruction": "",
+    "briefNote": "",
+    "customProcessUrl": "",
+    "editable": false,
+    "lockState": "",
+    "checkInput": 2
+  }

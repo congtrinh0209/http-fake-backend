@@ -1,65 +1,1508 @@
 {
-  "total": 3,
+  "total": 138,
   "data": [
     {
-      "serviceConfigId": "101",
-      "serviceCode": "101-SVCODE",
-      "serviceName": "Service 101",
-      "govAgencyCode": "101-GOVCODE",
-      "govAgencyName": "",
+      "serviceConfigId": "9329",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD01",
+      "govAgencyName": "Sở tài nguyên và môi trường",
       "options": [
         {
-          "processOptionId": "101-PRCID1", 
-          "optionName": "Option 101-1",
-          "instructionNote": "",
-          "templateNo": "101-TPN1",
-          "templateName": ""
+          "processOptionId": "9986",
+          "templateNo": "MAU_STNMT_DD01",
+          "templateName": "Đăng ký quyền sử dụng đất lần đầu",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký quyền sử dụng đất lần đầu"
+        }
+      ],
+      "serviceName": "Đăng ký quyền sử dụng đất lần đầu"
+    },
+    {
+      "serviceConfigId": "9330",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD02",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9987",
+          "templateNo": "MAU_STNMT_DD02",
+          "templateName": "Đăng ký đất đai lần đầu đối với trường hợp được Nhà nước giao đất để quản lý",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký đất đai lần đầu đối với trường hợp được Nhà nước giao đất để quản lý"
+        }
+      ],
+      "serviceName": "Đăng ký đất đai lần đầu đối với trường hợp được Nhà nước giao đất để quản lý"
+    },
+    {
+      "serviceConfigId": "9331",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD03",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9988",
+          "templateNo": "MAU_STNMT_DD03",
+          "templateName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với trường hợp đã chuyển quyền sử dụng đất trước ngày 01 tháng 7 năm 2014 mà bên chuyển quyền đã được cấp Giấy chứng nhận nhưng chưa thực hiện thủ tục chuyển quyền theo quy định",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với trường hợp đã chuyển quyền sử dụng đất trước ngày 01 tháng 7 năm 2014 mà bên chuyển quyền đã được cấp Giấy chứng nhận nhưng chưa thực hiện thủ tục chuyển quyền theo quy định"
+        }
+      ],
+      "serviceName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với trường hợp đã chuyển quyền sử dụng đất trước ngày 01 tháng 7 năm 2014 mà bên chuyển quyền đã được cấp Giấy chứng nhận nhưng chưa thực hiện thủ tục chuyển quyền theo quy định"
+    },
+    {
+      "serviceConfigId": "9332",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD04",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9989",
+          "templateNo": "MAU_STNMT_DD04",
+          "templateName": "Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+        }
+      ],
+      "serviceName": "Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "serviceConfigId": "9333",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD05",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9990",
+          "templateNo": "MAU_STNMT_DD05",
+          "templateName": "Xóa đăng ký cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Xóa đăng ký cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+        }
+      ],
+      "serviceName": "Xóa đăng ký cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "serviceConfigId": "9334",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD06",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9991",
+          "templateNo": "MAU_STNMT_DD06",
+          "templateName": "Đăng ký biến động về sử dụng đất, tài sản gắn liền với đất do thay đổi thông tin về người được cấp Giấy chứng nhận (đổi tên hoặc giấy tờ pháp nhân, giấy tờ nhân thân, địa chỉ); giảm diện tích thửa đất do sạt lở tự nhiên; thay đổi về hạn chế quyền sử dụng đất; thay đổi về nghĩa vụ tài chính; thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký, cấp Giấy chứng nhận",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký biến động về sử dụng đất, tài sản gắn liền với đất do thay đổi thông tin về người được cấp Giấy chứng nhận (đổi tên hoặc giấy tờ pháp nhân, giấy tờ nhân thân, địa chỉ); giảm diện tích thửa đất do sạt lở tự nhiên; thay đổi về hạn chế quyền sử dụng đất; thay đổi về nghĩa vụ tài chính; thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký, cấp Giấy chứng nhận"
+        }
+      ],
+      "serviceName": "Đăng ký biến động về sử dụng đất, tài sản gắn liền với đất do thay đổi thông tin về người được cấp Giấy chứng nhận (đổi tên hoặc giấy tờ pháp nhân, giấy tờ nhân thân, địa chỉ); giảm diện tích thửa đất do sạt lở tự nhiên; thay đổi về hạn chế quyền sử dụng đất; thay đổi về nghĩa vụ tài chính; thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký, cấp Giấy chứng nhận"
+    },
+    {
+      "serviceConfigId": "9335",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD07",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9992",
+          "templateNo": "MAU_STNMT_DD07",
+          "templateName": "Đăng ký xác lập quyền sử dụng hạn chế thửa đất liền kề sau khi được cấp Giấy chứng nhận lần đầu và đăng ký thay đổi, chấm dứt quyền sử dụng hạn chế thửa đất liền kề",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký xác lập quyền sử dụng hạn chế thửa đất liền kề sau khi được cấp Giấy chứng nhận lần đầu và đăng ký thay đổi, chấm dứt quyền sử dụng hạn chế thửa đất liền kề"
+        }
+      ],
+      "serviceName": "Đăng ký xác lập quyền sử dụng hạn chế thửa đất liền kề sau khi được cấp Giấy chứng nhận lần đầu và đăng ký thay đổi, chấm dứt quyền sử dụng hạn chế thửa đất liền kề"
+    },
+    {
+      "serviceConfigId": "9336",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD08",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9993",
+          "templateNo": "MAU_STNMT_DD08",
+          "templateName": "Gia hạn sử dụng đất ngoài khu công nghệ cao, khu kinh tế",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn sử dụng đất ngoài khu công nghệ cao, khu kinh tế"
+        }
+      ],
+      "serviceName": "Gia hạn sử dụng đất ngoài khu công nghệ cao, khu kinh tế"
+    },
+    {
+      "serviceConfigId": "9337",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD09",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9994",
+          "templateNo": "MAU_STNMT_DD09",
+          "templateName": "Tách thửa hoặc hợp thửa đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Tách thửa hoặc hợp thửa đất"
+        }
+      ],
+      "serviceName": "Tách thửa hoặc hợp thửa đất"
+    },
+    {
+      "serviceConfigId": "9338",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD10",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9995",
+          "templateNo": "MAU_STNMT_DD10",
+          "templateName": "Cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+        }
+      ],
+      "serviceName": "Cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "serviceConfigId": "9339",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD11",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9996",
+          "templateNo": "MAU_STNMT_DD11",
+          "templateName": "Đính chính Giấy chứng nhận đã cấp",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đính chính Giấy chứng nhận đã cấp"
+        }
+      ],
+      "serviceName": "Đính chính Giấy chứng nhận đã cấp"
+    },
+    {
+      "serviceConfigId": "9340",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD12",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9997",
+          "templateNo": "MAU_STNMT_DD12",
+          "templateName": "Thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện"
+        }
+      ],
+      "serviceName": "Thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện"
+    },
+    {
+      "serviceConfigId": "9341",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD13",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "9998",
+          "templateNo": "MAU_STNMT_DD13",
+          "templateName": "Đăng ký và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu"
+        }
+      ],
+      "serviceName": "Đăng ký và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu"
+    },
+    {
+      "serviceConfigId": "9343",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD14",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10000",
+          "templateNo": "MAU_STNMT_DD14",
+          "templateName": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người đã đăng ký quyền sử dụng đất lần đầu",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người đã đăng ký quyền sử dụng đất lần đầu"
+        }
+      ],
+      "serviceName": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người đã đăng ký quyền sử dụng đất lần đầu"
+    },
+    {
+      "serviceConfigId": "9345",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD15",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10002",
+          "templateNo": "MAU_STNMT_DD15",
+          "templateName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu đối với tài sản gắn liền với đất mà chủ sở hữu không đồng thời là người sử dụng đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu đối với tài sản gắn liền với đất mà chủ sở hữu không đồng thời là người sử dụng đất"
+        }
+      ],
+      "serviceName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất lần đầu đối với tài sản gắn liền với đất mà chủ sở hữu không đồng thời là người sử dụng đất"
+    },
+    {
+      "serviceConfigId": "9347",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD16",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10004",
+          "templateNo": "MAU_STNMT_DD16",
+          "templateName": "Đăng ký thay đổi tài sản gắn liền với đất vào Giấy chứng nhận đã cấp",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký thay đổi tài sản gắn liền với đất vào Giấy chứng nhận đã cấp"
+        }
+      ],
+      "serviceName": "Đăng ký thay đổi tài sản gắn liền với đất vào Giấy chứng nhận đã cấp"
+    },
+    {
+      "serviceConfigId": "9348",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD17",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10005",
+          "templateNo": "MAU_STNMT_DD17",
+          "templateName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng trong các dự án phát triển nhà ở",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng trong các dự án phát triển nhà ở"
+        }
+      ],
+      "serviceName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng trong các dự án phát triển nhà ở"
+    },
+    {
+      "serviceConfigId": "9349",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD18",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10006",
+          "templateNo": "MAU_STNMT_DD17",
+          "templateName": "Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng trong các dự án phát triển nhà ở",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Bán hoặc góp vốn bằng tài sản gắn liền với đất thuê của Nhà nước theo hình thức thuê đất trả tiền hàng năm"
+        }
+      ],
+      "serviceName": "Bán hoặc góp vốn bằng tài sản gắn liền với đất thuê của Nhà nước theo hình thức thuê đất trả tiền hàng năm"
+    },
+    {
+      "serviceConfigId": "9351",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD19",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10008",
+          "templateNo": "MAU_STNMT_DD19",
+          "templateName": "Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp giải quyết tranh chấp, khiếu nại, tố cáo về đất đai; xử lý nợ hợp đồng thế chấp, góp vốn; kê biên, đấu giá quyền sử dụng đất, tài sản gắn liền với đất để thi hành án; chia, tách, hợp nhất, sáp nhập tổ chức (trừ doanh nghiệp); thỏa thuận hợp nhất hoặc phân chia quyền sử dụng đất, tài sản gắn liền với đất của nhóm người sử dụng đất; đăng ký biến động đối với trường hợp hộ gia đình, cá nhân đưa quyền sử dụng đất vào doanh nghiệp",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp giải quyết tranh chấp, khiếu nại, tố cáo về đất đai; xử lý nợ hợp đồng thế chấp, góp vốn; kê biên, đấu giá quyền sử dụng đất, tài sản gắn liền với đất để thi hành án; chia, tách, hợp nhất, sáp nhập tổ chức (trừ doanh nghiệp); thỏa thuận hợp nhất hoặc phân chia quyền sử dụng đất, tài sản gắn liền với đất của nhóm người sử dụng đất; đăng ký biến động đối với trường hợp hộ gia đình, cá nhân đưa quyền sử dụng đất vào doanh nghiệp"
+        }
+      ],
+      "serviceName": "Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp giải quyết tranh chấp, khiếu nại, tố cáo về đất đai; xử lý nợ hợp đồng thế chấp, góp vốn; kê biên, đấu giá quyền sử dụng đất, tài sản gắn liền với đất để thi hành án; chia, tách, hợp nhất, sáp nhập tổ chức (trừ doanh nghiệp); thỏa thuận hợp nhất hoặc phân chia quyền sử dụng đất, tài sản gắn liền với đất của nhóm người sử dụng đất; đăng ký biến động đối với trường hợp hộ gia đình, cá nhân đưa quyền sử dụng đất vào doanh nghiệp"
+    },
+    {
+      "serviceConfigId": "9352",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD20",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10009",
+          "templateNo": "MAU_STNMT_DD20",
+          "templateName": "Đăng ký biến động đối với trường hợp chuyển từ hình thức thuê đất trả tiền hàng năm sang thuê đất trả tiền một lần cho cả thời gian thuê hoặc từ giao đất không thu tiền sử dụng đất sang hình thức thuê đất hoặc từ thuê đất sang giao đất có thu tiền sử dụng đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký biến động đối với trường hợp chuyển từ hình thức thuê đất trả tiền hàng năm sang thuê đất trả tiền một lần cho cả thời gian thuê hoặc từ giao đất không thu tiền sử dụng đất sang hình thức thuê đất hoặc từ thuê đất sang giao đất có thu tiền sử dụng đất"
+        }
+      ],
+      "serviceName": "Đăng ký biến động đối với trường hợp chuyển từ hình thức thuê đất trả tiền hàng năm sang thuê đất trả tiền một lần cho cả thời gian thuê hoặc từ giao đất không thu tiền sử dụng đất sang hình thức thuê đất hoặc từ thuê đất sang giao đất có thu tiền sử dụng đất"
+    },
+    {
+      "serviceConfigId": "9353",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD21",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10010",
+          "templateNo": "MAU_STNMT_DD21",
+          "templateName": "Cấp lại Giấy chứng nhận hoặc cấp lại Trang bổ sung của Giấy chứng nhận do bị mất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp lại Giấy chứng nhận hoặc cấp lại Trang bổ sung của Giấy chứng nhận do bị mất"
+        }
+      ],
+      "serviceName": "Cấp lại Giấy chứng nhận hoặc cấp lại Trang bổ sung của Giấy chứng nhận do bị mất"
+    },
+    {
+      "serviceConfigId": "9354",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD22",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10011",
+          "templateNo": "MAU_STNMT_DD22",
+          "templateName": "Đăng ký đối với trường hợp chuyển mục đích sử dụng đất không phải xin phép cơ quan nhà nước có thẩm quyền",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký đối với trường hợp chuyển mục đích sử dụng đất không phải xin phép cơ quan nhà nước có thẩm quyền"
+        }
+      ],
+      "serviceName": "Đăng ký đối với trường hợp chuyển mục đích sử dụng đất không phải xin phép cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "serviceConfigId": "9355",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD23",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10012",
+          "templateNo": "MAU_STNMT_DD23",
+          "templateName": "Chuyển nhượng vốn đầu tư là giá trị quyền sử dụng đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Chuyển nhượng vốn đầu tư là giá trị quyền sử dụng đất"
+        }
+      ],
+      "serviceName": "Chuyển nhượng vốn đầu tư là giá trị quyền sử dụng đất"
+    },
+    {
+      "serviceConfigId": "9356",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD24",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10013",
+          "templateNo": "MAU_STNMT_DD24",
+          "templateName": "Điều chỉnh quyết định thu hồi đất, giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất của Thủ tướng Chính phủ đã ban hành trước ngày 01/7/2",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Điều chỉnh quyết định thu hồi đất, giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất của Thủ tướng Chính phủ đã ban hành trước ngày 01/7/2"
+        }
+      ],
+      "serviceName": "Điều chỉnh quyết định thu hồi đất, giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất của Thủ tướng Chính phủ đã ban hành trước ngày 01/7/2004"
+    },
+    {
+      "serviceConfigId": "9358",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD25",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10014",
+          "templateNo": "MAU_STNMT_DD25",
+          "templateName": "Thẩm định nhu cầu sử dụng đất; thẩm định điều kiện giao đất, thuê đất không thông qua hình thức đấu giá quyền sử dụng đất, điều kiện cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư đối với tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định nhu cầu sử dụng đất; thẩm định điều kiện giao đất, thuê đất không thông qua hình thức đấu giá quyền sử dụng đất, điều kiện cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư đối với tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao"
+        }
+      ],
+      "serviceName": "Thẩm định nhu cầu sử dụng đất; thẩm định điều kiện giao đất, thuê đất không thông qua hình thức đấu giá quyền sử dụng đất, điều kiện cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư đối với tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "serviceConfigId": "9359",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD26",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10015",
+          "templateNo": "MAU_STNMT_DD26",
+          "templateName": "Giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất đối với dự án phải trình cơ quan nhà nước có thẩm quyền xét duyệt hoặc phải cấp giấy chứng nhận đầu tư mà người xin giao đất, thuê đất là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất đối với dự án phải trình cơ quan nhà nước có thẩm quyền xét duyệt hoặc phải cấp giấy chứng nhận đầu tư mà người xin giao đất, thuê đất là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao"
+        }
+      ],
+      "serviceName": "Giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất đối với dự án phải trình cơ quan nhà nước có thẩm quyền xét duyệt hoặc phải cấp giấy chứng nhận đầu tư mà người xin giao đất, thuê đất là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "serviceConfigId": "9361",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD27",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10017",
+          "templateNo": "MAU_STNMT_DD27",
+          "templateName": "Giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất đối với dự án không phải trình cơ quan nhà nước có thẩm quyền xét duyệt; dự án không phải cấp giấy chứng nhận đầu tư; trường hợp không phải lập dự án đầu tư xây dựng công trình mà người xin giao đất, thuê đất là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất đối với dự án không phải trình cơ quan nhà nước có thẩm quyền xét duyệt; dự án không phải cấp giấy chứng nhận đầu tư; trường hợp không phải lập dự án đầu tư xây dựng công trình mà người xin giao đất, thuê đất là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao"
+        }
+      ],
+      "serviceName": "Giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất đối với dự án không phải trình cơ quan nhà nước có thẩm quyền xét duyệt; dự án không phải cấp giấy chứng nhận đầu tư; trường hợp không phải lập dự án đầu tư xây dựng công trình mà người xin giao đất, thuê đất là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "serviceConfigId": "9363",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD28",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10019",
+          "templateNo": "MAU_STNMT_DD28",
+          "templateName": "Chuyển mục đích sử dụng đất phải được phép của cơ quan nhà nước có thẩm quyền đối với tổ chức",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Chuyển mục đích sử dụng đất phải được phép của cơ quan nhà nước có thẩm quyền đối với tổ chức"
+        }
+      ],
+      "serviceName": "Chuyển mục đích sử dụng đất phải được phép của cơ quan nhà nước có thẩm quyền đối với tổ chức"
+    },
+    {
+      "serviceConfigId": "9365",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD29",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10021",
+          "templateNo": "MAU_STNMT_DD29",
+          "templateName": "chủ trương cho phép chuyển mục đích sử dụng đất và điều chỉnh thời hạn sử dụng đất đối với tổ chức kinh tế",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "chủ trương cho phép chuyển mục đích sử dụng đất và điều chỉnh thời hạn sử dụng đất đối với tổ chức kinh tế"
+        }
+      ],
+      "serviceName": "Chủ trương cho phép chuyển mục đích sử dụng đất và điều chỉnh thời hạn sử dụng đất đối với tổ chức kinh tế"
+    },
+    {
+      "serviceConfigId": "9367",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD30",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10023",
+          "templateNo": "MAU_STNMT_DD30",
+          "templateName": "Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người"
+        }
+      ],
+      "serviceName": "Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người"
+    },
+    {
+      "serviceConfigId": "9369",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD31",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10025",
+          "templateNo": "MAU_STNMT_DD31",
+          "templateName": "thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+        }
+      ],
+      "serviceName": "Thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+    },
+    {
+      "serviceConfigId": "9371",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DDBD01",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10027",
+          "templateNo": "MAU_STNMT_DDBD01",
+          "templateName": "Thủ tục cấp Giấy phép hoạt động đo đạc và bản đồ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thủ tục cấp Giấy phép hoạt động đo đạc và bản đồ"
+        }
+      ],
+      "serviceName": "Thủ tục cấp Giấy phép hoạt động đo đạc và bản đồ"
+    },
+    {
+      "serviceConfigId": "9372",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DDBD02",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10028",
+          "templateNo": "MAU_STNMT_DDBD02",
+          "templateName": "Bổ sung nội dung Giấy phép hoạt động đo đạc và bản đồ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Bổ sung nội dung Giấy phép hoạt động đo đạc và bản đồ"
+        }
+      ],
+      "serviceName": "Bổ sung nội dung Giấy phép hoạt động đo đạc và bản đồ"
+    },
+    {
+      "serviceConfigId": "9373",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DDBD03",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10029",
+          "templateNo": "MAU_STNMT_DDBD03",
+          "templateName": "Gia hạn Giấy phép hoạt động đo đạc và bản đồ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn Giấy phép hoạt động đo đạc và bản đồ"
+        }
+      ],
+      "serviceName": "Gia hạn Giấy phép hoạt động đo đạc và bản đồ"
+    },
+    {
+      "serviceConfigId": "9374",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DDBD04",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10030",
+          "templateNo": "MAU_STNMT_DDBD04",
+          "templateName": "Câp lại Giấy phép hoạt động đo đạc và bản đồ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Câp lại Giấy phép hoạt động đo đạc và bản đồ"
+        }
+      ],
+      "serviceName": "Câp lại Giấy phép hoạt động đo đạc và bản đồ"
+    },
+    {
+      "serviceConfigId": "9375",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DDBD05",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10031",
+          "templateNo": "MAU_STNMT_DDBD05",
+          "templateName": "Thu hồi Giấy phép hoạt động đo đạc và bản đồ.",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thu hồi Giấy phép hoạt động đo đạc và bản đồ."
+        }
+      ],
+      "serviceName": "Thu hồi Giấy phép hoạt động đo đạc và bản đồ."
+    },
+    {
+      "serviceConfigId": "9376",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS01",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10032",
+          "templateNo": "MAU_STNMT_KS01A",
+          "templateName": "Cấp, điều chỉnh Giấy phép khai thác khoáng sản; cấp Giấy phép khai thác khoáng sản ở khu vực có dự án đầu tư xây dựng công trình",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp Giấy phép khai thác khoáng sản; "
         },
         {
-          "processOptionId": "101-PRCID2", 
-          "optionName": "Option 101-2",
-          "instructionNote": "",
-          "templateNo": "101-TPN2",
-          "templateName": ""
-        }
-      ]  
-    },{
-      "serviceConfigId": "102",
-      "serviceCode": "102-SVCODE",
-      "serviceName": "Service 102",
-      "govAgencyCode": "102-GOVCODE",
-      "govAgencyName": "",
-      "options": [
-        {
-          "processOptionId": "102-PRCID1", 
-          "optionName": "Option 102-1",
-          "instructionNote": "",
-          "templateNo": "102-TPN1",
-          "templateName": ""
+          "processOptionId": "10033",
+          "templateNo": "MAU_STNMT_KS01B",
+          "templateName": "Cấp, điều chỉnh Giấy phép khai thác khoáng sản; cấp Giấy phép khai thác khoáng sản ở khu vực có dự án đầu tư xây dựng công trình",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Điều chỉnh Giấy phép khai thác khoáng sản;"
         },
         {
-          "processOptionId": "102-PRCID2", 
-          "optionName": "Option 102-2",
-          "instructionNote": "",
-          "templateNo": "102-TPN2",
-          "templateName": ""
+          "processOptionId": "10034",
+          "templateNo": "MAU_STNMT_KS01C",
+          "templateName": "Cấp, điều chỉnh Giấy phép khai thác khoáng sản; cấp Giấy phép khai thác khoáng sản ở khu vực có dự án đầu tư xây dựng công trình",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp Giấy phép khai thác khoáng sản ở khu vực có dự án đầu tư xây dựng công trình"
         }
-      ] 
-    },{
-      "serviceConfigId": "103",
-      "serviceCode": "103-SVCODE",
-      "serviceName": "Service 103",
-      "govAgencyCode": "103-GOVCODE",
-      "govAgencyName": "",
+      ],
+      "serviceName": "Cấp, điều chỉnh Giấy phép khai thác khoáng sản; cấp Giấy phép khai thác khoáng sản ở khu vực có dự án đầu tư xây dựng công trình"
+    },
+    {
+      "serviceConfigId": "9378",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS02",
+      "govAgencyName": "Sở tài nguyên và môi trường",
       "options": [
         {
-          "processOptionId": "103-PRCID1", 
-          "optionName": "Option 103-1",
-          "instructionNote": "",
-          "templateNo": "101-TPN2",
-          "templateName": ""
+          "processOptionId": "10038",
+          "templateNo": "MAU_STNMT_KS02",
+          "templateName": "Đăng ký khai thác khoáng sản vật liệu xây dựng thông thường trong diện tích dự án xây dựng công trình (Đã được cơ quan nhà nước có thẩm quyền phê duyệt hoặc cho phép đầu tư mà sản phẩm khai thác chỉ được sử dụng cho xây dựng công trình đó) bao gồm cả đăng ký khối lượng cát, sỏi thu hồi từ dự án nạo vét, khơi thông luồng lạch",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký khai thác khoáng sản vật liệu xây dựng thông thường trong diện tích dự án xây dựng công trình (Đã được cơ quan nhà nước có thẩm quyền phê duyệt hoặc cho phép đầu tư mà sản phẩm khai thác chỉ được sử dụng cho xây dựng công trình đó) bao gồm cả đăng ký khối lượng cát, sỏi thu hồi từ dự án nạo vét, khơi thông luồng lạch"
         }
-      ] 
+      ],
+      "serviceName": "Đăng ký khai thác khoáng sản vật liệu xây dựng thông thường trong diện tích dự án xây dựng công trình (Đã được cơ quan nhà nước có thẩm quyền phê duyệt hoặc cho phép đầu tư mà sản phẩm khai thác chỉ được sử dụng cho xây dựng công trình đó) bao gồm cả đăng ký khối lượng cát, sỏi thu hồi từ dự án nạo vét, khơi thông luồng lạch"
+    },
+    {
+      "serviceConfigId": "9380",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS03",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10040",
+          "templateNo": "MAU_STNMT_KS03",
+          "templateName": "Chấp thuận tiến hành khảo sát tại thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Chấp thuận tiến hành khảo sát tại thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản"
+        }
+      ],
+      "serviceName": "Chấp thuận tiến hành khảo sát tại thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản"
+    },
+    {
+      "serviceConfigId": "9382",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS04",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10042",
+          "templateNo": "MAU_STNMT_KS04",
+          "templateName": "Đấu giá quyền khai thác khoáng sản ở khu vực chưa thăm dò khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đấu giá quyền khai thác khoáng sản ở khu vực chưa thăm dò khoáng sản"
+        }
+      ],
+      "serviceName": "Đấu giá quyền khai thác khoáng sản ở khu vực chưa thăm dò khoáng sản"
+    },
+    {
+      "serviceConfigId": "9384",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS05",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10044",
+          "templateNo": "MAU_STNMT_KS05",
+          "templateName": "Đấu giá quyền khai thác khoáng sản ở khu vực đã có kết quả thăm dò khoáng sản được cơ quan nhà nước có thẩm quyền phê duyệt",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đấu giá quyền khai thác khoáng sản ở khu vực đã có kết quả thăm dò khoáng sản được cơ quan nhà nước có thẩm quyền phê duyệt"
+        }
+      ],
+      "serviceName": "Đấu giá quyền khai thác khoáng sản ở khu vực đã có kết quả thăm dò khoáng sản được cơ quan nhà nước có thẩm quyền phê duyệt"
+    },
+    {
+      "serviceConfigId": "9386",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS06",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10046",
+          "templateNo": "MAU_STNMT_KS06",
+          "templateName": "Cấp Giấy phép thăm dò khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp Giấy phép thăm dò khoáng sản"
+        }
+      ],
+      "serviceName": "Cấp Giấy phép thăm dò khoáng sản"
+    },
+    {
+      "serviceConfigId": "9388",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS07",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10048",
+          "templateNo": "MAU_STNMT_KS07",
+          "templateName": "Gia hạn Giấy phép thăm dò khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn Giấy phép thăm dò khoáng sản"
+        }
+      ],
+      "serviceName": "Gia hạn Giấy phép thăm dò khoáng sản"
+    },
+    {
+      "serviceConfigId": "9390",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS08",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10050",
+          "templateNo": "MAU_STNMT_KS08",
+          "templateName": "Chuyển nhượng quyền thăm dò khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Chuyển nhượng quyền thăm dò khoáng sản"
+        }
+      ],
+      "serviceName": "Chuyển nhượng quyền thăm dò khoáng sản"
+    },
+    {
+      "serviceConfigId": "9392",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS09",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10052",
+          "templateNo": "MAU_STNMT_KS09",
+          "templateName": "Trả lại Giấy phép thăm dò khoáng sản hoặc trả lại một phần diện tích khu vực thăm dò khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Trả lại Giấy phép thăm dò khoáng sản hoặc trả lại một phần diện tích khu vực thăm dò khoáng sản"
+        }
+      ],
+      "serviceName": "Trả lại Giấy phép thăm dò khoáng sản hoặc trả lại một phần diện tích khu vực thăm dò khoáng sản"
+    },
+    {
+      "serviceConfigId": "9394",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS10",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10054",
+          "templateNo": "MAU_STNMT_KS10",
+          "templateName": "Gia hạn Giấy phép khai thác khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn Giấy phép khai thác khoáng sản"
+        }
+      ],
+      "serviceName": "Gia hạn Giấy phép khai thác khoáng sản"
+    },
+    {
+      "serviceConfigId": "9396",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS11",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10056",
+          "templateNo": "MAU_STNMT_KS11",
+          "templateName": "Chuyển nhượng quyền khai thác khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Chuyển nhượng quyền khai thác khoáng sản"
+        }
+      ],
+      "serviceName": "Chuyển nhượng quyền khai thác khoáng sản"
+    },
+    {
+      "serviceConfigId": "9398",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS12",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10058",
+          "templateNo": "MAU_STNMT_KS12",
+          "templateName": "Trả lại Giấy phép khai thác khoáng sản, trả lại một phần diện tích khu vực khai thác khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Trả lại Giấy phép khai thác khoáng sản, trả lại một phần diện tích khu vực khai thác khoáng sản"
+        }
+      ],
+      "serviceName": "Trả lại Giấy phép khai thác khoáng sản, trả lại một phần diện tích khu vực khai thác khoáng sản"
+    },
+    {
+      "serviceConfigId": "9400",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS13",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10060",
+          "templateNo": "MAU_STNMT_KS13",
+          "templateName": "Phê duyệt trữ lượng khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Phê duyệt trữ lượng khoáng sản"
+        }
+      ],
+      "serviceName": "Phê duyệt trữ lượng khoáng sản"
+    },
+    {
+      "serviceConfigId": "9402",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS14",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10062",
+          "templateNo": "MAU_STNMT_KS14",
+          "templateName": "Đóng cửa mỏ khoáng sản ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đóng cửa mỏ khoáng sản "
+        }
+      ],
+      "serviceName": "Đóng cửa mỏ khoáng sản "
+    },
+    {
+      "serviceConfigId": "9404",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS15",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10064",
+          "templateNo": "MAU_STNMT_KS15",
+          "templateName": "Cấp Giấy phép khai thác tận thu khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp Giấy phép khai thác tận thu khoáng sản"
+        }
+      ],
+      "serviceName": "Cấp Giấy phép khai thác tận thu khoáng sản"
+    },
+    {
+      "serviceConfigId": "9406",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS16",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10066",
+          "templateNo": "MAU_STNMT_KS16",
+          "templateName": "Gia hạn Giấy phép khai thác tận thu khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn Giấy phép khai thác tận thu khoáng sản"
+        }
+      ],
+      "serviceName": "Gia hạn Giấy phép khai thác tận thu khoáng sản"
+    },
+    {
+      "serviceConfigId": "9408",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_KS17",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10068",
+          "templateNo": "MAU_STNMT_KS17",
+          "templateName": "Trả lại Giấy phép khai thác tận thu khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Trả lại Giấy phép khai thác tận thu khoáng sản"
+        }
+      ],
+      "serviceName": "Trả lại Giấy phép khai thác tận thu khoáng sản"
+    },
+    {
+      "serviceConfigId": "9410",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT01",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10070",
+          "templateNo": "MAU_STNMT_MT01A",
+          "templateName": "Thẩm định, phê duyệt báo cáo đánh giá tác động môi trường",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt báo cáo đánh giá tác động môi trường"
+        },
+        {
+          "processOptionId": "10071",
+          "templateNo": "MAU_STNMT_MT01B",
+          "templateName": "Thẩm định, phê duyệt báo cáo đánh giá tác động môi trường",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt báo cáo đánh giá tác động môi trường"
+        }
+      ],
+      "serviceName": "Thẩm định, phê duyệt báo cáo đánh giá tác động môi trường"
+    },
+    {
+      "serviceConfigId": "9412",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT02",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10074",
+          "templateNo": "MAU_STNMT_MT02A",
+          "templateName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)"
+        },
+        {
+          "processOptionId": "10075",
+          "templateNo": "MAU_STNMT_MT02B",
+          "templateName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)"
+        }
+      ],
+      "serviceName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)"
+    },
+    {
+      "serviceConfigId": "9414",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT03",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10078",
+          "templateNo": "MAU_STNMT_MT03A",
+          "templateName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)"
+        },
+        {
+          "processOptionId": "10079",
+          "templateNo": "MAU_STNMT_MT03B",
+          "templateName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)"
+        }
+      ],
+      "serviceName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường cùng một cơ quan thẩm quyền phê duyệt)"
+    },
+    {
+      "serviceConfigId": "9416",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT04",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10082",
+          "templateNo": "MAU_STNMT_MT04A",
+          "templateName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)"
+        },
+        {
+          "processOptionId": "10083",
+          "templateNo": "MAU_STNMT_MT04B",
+          "templateName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)"
+        }
+      ],
+      "serviceName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)"
+    },
+    {
+      "serviceConfigId": "9418",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT05",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10086",
+          "templateNo": "MAU_STNMT_MT05A",
+          "templateName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)"
+        },
+        {
+          "processOptionId": "10087",
+          "templateNo": "MAU_STNMT_MT05B",
+          "templateName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)"
+        }
+      ],
+      "serviceName": "Thẩm định, phê duyệt phương án cải tạo phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản (trường hợp có phương án và báo cáo đánh giá tác động môi trường không cùng cơ quan thẩm quyền phê duyệt)"
+    },
+    {
+      "serviceConfigId": "9420",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT06",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10090",
+          "templateNo": "MAU_STNMT_MT06",
+          "templateName": "Xác nhận Kế hoạch bảo vệ môi trường",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Xác nhận Kế hoạch bảo vệ môi trường"
+        }
+      ],
+      "serviceName": "Xác nhận Kế hoạch bảo vệ môi trường"
+    },
+    {
+      "serviceConfigId": "9421",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT07",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10091",
+          "templateNo": "MAU_STNMT_MT07A",
+          "templateName": "Cấp giấy xác nhận hoàn thành công trình bảo vệ môi trường phục vụ giai đoạn vận hành dự án",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp giấy xác nhận hoàn thành công trình bảo vệ môi trường phục vụ giai đoạn vận hành dự án"
+        },
+        {
+          "processOptionId": "10092",
+          "templateNo": "MAU_STNMT_MT07B",
+          "templateName": "Cấp giấy xác nhận hoàn thành công trình bảo vệ môi trường phục vụ giai đoạn vận hành dự án-Sau khi đã chỉnh sửa theo ý kiến của HĐTĐ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp giấy xác nhận hoàn thành công trình bảo vệ môi trường phục vụ giai đoạn vận hành dự án-Sau khi đã chỉnh sửa theo ý kiến của HĐTĐ"
+        }
+      ],
+      "serviceName": "Cấp giấy xác nhận hoàn thành công trình bảo vệ môi trường phục vụ giai đoạn vận hành dự án"
+    },
+    {
+      "serviceConfigId": "9423",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT08",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10095",
+          "templateNo": "MAU_STNMT_MT08",
+          "templateName": "Thẩm định, phê duyệt đề án bảo vệ môi trường chi tiết",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thẩm định, phê duyệt đề án bảo vệ môi trường chi tiết"
+        }
+      ],
+      "serviceName": "Thẩm định, phê duyệt đề án bảo vệ môi trường chi tiết"
+    },
+    {
+      "serviceConfigId": "9425",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT09",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10097",
+          "templateNo": "MAU_STNMT_MT09",
+          "templateName": "Xác nhận Đề án bảo vệ môi trường đơn giản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Xác nhận Đề án bảo vệ môi trường đơn giản"
+        }
+      ],
+      "serviceName": "Xác nhận Đề án bảo vệ môi trường đơn giản"
+    },
+    {
+      "serviceConfigId": "9426",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT10",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10098",
+          "templateNo": "MAU_STNMT_MT10",
+          "templateName": "Xác nhận hoàn thành từng phần phương án cải tạo, phục hồi môi trường/phương án cải tạo, phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Xác nhận hoàn thành từng phần phương án cải tạo, phục hồi môi trường/phương án cải tạo, phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản"
+        }
+      ],
+      "serviceName": "Xác nhận hoàn thành từng phần phương án cải tạo, phục hồi môi trường/phương án cải tạo, phục hồi môi trường bổ sung đối với hoạt động khai thác khoáng sản"
+    },
+    {
+      "serviceConfigId": "9428",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT11",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10100",
+          "templateNo": "MAU_STNMT_MT11",
+          "templateName": "Cấp sổ đăng ký chủ nguồn thải chất thải nguy hại",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp sổ đăng ký chủ nguồn thải chất thải nguy hại"
+        }
+      ],
+      "serviceName": "Cấp sổ đăng ký chủ nguồn thải chất thải nguy hại"
+    },
+    {
+      "serviceConfigId": "9429",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT12",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10101",
+          "templateNo": "MAU_STNMT_MT12",
+          "templateName": "Cấp lại sổ đăng ký chủ nguồn thải chất thải nguy hại",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp lại sổ đăng ký chủ nguồn thải chất thải nguy hại"
+        }
+      ],
+      "serviceName": "Cấp lại sổ đăng ký chủ nguồn thải chất thải nguy hại"
+    },
+    {
+      "serviceConfigId": "9430",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT13",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10102",
+          "templateNo": "MAU_STNMT_MT13",
+          "templateName": "Cấp giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất đối với tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất đối với tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất"
+        }
+      ],
+      "serviceName": "Cấp giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất đối với tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất"
+    },
+    {
+      "serviceConfigId": "9431",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT14",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10103",
+          "templateNo": "MAU_STNMT_MT14",
+          "templateName": "Cấp lại Giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất đối với tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất (trường hợp Giấy xác nhận hết hạn)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp lại Giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất đối với tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất (trường hợp Giấy xác nhận hết hạn)"
+        }
+      ],
+      "serviceName": "Cấp lại Giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất đối với tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất (trường hợp Giấy xác nhận hết hạn)"
+    },
+    {
+      "serviceConfigId": "9432",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_MT15",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10104",
+          "templateNo": "MAU_STNMT_MT15",
+          "templateName": "Cấp lại Giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất cho tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất (trường hợp Giấy xác nhận bị mất hoặc hư hỏng)",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp lại Giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất cho tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất (trường hợp Giấy xác nhận bị mất hoặc hư hỏng)"
+        }
+      ],
+      "serviceName": "Cấp lại Giấy xác nhận đủ điều kiện về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất cho tổ chức, cá nhân trực tiếp sử dụng phế liệu nhập khẩu làm nguyên liệu sản xuất (trường hợp Giấy xác nhận bị mất hoặc hư hỏng)"
+    },
+    {
+      "serviceConfigId": "9433",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN01",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10105",
+          "templateNo": "MAU_STNMT_TNN01",
+          "templateName": "Tính tiền cấp quyền khai thác tài nguyên nước đối với trường hợp được cấp giấy phép trước ngày  Nghị định số 82/2017/NĐ-CP có hiệu lực thi hành",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Tính tiền cấp quyền khai thác tài nguyên nước đối với trường hợp được cấp giấy phép trước ngày  Nghị định số 82/2017/NĐ-CP có hiệu lực thi hành"
+        }
+      ],
+      "serviceName": "Tính tiền cấp quyền khai thác tài nguyên nước đối với trường hợp được cấp giấy phép trước ngày  Nghị định số 82/2017/NĐ-CP có hiệu lực thi hành"
+    },
+    {
+      "serviceConfigId": "9435",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN02",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10107",
+          "templateNo": "MAU_STNMT_TNN02",
+          "templateName": "Điều chỉnh tiền cấp quyền khai thác tài nguyên nước",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Điều chỉnh tiền cấp quyền khai thác tài nguyên nước"
+        }
+      ],
+      "serviceName": "Điều chỉnh tiền cấp quyền khai thác tài nguyên nước"
+    },
+    {
+      "serviceConfigId": "9437",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN03",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10109",
+          "templateNo": "MAU_STNMT_TNN03A",
+          "templateName": "Cấp giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Công trình có quy mô từ 200 m3/ngày đêm trở lên"
+        },
+        {
+          "processOptionId": "10110",
+          "templateNo": "MAU_STNMT_TNN03B",
+          "templateName": "Cấp giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Công trình có quy mô nhỏ hơn 200 m3/ngày đêm"
+        }
+      ],
+      "serviceName": "Cấp giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm"
+    },
+    {
+      "serviceConfigId": "9439",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN04",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10113",
+          "templateNo": "MAU_STNMT_TNN04",
+          "templateName": "Gia hạn, điều chỉnh nội dung giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn, điều chỉnh nội dung giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm"
+        }
+      ],
+      "serviceName": "Gia hạn, điều chỉnh nội dung giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm"
+    },
+    {
+      "serviceConfigId": "9441",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN05",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10115",
+          "templateNo": "MAU_STNMT_TNN05",
+          "templateName": "Cấp giấy phép, khai thác sử dụng nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp giấy phép, khai thác sử dụng nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm"
+        }
+      ],
+      "serviceName": "Cấp giấy phép, khai thác sử dụng nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm"
+    },
+    {
+      "serviceConfigId": "9443",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN06",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10117",
+          "templateNo": "MAU_STNMT_TNN06",
+          "templateName": "Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước dưới đất đối với công trình có lưu lượng nước dưới 3.000m3/ngày đêm",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước dưới đất đối với công trình có lưu lượng nước dưới 3.000m3/ngày đêm"
+        }
+      ],
+      "serviceName": "Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước dưới đất đối với công trình có lưu lượng nước dưới 3.000m3/ngày đêm"
+    },
+    {
+      "serviceConfigId": "9445",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN07",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10119",
+          "templateNo": "MAU_STNMT_TNN07",
+          "templateName": "Cấp giấy phép khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng dưới 2m3/giây; phát điện với công suất lắp máy dưới 2.000 kw; và cho các mục đích khác theo quy định",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp giấy phép khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng dưới 2m3/giây; phát điện với công suất lắp máy dưới 2.000 kw; và cho các mục đích khác theo quy định"
+        }
+      ],
+      "serviceName": "Cấp giấy phép khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng dưới 2m3/giây; phát điện với công suất lắp máy dưới 2.000 kw; và cho các mục đích khác theo quy định"
+    },
+    {
+      "serviceConfigId": "9447",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN08",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10121",
+          "templateNo": "MAU_STNMT_TNN08",
+          "templateName": "Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng dưới 2m3/giây; phát điện với công suất lắp máy dưới 2.000 kw; cho các mục đích khác với lưu lượng dưới 50.000 m3/ ngày đêm",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng dưới 2m3/giây; phát điện với công suất lắp máy dưới 2.000 kw; cho các mục đích khác với lưu lượng dưới 50.000 m3/ ngày đêm"
+        }
+      ],
+      "serviceName": "Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng dưới 2m3/giây; phát điện với công suất lắp máy dưới 2.000 kw; cho các mục đích khác với lưu lượng dưới 50.000 m3/ ngày đêm"
+    },
+    {
+      "serviceConfigId": "9449",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN09",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10123",
+          "templateNo": "MAU_STNMT_TNN09",
+          "templateName": "Cấp giấy phép xả nước thải vào nguồn nước với lưu lượng dưới 30.000m3/ngày đêm đối với hoạt động nuôi trồng thủy sản; với lưu lượng dưới  3.000m3/ngày đêm đối với các hoạt động khác",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp giấy phép xả nước thải vào nguồn nước với lưu lượng dưới 30.000m3/ngày đêm đối với hoạt động nuôi trồng thủy sản; với lưu lượng dưới  3.000m3/ngày đêm đối với các hoạt động khác"
+        }
+      ],
+      "serviceName": "Cấp giấy phép xả nước thải vào nguồn nước với lưu lượng dưới 30.000m3/ngày đêm đối với hoạt động nuôi trồng thủy sản; với lưu lượng dưới  3.000m3/ngày đêm đối với các hoạt động khác"
+    },
+    {
+      "serviceConfigId": "9451",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN10",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10125",
+          "templateNo": "MAU_STNMT_TNN10",
+          "templateName": "Gia hạn/điều chỉnh giấy phép xả nước thải vào nguồn nước với lưu lượng dưới 30.000m3/ngày đêm đối với hoạt động nuôi trồng thủy sản; với lưu lượng dưới  3.000m3/ngày đêm đối với các hoạt động khác",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn/điều chỉnh giấy phép xả nước thải vào nguồn nước với lưu lượng dưới 30.000m3/ngày đêm đối với hoạt động nuôi trồng thủy sản; với lưu lượng dưới  3.000m3/ngày đêm đối với các hoạt động khác"
+        }
+      ],
+      "serviceName": "Gia hạn/điều chỉnh giấy phép xả nước thải vào nguồn nước với lưu lượng dưới 30.000m3/ngày đêm đối với hoạt động nuôi trồng thủy sản; với lưu lượng dưới  3.000m3/ngày đêm đối với các hoạt động khác"
+    },
+    {
+      "serviceConfigId": "9453",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN11",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10127",
+          "templateNo": "MAU_STNMT_TNN11",
+          "templateName": "Cấp giấy phép hành nghề khoan dưới nước quy mô vừa và nhỏ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Cấp giấy phép hành nghề khoan dưới nước quy mô vừa và nhỏ"
+        }
+      ],
+      "serviceName": "Cấp giấy phép hành nghề khoan dưới nước quy mô vừa và nhỏ"
+    },
+    {
+      "serviceConfigId": "9455",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_TNN12",
+      "govAgencyName": "Sở tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10129",
+          "templateNo": "MAU_STNMT_TNN12",
+          "templateName": "Gia hạn, điều chỉnh nội dung giấy phép hành nghề khoan nước dưới đất quy vừa và nhỏ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Gia hạn, điều chỉnh nội dung giấy phép hành nghề khoan nước dưới đất quy vừa và nhỏ"
+        }
+      ],
+      "serviceName": "Gia hạn, điều chỉnh nội dung giấy phép hành nghề khoan nước dưới đất quy vừa và nhỏ"
+    },
+    {
+      "serviceConfigId": "9457",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB01",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10131",
+          "templateNo": "MAU_STNMT_GDDB01",
+          "templateName": "Đăng ký thế chấp quyền sử dụng đất, tài sản gắn liền với đất \n(gồm trường hợp đăng ký thế chấp quyền sử dụng đất hoặc đăng ký thế chấp quyền sử dụng đất đồng thời với tài sản gắn liền với đất hoặc đăng ký thế chấp tài sản gắn liền với đất)\n",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký thế chấp quyền sử dụng đất, tài sản gắn liền với đất \n(gồm trường hợp đăng ký thế chấp quyền sử dụng đất hoặc đăng ký thế chấp quyền sử dụng đất đồng thời với tài sản gắn liền với đất hoặc đăng ký thế chấp tài sản gắn liền với đất)\n"
+        }
+      ],
+      "serviceName": "Đăng ký thế chấp quyền sử dụng đất, tài sản gắn liền với đất \n(gồm trường hợp đăng ký thế chấp quyền sử dụng đất hoặc đăng ký thế chấp quyền sử dụng đất đồng thời với tài sản gắn liền với đất hoặc đăng ký thế chấp tài sản gắn liền với đất)\n"
+    },
+    {
+      "serviceConfigId": "9458",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB02",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10132",
+          "templateNo": "MAU_STNMT_GDDB02",
+          "templateName": "Đăng ký thế chấp dự án đầu tư xây dựng nhà ở, nhà ở hình thành trong tương lai",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký thế chấp dự án đầu tư xây dựng nhà ở, nhà ở hình thành trong tương lai"
+        }
+      ],
+      "serviceName": "Đăng ký thế chấp dự án đầu tư xây dựng nhà ở, nhà ở hình thành trong tương lai"
+    },
+    {
+      "serviceConfigId": "9459",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB03",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10133",
+          "templateNo": "MAU_STNMT_GDDB03",
+          "templateName": "Đăng ký thế chấp tài sản gắn liền với đất không phải là nhà ở mà tài sản đó đã hình thành nhưng chưa được chứng nhận quyền sở hữu trên Giấy chứng nhận",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký thế chấp tài sản gắn liền với đất không phải là nhà ở mà tài sản đó đã hình thành nhưng chưa được chứng nhận quyền sở hữu trên Giấy chứng nhận"
+        }
+      ],
+      "serviceName": "Đăng ký thế chấp tài sản gắn liền với đất không phải là nhà ở mà tài sản đó đã hình thành nhưng chưa được chứng nhận quyền sở hữu trên Giấy chứng nhận"
+    },
+    {
+      "serviceConfigId": "9460",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB04",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10134",
+          "templateNo": "MAU_STNMT_GDDB04",
+          "templateName": "Đăng ký bảo lưu quyền sở hữu trong trường hợp mua bán tài sản gắn liền với đất có bảo lưu quyền sở hữu",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký bảo lưu quyền sở hữu trong trường hợp mua bán tài sản gắn liền với đất có bảo lưu quyền sở hữu"
+        }
+      ],
+      "serviceName": "Đăng ký bảo lưu quyền sở hữu trong trường hợp mua bán tài sản gắn liền với đất có bảo lưu quyền sở hữu"
+    },
+    {
+      "serviceConfigId": "9461",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB05",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10135",
+          "templateNo": "MAU_STNMT_GDDB05",
+          "templateName": "Đăng ký thay đổi nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký thay đổi nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký"
+        }
+      ],
+      "serviceName": "Đăng ký thay đổi nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký"
+    },
+    {
+      "serviceConfigId": "9462",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB06",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10136",
+          "templateNo": "MAU_STNMT_GDDB06",
+          "templateName": "Sửa chữa sai sót nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký do lỗi của cơ quan đăng ký",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Sửa chữa sai sót nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký do lỗi của cơ quan đăng ký"
+        }
+      ],
+      "serviceName": "Sửa chữa sai sót nội dung biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất đã đăng ký do lỗi của cơ quan đăng ký"
+    },
+    {
+      "serviceConfigId": "9463",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB07",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10137",
+          "templateNo": "MAU_STNMT_GDDB07",
+          "templateName": "Đăng ký văn bản thông báo về việc xử lý tài sản thế chấp bằng quyền sử dụng đất, tài sản gắn liền với đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Đăng ký văn bản thông báo về việc xử lý tài sản thế chấp bằng quyền sử dụng đất, tài sản gắn liền với đất"
+        }
+      ],
+      "serviceName": "Đăng ký văn bản thông báo về việc xử lý tài sản thế chấp bằng quyền sử dụng đất, tài sản gắn liền với đất"
+    },
+    {
+      "serviceConfigId": "9464",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB08",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10138",
+          "templateNo": "MAU_STNMT_GDDB08",
+          "templateName": "Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở"
+        }
+      ],
+      "serviceName": "Chuyển tiếp đăng ký thế chấp quyền tài sản phát sinh từ hợp đồng mua bán nhà ở"
+    },
+    {
+      "serviceConfigId": "9465",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_GDDB09",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10139",
+          "templateNo": "MAU_STNMT_GDDB09",
+          "templateName": "Xóa đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Xóa đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất"
+        }
+      ],
+      "serviceName": "Xóa đăng ký biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất"
+    },
+    {
+      "serviceConfigId": "9466",
+      "govAgencyCode": "STNMT",
+      "serviceCode": "STNMT_DD32",
+      "govAgencyName": "Sở Tài nguyên và môi trường",
+      "options": [
+        {
+          "processOptionId": "10140",
+          "templateNo": "MAU_STNMT_GDDB10",
+          "templateName": "Thủ tục thẩm định, phê duyệt phương án bồi thường và hỗ trợ tái định cư ",
+          "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+          "optionName": "Thủ tục thẩm định, phê duyệt phương án bồi thường và hỗ trợ tái định cư "
+        }
+      ],
+      "serviceName": "Thủ tục thẩm định, phê duyệt phương án bồi thường và hỗ trợ tái định cư "
     }
   ]
 }

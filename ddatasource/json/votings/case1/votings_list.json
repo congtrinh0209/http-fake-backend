@@ -1,75 +1,91 @@
 {
-  "votingId": 1,
-  "userId": 201,
-  "userName": "huannv",
-  "createDate": "2017-07-26T04:05:01.722Z",
-  "modifiedDate": "2017-07-26T04:05:01.722Z",
-  "className": "DocFile",
-  "classPK": 102,
-  "subject": "Bầu chọn ý kiến đi du lịch hè 2017 cho 3 địa điểm",
-  "answers": ["Tôi chọn địa điểm Quan Lạng","Tôi chọn địa điểm Vân Đồn","Tôi chọn địa điểm Cát Bà"],
-  "dueDate": "2017-08-10T04:05:01.722Z",
-  "createdByCurrentUser": true,
-  "results": [
+  "total": 2,
+  "data": [
     {
-      "votingResultId": 2,
-      "modifiedDate": "",
-      "toUserId": 202,
-      "fullname": "Nguyễn Văn Huân",
-      "email": "huannv@gmail.com",
-      "comment": "",
-      "selected": 0,
-      "selectedByCurrentUser": false
+      "votingId": 2401,
+      "votingCode": "CH_2401",
+      "userId": 20139,
+      "userName": "Test Test",
+      "createDate": "2018-09-29T12:39:15.000Z",
+      "modifiedDate": "2018-09-29T12:39:15.000Z",
+      "subject": "Thái độ của cán bộ này như thế nào?",
+      "templateNo": "",
+      "commentable": false,
+      "answersCount": 10,
+      "choices": [
+        "Hài lòng",
+        "Không hài lòng"
+      ],
+      "answers": [
+        3,
+        7
+      ],
+      "selected": 0
     },
     {
-      "votingResultId": 3,
-      "modifiedDate": "2017-07-28T04:05:01.722Z",
-      "toUserId": 203,
-      "fullname": "Đặng Hồng Thái",
-      "email": "thaidh@gmail.com",
-      "comment": "Cát Bà không có nhiều dịch vụ để thưởng thức, tôi chọn Quan Lạng",
-      "selected": 2,
-      "selectedByCurrentUser": false
+      "votingId": 2402,
+      "votingCode": "CH_2402",
+      "userId": 20139,
+      "userName": "Test Test",
+      "createDate": "2018-09-29T12:39:31.000Z",
+      "modifiedDate": "2018-09-29T12:39:31.000Z",
+      "subject": "Trình độ chuyên môn của cán bộ này như thế nào?",
+      "templateNo": "",
+      "commentable": false,
+      "answersCount": 9,
+      "choices": [
+        "Tốt",
+        "Bình thường"
+      ],
+      "answers": [
+        4,
+        5
+      ],
+      "selected": 0
     },
     {
-      "votingResultId": 4,
-      "modifiedDate": "2017-07-29T04:05:01.722Z",
-      "toUserId": 204,
-      "fullname": "Trần Văn Hoàn",
-      "email": "hoantv@gmail.com",
-      "comment": "Cát Bà tôi thấy rất hoang sơ và thoải mái để tắm biển",
-      "selected": 1,
-      "selectedByCurrentUser": false
+      "votingId": 2404,
+      "votingCode": "CH_2403",
+      "userId": 20139,
+      "userName": "Test Test",
+      "createDate": "2018-09-29T12:39:15.000Z",
+      "modifiedDate": "2018-09-29T12:39:15.000Z",
+      "subject": "Thái độ của cán bộ này như thế nào?",
+      "templateNo": "",
+      "commentable": false,
+      "answersCount": 0,
+      "choices": [
+        "Hài lòng",
+        "Không hài lòng"
+      ],
+      "answers": [
+        0,
+        0
+      ],
+      "selected": 0
     },
     {
-      "votingResultId": 5,
-      "modifiedDate": "2017-07-30T04:05:01.722Z",
-      "toUserId": 205,
-      "fullname": "Nguyễn Tiến Thắng",
-      "email": "thangnt@gmail.com",
-      "comment": "Quan Lạng rất đẹp và cản cũng nên thơ, tôi chọn Quan Lạng",
-      "selected": 2,
-      "selectedByCurrentUser": false
-    },
-    {
-      "votingResultId": 6,
-      "modifiedDate": "2017-08-01T04:05:01.722Z",
-      "toUserId": 206,
-      "fullname": "Bùi Tiến Dũng",
-      "email": "dungbt@gmail.com",
-      "comment": "Vân Đồn rất nhiều dịch vụ để thưởng thức, tôi chọn Vân Đồn",
-      "selected": 3,
-      "selectedByCurrentUser": false
-    },
-    {
-      "votingResultId": 7,
-      "modifiedDate": "2017-08-02T04:05:01.722Z",
-      "toUserId": 207,
-      "fullname": "Hoàng Bá Khải",
-      "email": "dungbt@gmail.com",
-      "comment": "Tôi chọn Vân Đồn vì nó nhiều dịch vụ và chi phí cũng rẽ hơn các địa điểm khác",
-      "selected": 3,
-      "selectedByCurrentUser": false
+      "votingId": 2404,
+      "votingCode": "CH_2404",
+      "userId": 20139,
+      "userName": "Test Test",
+      "createDate": "2018-09-29T12:39:31.000Z",
+      "modifiedDate": "2018-09-29T12:39:31.000Z",
+      "subject": "Trình độ chuyên môn của cán bộ này như thế nào?",
+      "templateNo": "",
+      "commentable": false,
+      "answersCount": 15,
+      "choices": [
+        "Rất tốt",
+        "Tốt",
+        "Bình thường"
+      ],
+      "answers": [
+        10,
+        2,
+        3
+      ],
+      "selected": 0
     }
   ]
 }

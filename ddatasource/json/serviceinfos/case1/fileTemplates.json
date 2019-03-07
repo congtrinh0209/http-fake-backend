@@ -1,0 +1,36 @@
+{
+  "serviceInfoId": 525,
+  "createDate": "26-09-2018 02:06:01",
+  "modifiedDate": "10-10-2018 06:33:04",
+  "serviceCode": "TT25_BVHTTDL",
+  "serviceName": "Cấp giấy phép cho tổ chức trong nước hợp tác, liên doanh sản xuất phim, cung cấp dịch vụ sản xuất phim với tổ chức, cá nhân nước ngoài",
+  "processText": "- Cơ sở điện ảnh trong nước có chức năng sản xuất phim có nhu cầu hợp tác, liên doanh sản xuất phim, cung cấp dịch vụ sản xuất phim với tổ chức, cá nhân nước ngoài nộp trực tiếp hoặc gửi qua đường bưu điện 01 (bộ) hồ sơ đến Cục Điện ảnh.<br>- Cục Điện ảnh thẩm định, trình Bộ Văn hóa, Thể thao và Du lịch cấp Giấy phép cho tổ chức trong nước hợp tác, liên doanh sản xuất phim, cung cấp dịch vụ sản xuất phim với tổ chức, cá nhân nước ngoài. Trường hợp không cấp Giấy phép phải trả lời bằng văn bản nêu rõ lý do.",
+  "methodText": "Nộp trực tiếp hoặc gửi qua đường bưu điện đến Cục Điện ảnh.",
+  "dossierText": "- Thành phần hồ sơ:<br>\n(1) Đơn đề nghị (Mẫu số 2 ban hành kèm theo Thông tư số 11/2011/TT-BVHTTDL ngày 19 tháng 9 năm 2011);<br>\n(2) Kịch bản văn học bằng tiếng Việt và tiếng nước ngoài.  <br>  - Số lượng hồ sơ: 01(bộ).",
+  "conditionText": "Không",
+  "durationText": "30 ngày kể từ ngày nhận được hồ sơ hợp lệ.",
+  "applicantText": "Tổ chức.",
+  "resultText": "Quyết định hành chính.",
+  "regularText": "- Luật Điện ảnh số 62/2006/QH11 ngày 29 tháng 6 năm 2006. Có hiệu lực từ ngày 01/01/2007.<br>\n- Luật sửa đổi, bổ sung một số điều của Luật Điện ảnh số 31/2009/QH12 ngày 18 ngày 6 tháng 2009. Có hiệu lực từ ngày 01 tháng 10 năm 2009.<br>\n- Nghị định số 54/2010/NĐ-CP ngày 21 tháng 5 năm 2010 của Chính phủ quy định chi tiết thi hành một số điều của Luật Điện ảnh ngày 29 tháng 6 năm 2006 và Luật sửa đổi, bổ sung một số điều của Luật Điện ảnh ngày 18 tháng 6 năm 2009.  Có hiệu lực từ ngày 07/7/2010.<br>\n- Thông tư số 11/2011/TT-BVHTTDL ngày 19 tháng 9 năm 2011 hướng dẫn thực hiện một số quy định liên quan đến thủ tục hành chính trong lĩnh vực điện ảnh. Có hiệu lực từ ngày 15 tháng 10 năm 2011.<br>\n- Quyết định số 36/QĐ-BVHTTDL ngày 24 tháng 4 năm 2008 của Bộ Văn hóa, Thể thao và Du lịch quy định chức năng, nhiệm vụ và cơ cấu tổ chức của Cục Điện ảnh. Có hiệu lực từ ngày 21/5/2008.<br>\n - Thông tư số 122/2013/TT-BTC ngày 28 tháng 8 năm 2013 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định kịch bản phim, phim, chương trình nghệ thuật biểu diễn; lệ phí cấp giấy phép đủ điều kiện kinh doanh sản xuất phim, cấp giấy phép đặt văn phòng đại diện của cơ sở điện ảnh nước ngoài tại Việt Nam. Có hiệu lực từ ngày 15/10/2013.",
+  "feeText": "",
+  "administrationCode": "CDA",
+  "administrationName": "Cục Điện Ảnh",
+  "domainCode": "DA_BVHTTDL",
+  "domainName": "Điện ảnh",
+  "maxLevel": 4,
+  "fileTemplates": {
+    "fileTemplateNo": "BM02_11_2011_TT_BVHTTDL_TT25",
+    "templateName": "Đơn đề nghị hợp tác, liên doanh sản xuất phim, cung cấp dịch vụ sản xuât phim với tổ chức, cá nhân nước ngoài",
+    "fileType": "doc",
+    "fileSize": 50688
+  },
+  "serviceConfigs": {
+    "govAgencyCode": "CDA",
+    "govAgencyName": "Cục Điện ảnh",
+    "serviceInstruction": "Chuẩn bị bộ hồ sơ theo quy định",
+    "serviceLevel": 4,
+    "serviceUrl": "",
+    "serviceConfigId": 4152
+  },
+  "active": false
+}

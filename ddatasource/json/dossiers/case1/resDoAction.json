@@ -1,0 +1,12 @@
+{
+  "dossierActionId": 24319,
+  "dossierId": 7905,
+  "groupId": 55853,
+  "serviceProcessId": 527,
+  "previousActionId": 10101,
+  "fromStepCode": 610,
+  "sequenceNo": "06",
+  "nextActionId": 0,
+  "dossierDocumentId": 0,
+  "rollbackable": true
+}

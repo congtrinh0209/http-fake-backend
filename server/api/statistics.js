@@ -16,6 +16,17 @@ module.exports = SetupEndpoint({
 
       }
       ]
+    },
+    {
+      params: '',
+      requests: 
+      [{
+        method: 'GET',
+        response: '/ddatasource/json/statistics/case1/statistics_list.json',
+        statusCode: 200
+
+      }
+      ]
     }
   ]
 })

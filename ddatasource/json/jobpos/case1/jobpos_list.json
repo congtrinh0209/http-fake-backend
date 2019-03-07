@@ -10,7 +10,8 @@
       "workingUnitId": 1,
       "workingUnitName": "Phòng Kinh Doanh",
       "leader": 0,
-      "mappingRoleId": 101
+      "mappingRoleId": 101,
+      "jobPosCode": "PRQD_3132"
     },
     {
       "jobPosId": 2,
@@ -21,7 +22,8 @@
       "workingUnitId": 1,
       "workingUnitName": "Phòng Kinh Doanh",
       "leader": 1,
-      "mappingRoleId": 102
+      "mappingRoleId": 102,
+      "jobPosCode": "PR_3132"
     },
     {
       "jobPosId": 3,
@@ -32,7 +34,8 @@
       "workingUnitId": 1,
       "workingUnitName": "Phòng Kinh Doanh",
       "leader": 2,
-      "mappingRoleId": 103
+      "mappingRoleId": 103,
+      "jobPosCode": "PR_31323"
     },
     {
       "jobPosId": 4,
@@ -43,7 +46,8 @@
       "workingUnitId": 2,
       "workingUnitName": "Phòng Nhân Sự",
       "leader": 0,
-      "mappingRoleId": 104
+      "mappingRoleId": 104,
+      "jobPosCode": "PR_31312"
     },
     {
       "jobPosId": 5,
@@ -54,7 +58,8 @@
       "workingUnitId": 3,
       "workingUnitName": "Phòng Nhân Sự",
       "leader": 1,
-      "mappingRoleId": 105
+      "mappingRoleId": 105,
+      "jobPosCode": "P1R_3132"
     },
     {
       "jobPosId": 6,
@@ -65,7 +70,8 @@
       "workingUnitId": 3,
       "workingUnitName": "Phòng Nhân Sự",
       "leader": 2,
-      "mappingRoleId": 106
+      "mappingRoleId": 106,
+      "jobPosCode": "P3R_3132"
     }
   ]
 }

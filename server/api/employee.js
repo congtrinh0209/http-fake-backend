@@ -24,10 +24,10 @@ module.exports = SetupEndpoint({
             ]
         },
         {
-            params: '/1',
+            params: '/publish/STNMT',
             requests: [{
                 method: ['GET','PUT', 'PATCH'],
-                response: '/ddatasource/json/employees/case1/employee_1.json',
+                response: '/ddatasource/json/employees/case1/employee_list.json',
                 statusCode: 200
             },
             {

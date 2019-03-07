@@ -1,0 +1,21 @@
+
+{
+  "serviceProcessId": 4701,
+  "createDate": 20180928143525,
+  "modifiedDate": 20181023144930,
+  "processNo": "QT_DVC_STNMT",
+  "processName": "Quy trình cổng dịch vụ công Sở Tài nguyên và Môi trường Đã cập nhật",
+  "description": "Quy trình đầy đủ dùng cho cổng dịch vụ công Đã cập nhật",
+  "durationCount": 5,
+  "durationUnit": 1,
+  "counter": 0,
+  "generateDossierNo": false,
+  "dossierNoPattern": "",
+  "generateDueDate": false,
+  "dueDatePattern": "",
+  "generatePassword": false,
+  "directNotification": false,
+  "serverNo": "SERVER_STNMT",
+  "serverName": "Kết nối Sở Tài nguyên và Môi trường",
+  "paymentFee": ""
+}

@@ -1,0 +1,36 @@
+{
+  "serviceInfoId": 12201,
+  "createDate": "16-08-2018 10:10:55",
+  "modifiedDate": "16-08-2018 10:10:55",
+  "serviceCode": "SLDTBXH_TNXH03",
+  "serviceName": "Sửa đổi, bổ sung giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+  "processText": "- Tổ chức, cá nhân nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân tại Trung tâm phục vụ hành chính công tỉnh Phú Thọ. <br\/>\n- Trung tâm phục vụ hành chính công kiểm tra hồ sơ, nếu hồ sơ đầy đủ thành phần theo quy định thì viết phiếu tiếp nhận hồ sơ theo mẫu quy định tại Phụ lục 6 ban hành kèm theo Thông tư số 35\/2013\/TT\/BLĐTBXH) và chuyển cho Chi cục Phòng chống tệ nạn xã hội thẩm định. Trường hợp hồ sơ chưa hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, Trung tâm phục vụ hành chính công phải có thông báo bằng văn bản cho tổ chức, cá nhân biết để hoàn thiện hồ sơ.<br\/>\n- Trong thời gian 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Chi cục Phòng chống tệ nạn xã hội tiến hành thẩm định, báo cáo Sở và trình UBND tỉnh xem xét, quyết định việc sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân.<br\/>\n- Trong thời gian 07 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Sở Lao động - Thương binh và xã hội, Chủ tịch UBND tỉnh xem xét, quyết định việc sửa đổi, bổ sung cấp Giấy phép thành lập.<br\/>\nTrường hợp không đồng ý sửa đổi, bổ sung Giấy phép thành lập, trong thời hạn 03 ngày làm việc, Chủ tịch Ủy ban nhân dân cấp tỉnh phải trả lời bằng văn bản và nêu rõ lý do gửi về Sở Lao động - Thương binh và xã hội<br\/>\n - Cơ sở nhận kết quả tại Trung tâm phục vụ hành chính công tỉnh Phú Thọ.  <br\/>\n",
+  "methodText": "Tổ chức, cá nhân nộp hồ sơ tại Trung tâm phục vụ hành chính công tỉnh Phú Thọ",
+  "dossierText": "- Đơn đề nghị sửa đổi, bổ sung giấy phép thành lập cơ sở hỗ trợ nạn nhân (Phụ lục 1 - Thông tư số 35\/2013\/TT\/BLĐTBXH)<br\/>\n- Bản sao Giấy phép thành lập đã được cấp.<br\/>\n- Văn bản, tài liệu chứng minh việc thay đổi người đứng đầu; hoặc thay đổi địa điểm đặt trụ sở; hoặc thay đổi tên gọi, phạm vi hoạt động, dịch vụ hỗ trợ được cấp phép.<br\/>\n- Số lượng hồ sơ:  01 bộ.\n",
+  "conditionText": "Giấy phép thành lập phải sửa đổi, bổ sung trong các trường hợp sau:<br\/>\n- Thay đổi người đứng đầu.<br\/>\n- Thay đổi địa điểm đặt trụ sở.<br\/>\n- Thay đổi tên gọi, phạm vi hoạt động, dịch vụ hỗ trợ được cấp phép.\n",
+  "durationText": "Không quá 14 ngày làm việc",
+  "applicantText": "- Đối tượng thực hiện thủ tục hành chính:Tổ chức, cá nhân đề nghị sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân<br\/>\n- Cơ quan thực hiện thủ tục hành chính: Chi cục Phòng chống tệ nạn xã hội.\n",
+  "resultText": "Quyết định sửa đổi, bổ sung Giấy phép hoạt động cơ sở hỗ trợ nạn nhân hoặc công văn thông báo không sửa đổi, bổ sung Giấy phép thành lập (có nêu rõ lý do).",
+  "regularText": "- Nghị định số 09\/2013\/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người;<br\/>\n- Thông tư số 35\/2013\/TT\/BLĐTBXH ngày 30\/12\/2013 của Bộ Lao động - Thương binh và xã hội về Hướng dẫn thi hành một số điều của Nghị định số 09\/2013\/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người.<br\/>\n",
+  "feeText": "Không",
+  "administrationCode": "SLDTBXH",
+  "administrationName": "Sở Lao động - Thương binh và Xã hội",
+  "domainCode": "SLDTBXH_GDNN",
+  "domainName": "Giáo dục nghề nghiệp",
+  "maxLevel": 2,
+  "fileTemplates": {
+    "fileTemplateNo": "SLDTBXH_TNXH03_TP01",
+    "templateName": "Sửa đổi, bổ sung giấy phép thành lập cơ sở hỗ trợ nạn nhân",
+    "fileType": "docx",
+    "fileSize": 14050
+  },
+  "serviceConfigs": {
+    "govAgencyCode": "SLDTBXH",
+    "govAgencyName": "Sở Lao động - Thương binh và Xã hội",
+    "serviceInstruction": "Chuẩn bị bộ hồ sơ theo quy định sau đó mang đến nộp tại Trung tâm Hành chính công Tỉnh Phú Thọ<br\/>Địa chỉ: Nguyễn Tất Thành, Ph.Tân Dân, Thành phố Việt Trì, Phú Thọ<br\/>Giờ làm việc:    <br\/>Điện thoại liên hệ: <br\/>Thư điện tử:",
+    "serviceLevel": 2,
+    "serviceUrl": "",
+    "serviceConfigId": 25801
+  },
+  "active": true
+}

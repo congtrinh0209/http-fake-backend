@@ -1,0 +1,412 @@
+{
+  "total": 27,
+  "data": [
+    {
+      "dictItemId": 28940,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "receiving_1",
+      "itemName": "Chờ tiếp nhận bổ sung hồ sơ trực tuyến",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "receiving",
+        "itemName": "Chờ tiếp nhận",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28941,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "receiving_2",
+      "itemName": "Chờ tiếp nhận biên lai thuế trực tuyến",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "receiving",
+        "itemName": "Chờ tiếp nhận",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28939,
+      "createDate": "2018-10-23T14:48:30.000Z",
+      "modifiedDate": "2018-10-23T14:48:30.000Z",
+      "itemCode": "receiving_0",
+      "itemName": "Chờ tiếp nhận hồ sơ trực tuyến",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "receiving",
+        "itemName": "Chờ tiếp nhận",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28937,
+      "createDate": "2018-10-23T14:48:30.000Z",
+      "modifiedDate": "2018-10-23T14:48:30.000Z",
+      "itemCode": "new_1",
+      "itemName": "Chờ tiếp nhận hồ sơ liên thông",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "new",
+        "itemName": "Mới tạo",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28942,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "processing",
+      "itemName": "Đang thụ lý hồ sơ",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28943,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "releasing",
+      "itemName": "Chờ trả kết quả",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28938,
+      "createDate": "2018-10-23T14:48:30.000Z",
+      "modifiedDate": "2018-10-23T14:48:30.000Z",
+      "itemCode": "receiving",
+      "itemName": "Chờ tiếp nhận",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28936,
+      "createDate": "2018-10-23T14:48:30.000Z",
+      "modifiedDate": "2018-10-23T14:48:30.000Z",
+      "itemCode": "new_0",
+      "itemName": "Mới tạo",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "new",
+        "itemName": "Mới tạo",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28950,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "cancelled_2",
+      "itemName": "Yêu cầu rút hồ sơ trực tuyến",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "cancelled",
+        "itemName": "Đã rút hồ sơ",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28952,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "unresolved",
+      "itemName": "Không đủ điều kiện giải quyết",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28944,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "posting",
+      "itemName": "Chờ trả kết quả qua bưu chính",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28945,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "planing",
+      "itemName": "Chờ trả thông báo kế hoạch",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28949,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "cancelled_0",
+      "itemName": "Đã rút hồ sơ",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "cancelled",
+        "itemName": "Đã rút hồ sơ",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28951,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "denied",
+      "itemName": "Từ chối tiếp nhận hồ sơ",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28946,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "Interoperating",
+      "itemName": "Liên thông hồ sơ",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28948,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "cancelled",
+      "itemName": "Đã rút hồ sơ",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28947,
+      "createDate": "2018-10-23T14:48:31.000Z",
+      "modifiedDate": "2018-10-23T14:48:31.000Z",
+      "itemCode": "done",
+      "itemName": "Hoàn thành",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28935,
+      "createDate": "2018-10-23T14:48:30.000Z",
+      "modifiedDate": "2018-10-23T14:48:30.000Z",
+      "itemCode": "new",
+      "itemName": "Mới tạo",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28958,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "waiting_9",
+      "itemName": "Chờ tiếp nhận bổ sung liên thông",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "waiting",
+        "itemName": "Chờ hoàn thiện",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28960,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "paying_1",
+      "itemName": "Chờ thanh toán trực tuyến",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "paying",
+        "itemName": "Chờ thanh toán",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28956,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "waiting_6",
+      "itemName": "Chờ nộp biên lai thuế",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "waiting",
+        "itemName": "Chờ hoàn thiện",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28954,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "waiting_1",
+      "itemName": "Chờ hoàn thiện hồ sơ",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "waiting",
+        "itemName": "Chờ hoàn thiện",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28957,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "waiting_8",
+      "itemName": "Chờ bổ sung liên thông",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "waiting",
+        "itemName": "Chờ hoàn thiện",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28961,
+      "createDate": "2018-10-23T14:48:33.000Z",
+      "modifiedDate": "2018-10-23T14:48:33.000Z",
+      "itemCode": "paying_2",
+      "itemName": "Chờ xác nhận thanh toán",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "paying",
+        "itemName": "Chờ thanh toán",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28955,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "waiting_3",
+      "itemName": "Chờ bổ sung hồ sơ",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 1,
+      "sibling": 1,
+      "treeIndex": "",
+      "parentItem": {
+        "itemCode": "waiting",
+        "itemName": "Chờ hoàn thiện",
+        "itemNameEN": ""
+      }
+    },
+    {
+      "dictItemId": 28953,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "waiting",
+      "itemName": "Chờ hoàn thiện",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    },
+    {
+      "dictItemId": 28959,
+      "createDate": "2018-10-23T14:48:32.000Z",
+      "modifiedDate": "2018-10-23T14:48:32.000Z",
+      "itemCode": "paying",
+      "itemName": "Chờ thanh toán",
+      "itemNameEN": "",
+      "itemDescription": "",
+      "level": 0,
+      "sibling": 0,
+      "treeIndex": "",
+      "parentItem": ""
+    }
+  ]
+}

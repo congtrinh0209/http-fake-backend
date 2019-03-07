@@ -1,0 +1,17 @@
+{
+  "total": 2,
+  "data": [
+    {
+      "sequenceNo": "SQQQQ1111",
+      "sequenceName": "Xử lý hồ sơ",
+      "sequenceRole": "Trịnh Công Trình",
+      "durationCount": 1
+    },
+    {
+      "sequenceNo": "SQQQQ22222",
+      "sequenceName": "Xử lý hồ sơ",
+      "sequenceRole": "Vũ Văn Nam",
+      "durationCount": 0.5
+    }
+  ]
+}

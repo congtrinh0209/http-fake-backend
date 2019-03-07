@@ -1,0 +1,33 @@
+{
+  "total": 2,
+  "data": [
+    {
+      "processOptionId": 7379,
+      "seqOrder": 1,
+      "autoSelect": "",
+      "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+      "submissionNote": "(select submissionNote from opencps_processOption where processOptionId = 2001)",
+      "dossierTemplateId": 2223,
+      "templateNo": "MAU_STNMT_TNN03A",
+      "templateName": "Cấp giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm",
+      "serviceProcessId": 2201,
+      "processNo": "QT_DVC_STNMT",
+      "processName": "Quy trình cổng dịch vụ công Sở Tài nguyên và Môi trường",
+      "optionName": "Công trình có quy mô từ 200 m3/ngày đêm trở lên"
+    },
+    {
+      "processOptionId": 7380,
+      "seqOrder": 1,
+      "autoSelect": "",
+      "instructionNote": "Bước 1: Nhập đầy đủ thông tin vào đơn đang ký và các biểu mẫu trực tuyến.<br/>Bước 2: Đính kèm các tệp tài liệu của từng thành phần hồ sơ phải nộp theo quy định.<br/>Bước 3: Lưu thông tin và kiểm tra các thành phần hồ sơ đã nhập trước khi gửi.<br/>Bước 4: Nhấn nút \"Gửi hồ sơ\" để nộp trực tuyến.",
+      "submissionNote": "(select submissionNote from opencps_processOption where processOptionId = 2001)",
+      "dossierTemplateId": 2225,
+      "templateNo": "MAU_STNMT_TNN03B",
+      "templateName": "Cấp giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm",
+      "serviceProcessId": 2201,
+      "processNo": "QT_DVC_STNMT",
+      "processName": "Quy trình cổng dịch vụ công Sở Tài nguyên và Môi trường",
+      "optionName": "Công trình có quy mô nhỏ hơn 200 m3/ngày đêm"
+    }
+  ]
+}

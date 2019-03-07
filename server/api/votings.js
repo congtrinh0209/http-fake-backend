@@ -18,6 +18,16 @@ module.exports = SetupEndpoint({
             ]
         },
         {
+            params: '/checkpermission',
+            requests: 
+            [{
+                method: 'GET',
+                response: '/ddatasource/json/votings/case1/permision.json',
+                statusCode: 200
+            }
+            ]
+        },
+        {
             params: '/{className}/{classPK}/{email}',
             requests: 
             [
@@ -66,12 +76,23 @@ module.exports = SetupEndpoint({
             ]
         },/* THEM NGUOI XIN Y KIEN THANH CONG */
         {
-            params: '/1/users',
+            params: '/101',
             requests: 
             [
             {
                 method: 'POST',
-                response: '/ddatasource/json/votings/case1/votings_3.json',
+                response: '/ddatasource/json/votings/case1/votings_1.json',
+                statusCode: 200
+            }
+            ]
+        },
+        {
+            params: '/102',
+            requests: 
+            [
+            {
+                method: 'POST',
+                response: '/ddatasource/json/votings/case1/votings_1.json',
                 statusCode: 200
             }
             ]

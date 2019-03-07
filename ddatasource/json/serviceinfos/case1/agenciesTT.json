@@ -1,0 +1,1576 @@
+{
+  "govAgencies": [
+    {
+      "govAgencyCode": "STNMT",
+      "govAgencyName": "Sở tài nguyên và Môi trường",
+      "domains": [
+        {
+          "domainCode": "STNMT_TNN",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "1671",
+              "serviceConfigId": "6871",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng dưới 3.000m3/ngày đêm"
+            },
+            {
+              "serviceInfoId": "1679",
+              "serviceConfigId": "6879",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép hành nghề khoan dưới nước quy mô vừa và nhỏ"
+            },
+            {
+              "serviceInfoId": "1680",
+              "serviceConfigId": "6880",
+              "level": "3",
+              "serviceInfoName": "Gia hạn, điều chỉnh nội dung giấy phép hành nghề khoan nước dưới đất quy vừa và nhỏ"
+            }
+          ],
+          "domainName": "Tài nguyên nước"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "SNNPTNT",
+      "govAgencyName": "Sở Nông nghiệp và Phát triển nông thôn",
+      "domains": [
+        {
+          "domainCode": "SNNPTNT_LN",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2314",
+              "serviceConfigId": "7513",
+              "level": "3",
+              "serviceInfoName": "Cho phép chuyển đổi mục đích sử dụng giữa 3 loại rừng đối với những khu rừng do UBND tỉnh xác lập"
+            },
+            {
+              "serviceInfoId": "2315",
+              "serviceConfigId": "7514",
+              "level": "3",
+              "serviceInfoName": "Miễn, giảm tiền chi trả dịch vụ môi trường rừng (đối với tổ chức, cá nhân sử dụng DVMTR trong phạm vi 01 tỉnh)"
+            },
+            {
+              "serviceInfoId": "2316",
+              "serviceConfigId": "7515",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận phương án nộp tiền trồng rừng thay thế về Quỹ Bảo vệ và Phát triển rừng của tỉnh"
+            },
+            {
+              "serviceInfoId": "2317",
+              "serviceConfigId": "7516",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt cho Ban quản lý khu rừng đặc dụng lập, tổ chức thực hiện hoặc liên kết với các đối tác đầu tư để thực hiện các phương án chi trả dịch vụ môi trường rừng đối với khu rừng thuộc địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2318",
+              "serviceConfigId": "7517",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt điều chỉnh giảm diện tích khu rừng đặc dụng thuộc địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2319",
+              "serviceConfigId": "7518",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt điều chỉnh tăng diện tích khu rừng đặc dụng do UBND tỉnh quyết định thành lập thuộc địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2320",
+              "serviceConfigId": "7519",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt điều chỉnh các phân khu chức năng không làm thay đổi diện tích rừng đặc dụng do UBND tỉnh quyết định thành lập thuộc địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2321",
+              "serviceConfigId": "7520",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt Quy hoạch rừng đặc dụng cấp tỉnh"
+            },
+            {
+              "serviceInfoId": "2322",
+              "serviceConfigId": "7521",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Thẩm định, phê duyệt Quy hoạch khu rừng đặc dụng do địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2323",
+              "serviceConfigId": "7522",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt đề án thành lập Trung tâm cứu hộ, bảo tồn và phát triển sinh vật (đối với khu rừng đặc dụng thuộc địa phương quản lý)"
+            },
+            {
+              "serviceInfoId": "2324",
+              "serviceConfigId": "7523",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt phương án trồng rừng mới thay thế diện tích rừng chuyển sang sử dụng cho mục đích khác"
+            },
+            {
+              "serviceInfoId": "2325",
+              "serviceConfigId": "7524",
+              "level": "3",
+              "serviceInfoName": "Thu hồi rừng của tổ chức được Nhà nước giao rừng không thu tiền sử dụng rừng hoặc được giao rừng có thu tiền sử dụng rừng mà tiền đó có nguồn gốc từ ngân sách nhà nước hoặc được thuê rừng trả tiền thuê hàng năm nay chuyển đi nơi khác, đề nghị giảm diện tích rừng hoặc không có nhu cầu sử dụng rừng; chủ rừng tự nguyện trả lại rừng thuộc thẩm quyền UBND cấp tỉnh (chủ rừng là tổ chức trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài)"
+            },
+            {
+              "serviceInfoId": "2326",
+              "serviceConfigId": "7525",
+              "level": "3",
+              "serviceInfoName": "Giao rừng cho các tổ chức"
+            },
+            {
+              "serviceInfoId": "2327",
+              "serviceConfigId": "7526",
+              "level": "3",
+              "serviceInfoName": "Cho thuê rừng đối với tổ chức"
+            },
+            {
+              "serviceInfoId": "2328",
+              "serviceConfigId": "7527",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt dự án đầu tư vùng đệm khu rừng đặc dụng thuộc địa phương xác lập và quản lý"
+            },
+            {
+              "serviceInfoId": "2329",
+              "serviceConfigId": "7528",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt cho Ban quản lý rừng đặc dụng cho tổ chức, cá nhân thuê môi trường rừng để kinh doanh dịch vụ du lịch sinh thái lập dự án du lịch sinh thái đối với khu rừng đặc dụng thuộc địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2330",
+              "serviceConfigId": "7529",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt cho Ban quản lý khu rừng đặc dụng tự tổ chức hoặc liên kết với tổ chức, cá nhân khác để kinh doanh dịch vụ nghỉ dưỡng, du lịch sinh thái, vui chơi giải trí lập dự án du lịch sinh thái đối với khu rừng đặc dụng thuộc địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2331",
+              "serviceConfigId": "7530",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt hồ sơ thiết kế, dự toán các công trình lâm sinh (đối với công trình lâm sinh thuộc dự án do Chủ tịch UBND cấp tỉnh quyết định đầu tư)"
+            },
+            {
+              "serviceInfoId": "2332",
+              "serviceConfigId": "7531",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt điều chỉnh các phân khu chức năng không làm thay đổi diện tích khu rừng đặc dụng do Thủ tướng Chính phủ quyết định thành lập thuộc địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2333",
+              "serviceConfigId": "7532",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt điều chỉnh tăng diện tích đối với khu rừng đặc dụng do Thủ tướng Chính phủ thành lập thuộc địa phương quản lý"
+            },
+            {
+              "serviceInfoId": "2334",
+              "serviceConfigId": "7533",
+              "level": "3",
+              "serviceInfoName": "Điều chỉnh thiết kế, dự toán các công trình lâm sinh (đối với công trình lâm sinh thuộc dự án do Chủ tịch UBND cấp tỉnh quyết định đầu tư)"
+            },
+            {
+              "serviceInfoId": "2335",
+              "serviceConfigId": "7534",
+              "level": "3",
+              "serviceInfoName": "Phê duyệt hồ sơ và cấp phép khai thác chính gỗ rừng tự nhiên của chủ rừng là tổ chức"
+            },
+            {
+              "serviceInfoId": "2336",
+              "serviceConfigId": "7535",
+              "level": "3",
+              "serviceInfoName": "Phê duyệt hồ sơ và cấp phép khai thác tận dụng trên diện tích giải phóng mặt bằng để xây dựng các công trình hoặc sử dụng vào mục đích khác không phải lâm nghiệp của các tổ chức."
+            },
+            {
+              "serviceInfoId": "2337",
+              "serviceConfigId": "7536",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo các loài động vật, thực vật hoang dã quý hiếm theo quy định của pháp luật Việt Nam và Phục lục II, III của CITES"
+            },
+            {
+              "serviceInfoId": "2338",
+              "serviceConfigId": "7537",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép khai thác động vật rừng thông thường từ rừng tự nhiên vì mục đích thương mại trên các lâm phận của các chủ rừng do địa phương quản lý."
+            },
+            {
+              "serviceInfoId": "2339",
+              "serviceConfigId": "7538",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép khai thác động vật rừng thông thường từ tự nhiên không vì mục đích thương mại trên các lâm phận của các chủ rừng thuộc địa phương quản lý."
+            },
+            {
+              "serviceInfoId": "2340",
+              "serviceConfigId": "7539",
+              "level": "3",
+              "serviceInfoName": "Cấp chứng nhận nguồn gốc lô giống"
+            },
+            {
+              "serviceInfoId": "2341",
+              "serviceConfigId": "7540",
+              "level": "3",
+              "serviceInfoName": "Cấp chứng nhận nguồn gốc lô cây con"
+            },
+            {
+              "serviceInfoId": "2342",
+              "serviceConfigId": "7541",
+              "level": "3",
+              "serviceInfoName": "Công nhận nguồn giống cây trồng lâm nghiệp (cây trội; lâm phần tuyển chọn; rừng giống chuyển hóa; rừng giống trồng; vườn cây đầu dòng)."
+            },
+            {
+              "serviceInfoId": "2343",
+              "serviceConfigId": "7542",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận trại nuôi gấu"
+            },
+            {
+              "serviceInfoId": "2344",
+              "serviceConfigId": "7543",
+              "level": "3",
+              "serviceInfoName": "Giao nộp gấu cho nhà nước"
+            },
+            {
+              "serviceInfoId": "2345",
+              "serviceConfigId": "7544",
+              "level": "3",
+              "serviceInfoName": "Lưu giữ sưu tầm mẫu vật, nguồn gen sinh vật thông thường trong khu rừng đặc dụng vì mục đích khoa học."
+            },
+            {
+              "serviceInfoId": "2346",
+              "serviceConfigId": "7545",
+              "level": "3",
+              "serviceInfoName": "Nghiên cứu khoa học trong rừng đặc dụng của các tổ chức, cá nhân trong nước."
+            },
+            {
+              "serviceInfoId": "2347",
+              "serviceConfigId": "7546",
+              "level": "3",
+              "serviceInfoName": "Phê duyệt hồ sơ và cấp phép khai thác, tận thu các loại lâm sản ngoài gỗ và tre nứa của chủ rừng là tổ chức (đối với các loại lâm sản có trong danh mục Cites và nhựa thông trong rừng tự nhiên, rừng trồng bằng vốn ngân sách, vốn viện trợ không hoàn lại)."
+            }
+          ],
+          "domainName": "Lâm nghiệp"
+        },
+        {
+          "domainCode": "SNNPTNT_TL",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2359",
+              "serviceConfigId": "7558",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép cho hoạt động trồng cây lâu năm thuộc rễ ăn sâu trên 1m trong phạm vi bảo vệ công trình thủy lợi thuộc thẩm quyền giải quyết UBND các tỉnh, thành phố trực thuộc TW"
+            },
+            {
+              "serviceInfoId": "2360",
+              "serviceConfigId": "7559",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép cho hoạt động giao thông vận tải của xe cơ giới trong phạm vi bảo vệ công trình thủy lợi, trừ các trường hợp sau: a) Các loại xe mô tô hai bánh, xe gắn máy, xe cơ giới dùng cho người tàn tật; b) Xe cơ giới đi trên đường giao thông công cộng trong phạm vi bảo vệ công trình thủy lợi; c) Xe cơ giới đi qua công trình thủy lợi kết hợp đường giao thông công cộng có trọng tải, kích thước phù hợp với tiêu chuẩn thiết kế của công trình thủy lợi"
+            },
+            {
+              "serviceInfoId": "2361",
+              "serviceConfigId": "7560",
+              "level": "3",
+              "serviceInfoName": "Gia hạn, điều chỉnh nội dung giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi được quy định tại khoản 2, 3, 5, 6, 7, 8 Điều 1 Quyết định 55/2004/QĐ-BNN ngày 01/11/2004 của Bộ Nông nghiệp và PTNT"
+            },
+            {
+              "serviceInfoId": "2362",
+              "serviceConfigId": "7561",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép cho các hoạt động xây dựng kho, bến bãi, bốc dỡ; tập kết nguyên liệu, nhiên liệu, vật liệu, vật tư, phương tiện; xây dựng chuồng trại chăn thả gia súc, nuôi trồng thủy sản; chôn phế thải, chất thải"
+            },
+            {
+              "serviceInfoId": "2363",
+              "serviceConfigId": "7562",
+              "level": "3",
+              "serviceInfoName": "cấp giấy phép xả nước thải vào hệ thống công trình thủy lợi thuộc tỉnh quản lý; hệ thống công trình thủy lợi liên tỉnh, công trình thủy lợi quan trọng quốc gia với lưu lượng xả nhỏ hơn 1000m3/ngày đêm"
+            },
+            {
+              "serviceInfoId": "2364",
+              "serviceConfigId": "7563",
+              "level": "3",
+              "serviceInfoName": "Gia hạn, điều chỉnh nội dung giấy phép xả nước thải vào hệ thống công trình thủy lợi thuộc tỉnh quản lý; hệ thống công trình thủy lợi liên tỉnh, công trình thủy lợi quan trọng quốc gia với lưu lượng xả nhỏ hơn 1000m3/ngày đêm"
+            }
+          ],
+          "domainName": "Thủy lợi"
+        },
+        {
+          "domainCode": "SNNPTNT_BVTV",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2270",
+              "serviceConfigId": "7469",
+              "level": "3",
+              "serviceInfoName": "cấp giấy phép vận chuyển thuốc bảo vệ thực vật"
+            },
+            {
+              "serviceInfoId": "2271",
+              "serviceConfigId": "7470",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc bảo vệ thực vật"
+            },
+            {
+              "serviceInfoId": "2272",
+              "serviceConfigId": "7471",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc bảo vệ thực vật"
+            },
+            {
+              "serviceInfoId": "2273",
+              "serviceConfigId": "7472",
+              "level": "3",
+              "serviceInfoName": "Cấp lại giấy chứng nhận đủ điều kiện buôn bán thuốc bảo vệ thực vật"
+            },
+            {
+              "serviceInfoId": "2274",
+              "serviceConfigId": "7473",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận kiểm dịch thực vật đối với các lô vật thể vận chuyển từ vùng nhiễm đối tượng kiểm dịch thực vật"
+            }
+          ],
+          "domainName": "Bảo vệ thực vật"
+        },
+        {
+          "domainCode": "SNNPTNT_CN",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2275",
+              "serviceConfigId": "7474",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy xác nhận nội dung quảng cáo thức ăn chăn nuôi"
+            },
+            {
+              "serviceInfoId": "2276",
+              "serviceConfigId": "7475",
+              "level": "3",
+              "serviceInfoName": "Tiếp nhận bản Công bố hợp quy chất lượng giống vật nuôi và thức ăn chăn nuôi."
+            },
+            {
+              "serviceInfoId": "2277",
+              "serviceConfigId": "7476",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận cơ sở chăn nuôi đủ điều kiện an toàn thực phẩm"
+            },
+            {
+              "serviceInfoId": "2278",
+              "serviceConfigId": "7477",
+              "level": "3",
+              "serviceInfoName": "Cấp lại giấy chứng nhận cơ sở chăn nuôi đủ điều kiện an toàn thực phẩm."
+            },
+            {
+              "serviceInfoId": "2279",
+              "serviceConfigId": "7478",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Cấp mới Giấy chứng nhận lưu hành tự do (Certificate Of Free Sale - CFS) sản phẩm hàng hóa xuất khẩu đối với Giống vật nuôi (bao gồm phôi, tinh, con giống vật nuôi); Thức ăn chăn nuôi, chất bổ sung vào thức ăn chăn nuôi; Môi trường pha chế, bảo quản tinh, phôi động vật; Vật tư, hóa chất chuyên dùng trong chăn nuôi."
+            },
+            {
+              "serviceInfoId": "2280",
+              "serviceConfigId": "7479",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Cấp lại Giấy chứng nhận lưu hành tự do (Certificate Of Free Sale \u2013 CFS) sản phẩm hàng hóa xuất khẩu đối với Giống vật nuôi (bao gồm phôi, tinh, con giống vật nuôi); Thức ăn chăn nuôi, chất bổ sung vào thức ăn chăn nuôi; Môi trường pha chế, bảo quản tinh, phôi động vật; Vật tư, hóa chất chuyên dùng trong chăn nuôi"
+            }
+          ],
+          "domainName": "Chăn nuôi"
+        },
+        {
+          "domainCode": "SNNPTNT_TT",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2281",
+              "serviceConfigId": "7480",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Công nhận cây đầu dòng cây công nghiệp, cây ăn quả lâu năm"
+            },
+            {
+              "serviceInfoId": "2282",
+              "serviceConfigId": "7481",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Công nhận vườn cây đầu dòng cây công nghiệp, cây ăn quả lâu năm"
+            },
+            {
+              "serviceInfoId": "2283",
+              "serviceConfigId": "7482",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Cấp lại Giấy công nhận cây đầu dòng, vườn cây đầu dòng cây công nghiệp, cây ăn quả lâu năm."
+            },
+            {
+              "serviceInfoId": "2284",
+              "serviceConfigId": "7483",
+              "level": "3",
+              "serviceInfoName": "Tiếp nhận bản công bố hợp quy giống cây trồng"
+            },
+            {
+              "serviceInfoId": "2285",
+              "serviceConfigId": "7484",
+              "level": "3",
+              "serviceInfoName": "Tiếp nhận bản Công bố hợp quy phân bón hữu cơ và phân bón khác."
+            },
+            {
+              "serviceInfoId": "2286",
+              "serviceConfigId": "7485",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy xác nhận kiến thức về an toàn thực phẩm (đối với cơ sở trồng trọt)."
+            },
+            {
+              "serviceInfoId": "2287",
+              "serviceConfigId": "7486",
+              "level": "3",
+              "serviceInfoName": "cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm (đối với  cơ sở trồng trọt)."
+            },
+            {
+              "serviceInfoId": "2288",
+              "serviceConfigId": "7487",
+              "level": "3",
+              "serviceInfoName": "Thủ tục cấp lại Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở trồng trọt (Trường hợp trước 06 tháng tính đến ngày Giấy chứng nhận ATTP hết hạn)."
+            },
+            {
+              "serviceInfoId": "2289",
+              "serviceConfigId": "7488",
+              "level": "3",
+              "serviceInfoName": "Thủ tục cấp lại Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở trồng trọt (Trường hợp Giấy chứng nhận vẫn còn thời hạn hiệu lực nhưng bị mất, bị  hỏng, thất lạc, hoặc có sự thay đổi, bổ sung thông tin trên Giấy chứng nhận)."
+            },
+            {
+              "serviceInfoId": "2290",
+              "serviceConfigId": "7489",
+              "level": "3",
+              "serviceInfoName": "Công nhận vùng nông nghiệp ứng dụng công nghệ cao"
+            }
+          ],
+          "domainName": "Trồng trọt"
+        },
+        {
+          "domainCode": "SNNPTNT_TY",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2291",
+              "serviceConfigId": "7490",
+              "level": "3",
+              "serviceInfoName": "Cấp, gia hạn Chứng chỉ hành nghề thú y (gồm tiêm phòng, chữa bệnh, phẫu thuật động vật; tư vấn các hoạt động liên quan đến lĩnh vực thú y; khám bệnh, chẩn đoán bệnh, xét nghiệm bệnh động vật; buôn bán thuốc thú y)"
+            },
+            {
+              "serviceInfoId": "2292",
+              "serviceConfigId": "7491",
+              "level": "3",
+              "serviceInfoName": "Cấp, gia hạn Chứng chỉ hành nghề thú y (gồm tiêm phòng, chữa bệnh, phẫu thuật động vật; tư vấn các hoạt động liên quan đến lĩnh vực thú y; khám bệnh, chẩn đoán bệnh, xét nghiệm bệnh động vật; buôn bán thuốc thú y)"
+            },
+            {
+              "serviceInfoId": "2293",
+              "serviceConfigId": "7492",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y"
+            },
+            {
+              "serviceInfoId": "2294",
+              "serviceConfigId": "7493",
+              "level": "3",
+              "serviceInfoName": "Cấp lại Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y (trong trường hợp bị mất, sai sót, hư hỏng; thay đổi thông tin có liên quan đến tổ chức, cá nhân đăng ký)."
+            },
+            {
+              "serviceInfoId": "2295",
+              "serviceConfigId": "7494",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy xác nhận nội dung quảng cáo thuốc thú y"
+            },
+            {
+              "serviceInfoId": "2296",
+              "serviceConfigId": "7495",
+              "level": "3",
+              "serviceInfoName": "cấp lại Giấy chứng nhận điều kiện vệ sinh thú y"
+            },
+            {
+              "serviceInfoId": "2297",
+              "serviceConfigId": "7496",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận kiểm dịch động vật, sản phẩm động vật trên cạn vận chuyển ra khỏi địa bàn cấp tỉnh"
+            },
+            {
+              "serviceInfoId": "2298",
+              "serviceConfigId": "7497",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản vận chuyển ra khỏi địa bàn cấp tỉnh"
+            },
+            {
+              "serviceInfoId": "2299",
+              "serviceConfigId": "7498",
+              "level": "3",
+              "serviceInfoName": "Kiểm dịch đối với động vật thủy sản tham gia hội chợ, triển lãm, thi đấu thể thao, biểu diễn nghệ thuật; sản phẩm động vật thủy sản tham gia hội chợ, triển lãm."
+            },
+            {
+              "serviceInfoId": "2300",
+              "serviceConfigId": "7499",
+              "level": "3",
+              "serviceInfoName": "cấp Giấy chứng nhận cơ sở an toàn dịch bệnh động vật trên cạn."
+            },
+            {
+              "serviceInfoId": "2301",
+              "serviceConfigId": "7500",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy chứng nhận cơ sở an toàn dịch bệnh động vật thủy sản."
+            },
+            {
+              "serviceInfoId": "2302",
+              "serviceConfigId": "7501",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận cơ sở an toàn dịch bệnh động vật (trên cạn và  thủy sản) đối với cơ sở phải đánh giá lại"
+            },
+            {
+              "serviceInfoId": "2303",
+              "serviceConfigId": "7502",
+              "level": "3",
+              "serviceInfoName": "Cấp lại Giấy chứng nhận cơ sở an toàn dịch bệnh động vật trên cạn"
+            },
+            {
+              "serviceInfoId": "2304",
+              "serviceConfigId": "7503",
+              "level": "3",
+              "serviceInfoName": "Cấp lại Giấy chứng nhận cơ sở toàn dịch bệnh động vật thủy sản"
+            },
+            {
+              "serviceInfoId": "2305",
+              "serviceConfigId": "7504",
+              "level": "3",
+              "serviceInfoName": "Cấp đổi Giấy chứng nhận cơ sở an toàn dịch bệnh động vật (trên cạn hoặc dưới nước)"
+            },
+            {
+              "serviceInfoId": "2306",
+              "serviceConfigId": "7505",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy chứng nhận cơ sở an toàn dịch bệnh động vật trên cạn đối với cơ sở có nhu cầu bổ sung nội dung chứng nhận"
+            },
+            {
+              "serviceInfoId": "2307",
+              "serviceConfigId": "7506",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy chứng nhận cơ sở an toàn dịch bệnh động vật thủy sản đối với cơ sở có nhu cầu bổ sung nội dung chứng nhận"
+            },
+            {
+              "serviceInfoId": "2308",
+              "serviceConfigId": "7507",
+              "level": "3",
+              "serviceInfoName": "Cấp lại Giấy chứng nhận cơ sở an toàn dịch bệnh động vật (trên cạn và thủy sản) đối với cơ sở có Giấy chứng nhận hết hiệu lực do xảy ra bệnh hoặc phát hiện mầm bệnh tại cơ sở đã được chứng nhận an toàn hoặc do không thực hiện giám sát, lấy mẫu đúng, đủ số lượng trong quá trình duy trì điều kiện cơ sở sau khi được chứng nhận"
+            }
+          ],
+          "domainName": "Thú y"
+        },
+        {
+          "domainCode": "SNNPTNT_NLS",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2348",
+              "serviceConfigId": "7547",
+              "level": "3",
+              "serviceInfoName": "Công nhận làng nghề"
+            },
+            {
+              "serviceInfoId": "2349",
+              "serviceConfigId": "7548",
+              "level": "3",
+              "serviceInfoName": "công nhận nghề truyền thống"
+            },
+            {
+              "serviceInfoId": "2350",
+              "serviceConfigId": "7549",
+              "level": "3",
+              "serviceInfoName": "Công nhận làng nghề truyền thống"
+            }
+          ],
+          "domainName": "Chế biến nông lâm sản"
+        },
+        {
+          "domainCode": "SNNPTNT_XDCT",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2366",
+              "serviceConfigId": "7565",
+              "level": "3",
+              "serviceInfoName": "Thẩm định Dự án đầu tư/ Báo cáo kinh tế - kỹ thuật đầu tư xây dựng công trình sử dụng vốn ngân sách Nhà nước thuộc thẩm quyền của Sở Nông nghiệp và PTNT (dự án nhóm B, nhóm C, Báo cáo kinh tế - kỹ thuật)."
+            },
+            {
+              "serviceInfoId": "2367",
+              "serviceConfigId": "7566",
+              "level": "3",
+              "serviceInfoName": "Thẩm định điều chỉnh Dự án đầu tư/ Báo cáo kinh tế - kỹ thuật đầu tư xây dựng công trình sử dụng vốn ngân sách Nhà nước thuộc thẩm quyền của Sở Nông nghiệp và PTNT (dự án nhóm B, nhóm C, Báo cáo kinh tế - kỹ thuật)."
+            },
+            {
+              "serviceInfoId": "2368",
+              "serviceConfigId": "7567",
+              "level": "3",
+              "serviceInfoName": "Thẩm định dự án đầu tư/ Báo cáo kinh tế - kỹ thuật đầu tư xây dựng công trình sử dụng vốn Nhà nước ngoài ngân sách, dự án sử dụng vốn khác có yêu cầu thẩm định thiết kế cơ sở thuộc thẩm quyền của Sở Nông nghiệp và PTNT (dự án nhóm B, nhóm C, Báo cáo kinh tế - kỹ thuật)."
+            },
+            {
+              "serviceInfoId": "2369",
+              "serviceConfigId": "7568",
+              "level": "3",
+              "serviceInfoName": "Thẩm định điều chỉnh dự án đầu tư/ Báo cáo kinh tế - kỹ thuật đầu tư xây dựng công trình sử dụng vốn Nhà nước ngoài ngân sách,  dự án sử dụng vốn khác có yêu cầu thẩm định thiết kế cơ sở thuộc thẩm quyền của Sở Nông nghiệp và PTNT (dự án nhóm B, nhóm C, Báo cáo kinh tế - kỹ thuật)"
+            },
+            {
+              "serviceInfoId": "2370",
+              "serviceConfigId": "7569",
+              "level": "3",
+              "serviceInfoName": "Thẩm định thiết kế xây dựng và dự toán công trình sử dụng vốn ngân sách nhà nước (công trình từ cấp II trở xuống); vốn nhà nước ngoài ngân sách (công trình từ cấp III trở lên); vốn khác (công trình từ cấp III trở lên), công trình xây dựng có ảnh hưởng lớn đến cảnh quan, môi trường và an toàn cộng đồng thuộc thẩm quyền của Sở Nông nghiệp và PTNT."
+            },
+            {
+              "serviceInfoId": "2371",
+              "serviceConfigId": "7570",
+              "level": "3",
+              "serviceInfoName": "Thẩm định điều chỉnh, bổ sung thiết kế xây dựng và dự toán công trình sử dụng vốn ngân sách nhà nước (công trình từ cấp II trở xuống); vốn nhà nước ngoài ngân sách (công trình từ cấp III trở lên); vốn khác (công trình từ cấp III trở lên), công trình xây dựng có ảnh hưởng lớn đến cảnh quan, môi trường và an toàn cộng đồng  thuộc thẩm quyền của Sở Nông nghiệp và PTNT"
+            }
+          ],
+          "domainName": "Đầu tư xây dựng công trình"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "STTTT",
+      "govAgencyName": "Sở Thông tin và Truyền thông",
+      "domains": [
+        {
+          "domainCode": "STTTT_BC",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2375",
+              "serviceConfigId": "7574",
+              "level": "3",
+              "serviceInfoName": "Cho phép họp báo ( trong nước )"
+            },
+            {
+              "serviceInfoId": "2376",
+              "serviceConfigId": "7575",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy phép xuất bản bản tin (trong nước)"
+            }
+          ],
+          "domainName": "Báo chí"
+        },
+        {
+          "domainCode": "STTTT_PTTT",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2378",
+              "serviceConfigId": "7577",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép thiết lập trang thông tin điện tử tổng hợp"
+            },
+            {
+              "serviceInfoId": "2379",
+              "serviceConfigId": "7578",
+              "level": "3",
+              "serviceInfoName": "Sửa đổi, bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp"
+            },
+            {
+              "serviceInfoId": "2380",
+              "serviceConfigId": "7579",
+              "level": "3",
+              "serviceInfoName": "Gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp"
+            },
+            {
+              "serviceInfoId": "2381",
+              "serviceConfigId": "7580",
+              "level": "3",
+              "serviceInfoName": "Cấp lại giấy phép thiết lập trang thông tin điện tử tổng hợp"
+            },
+            {
+              "serviceInfoId": "2382",
+              "serviceConfigId": "7581",
+              "level": "3",
+              "serviceInfoName": "Thông báo thay đổi chủ sở hữu, địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được Cấp giấy phép thiết lập trang thông tin điện tử tổng hợp"
+            },
+            {
+              "serviceInfoId": "2383",
+              "serviceConfigId": "7582",
+              "level": "3",
+              "serviceInfoName": "Cấp đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh"
+            },
+            {
+              "serviceInfoId": "2395",
+              "serviceConfigId": "7594",
+              "level": "3",
+              "serviceInfoName": "Cấp văn bản xác nhận thông báo hoạt động bưu chính"
+            },
+            {
+              "serviceInfoId": "2396",
+              "serviceConfigId": "7595",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép bưu chính"
+            },
+            {
+              "serviceInfoId": "2397",
+              "serviceConfigId": "7596",
+              "level": "3",
+              "serviceInfoName": "Cấp lại văn bản xác nhận thông báo hoạt động bưu chính bị mất hoặc hư hỏng không sử dụng được"
+            },
+            {
+              "serviceInfoId": "2398",
+              "serviceConfigId": "7597",
+              "level": "3",
+              "serviceInfoName": "Sửa đổi, bổ sung giấy phép bưu chính Sửa đổi, bổ sung giấy phép bưu chính"
+            },
+            {
+              "serviceInfoId": "2399",
+              "serviceConfigId": "7598",
+              "level": "3",
+              "serviceInfoName": "Cấp lại giấy phép bưu chính khi giấy phép bưu chính hết hạn"
+            },
+            {
+              "serviceInfoId": "2400",
+              "serviceConfigId": "7599",
+              "level": "3",
+              "serviceInfoName": "Cấp lại giấy phép bưu chính khi giấy phép bưu chính bị mất hoặc hư hỏng không sử dụng được."
+            }
+          ],
+          "domainName": "Phát thanh truyền hình và thông tin điện tử"
+        },
+        {
+          "domainCode": "STTTT_XBI",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2402",
+              "serviceConfigId": "7601",
+              "level": "3",
+              "serviceInfoName": "Cấp lại giấy phép hoạt động in xuất bản phẩm"
+            },
+            {
+              "serviceInfoId": "2403",
+              "serviceConfigId": "7602",
+              "level": "3",
+              "serviceInfoName": "Cấp đổi giấy phép hoạt động in xuất bản phẩm"
+            },
+            {
+              "serviceInfoId": "2411",
+              "serviceConfigId": "7610",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép xuất bản tài liệu không kinh doanh"
+            },
+            {
+              "serviceInfoId": "2412",
+              "serviceConfigId": "7611",
+              "level": "3",
+              "serviceInfoName": "Thay đổi thông tin khai báo hoạt động cơ sở dịch vụ photocopy (cấp huyện)"
+            },
+            {
+              "serviceInfoId": "2413",
+              "serviceConfigId": "7612",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh"
+            },
+            {
+              "serviceInfoId": "2414",
+              "serviceConfigId": "7613",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép tổ chức triển lãm, hội chợ xuất bản phẩm"
+            }
+          ],
+          "domainName": "Xuất bản, in và phát hành"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "STP",
+      "govAgencyName": "Sở Tư pháp",
+      "domains": [
+        {
+          "domainCode": "STP_NCNN",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2502",
+              "serviceConfigId": "7701",
+              "level": "3",
+              "serviceInfoName": "Đăng ký lại việc nuôi con nuôi có yếu tố nước ngoài"
+            }
+          ],
+          "domainName": "Nuôi con nuôi có yếu tố nước ngoài"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "SVHTTDL",
+      "govAgencyName": "Sở Văn hoá Thể thao và Du lịch",
+      "domains": [
+        {
+          "domainCode": "SVHTTDL_TDTT",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "2586",
+              "serviceConfigId": "7786",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao đối với câu lạc bộ thể thao chuyên nghiệp"
+            }
+          ],
+          "domainName": "Thể dục thể thao"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "SXD",
+      "govAgencyName": "Sở Xây dựng",
+      "domains": [
+        {
+          "domainCode": "SXD_XD",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "4128",
+              "serviceConfigId": "6896",
+              "level": "3",
+              "serviceInfoName": "Thẩm định dự án đầu tư xây dựng đối với dự án sử dụng vốn ngân sách nhà nước"
+            },
+            {
+              "serviceInfoId": "4129",
+              "serviceConfigId": "6897",
+              "level": "3",
+              "serviceInfoName": "Thẩm định báo cáo kinh tế - kỹ thuật đầu tư xây dựng đối với dự án sử dụng vốn ngân sách nhà nước"
+            },
+            {
+              "serviceInfoId": "4130",
+              "serviceConfigId": "6898",
+              "level": "3",
+              "serviceInfoName": "Thẩm định thiết kế cơ sở (trừ thiết kế công nghệ) đối với dự án sử dụng vốn nhà nước ngoài ngân sách"
+            },
+            {
+              "serviceInfoId": "4131",
+              "serviceConfigId": "6899",
+              "level": "3",
+              "serviceInfoName": "Thẩm định thiết kế cơ sở (trừ thiết kế công nghệ) đối với dự án sử dụng vốn khác"
+            },
+            {
+              "serviceInfoId": "4132",
+              "serviceConfigId": "6900",
+              "level": "3",
+              "serviceInfoName": "Thẩm định dự án đầu tư xây dựng điều chỉnh đối với dự án sử dụng vốn ngân sách nhà nước"
+            },
+            {
+              "serviceInfoId": "4133",
+              "serviceConfigId": "6901",
+              "level": "3",
+              "serviceInfoName": "Thẩm định thiết kế cơ sở điều chỉnh đối với dự án sử dụng vốn nhà nước ngoài ngân sách, vốn khác"
+            },
+            {
+              "serviceInfoId": "4134",
+              "serviceConfigId": "6902",
+              "level": "3",
+              "serviceInfoName": "Thẩm định thiết kế kỹ thuật, dự toán trong trường hợp thiết kế 3 bước, thiết kế bản vẽ thi công, dự toán trong trường hợp thiết kế 2 bước"
+            }
+          ],
+          "domainName": "Xây dựng"
+        },
+        {
+          "domainCode": "SXD_CGPXD",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "4113",
+              "serviceConfigId": "6881",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép xây dựng đối với công trình cấp I, II thuộc thẩm quyền giải quyết của UBND cấp tỉnh"
+            },
+            {
+              "serviceInfoId": "4114",
+              "serviceConfigId": "6882",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép xây dựng đối với công trình tôn giáo thuộc thẩm quyền giải quyết của UBND cấp tỉnh"
+            },
+            {
+              "serviceInfoId": "4115",
+              "serviceConfigId": "6883",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép xây dựng đối với công trình tượng đài, tranh hoành tráng thuộc thẩm quyền giải quyết của UBND tỉnh"
+            },
+            {
+              "serviceInfoId": "4116",
+              "serviceConfigId": "6884",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Cấp giấy phép xây dựng công trình quảng cáo"
+            },
+            {
+              "serviceInfoId": "4117",
+              "serviceConfigId": "6885",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép xây dựng đối với công trình theo tuyến"
+            },
+            {
+              "serviceInfoId": "4118",
+              "serviceConfigId": "6886",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép xây dựng đối với công trình không theo tuyến"
+            },
+            {
+              "serviceInfoId": "4119",
+              "serviceConfigId": "6887",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép sửa chữa, cải tạo công trình"
+            },
+            {
+              "serviceInfoId": "4120",
+              "serviceConfigId": "6888",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép xây dựng đối với trường hợp di dời công trình"
+            },
+            {
+              "serviceInfoId": "4121",
+              "serviceConfigId": "6889",
+              "level": "3",
+              "serviceInfoName": "Thủ tục Cấp lại giấy phép xây dựng"
+            },
+            {
+              "serviceInfoId": "4122",
+              "serviceConfigId": "6890",
+              "level": "3",
+              "serviceInfoName": "Gia hạn giấy phép xây dựng"
+            },
+            {
+              "serviceInfoId": "4123",
+              "serviceConfigId": "6891",
+              "level": "3",
+              "serviceInfoName": "Điều chỉnh giấy phép xây dựng"
+            }
+          ],
+          "domainName": "Cấp giấy phép xây dựng"
+        },
+        {
+          "domainCode": "SXD_QH",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "4124",
+              "serviceConfigId": "6892",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép quy hoạch xây dựng dự án đầu tư xây dựng"
+            },
+            {
+              "serviceInfoId": "4125",
+              "serviceConfigId": "6893",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt nhiệm vụ và đồ án quy hoạch chi tiết xây dựng khu chức năng đặc thù"
+            },
+            {
+              "serviceInfoId": "4126",
+              "serviceConfigId": "6894",
+              "level": "3",
+              "serviceInfoName": "Thẩm định, phê duyệt nhiệm vụ và đồ án quy hoạch chi tiết 1/500 cho các khu vực trong đô thị"
+            },
+            {
+              "serviceInfoId": "4127",
+              "serviceConfigId": "6895",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép chặt hạ, chuyển dịch cây xanh đô thị"
+            }
+          ],
+          "domainName": "Quy hoạch"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "SCT",
+      "govAgencyName": "Sở Công thương",
+      "domains": [
+        {
+          "domainCode": "SCT_CNTD",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "1713",
+              "serviceConfigId": "6913",
+              "level": "3",
+              "serviceInfoName": "Cấp lại Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá"
+            },
+            {
+              "serviceInfoId": "1714",
+              "serviceConfigId": "6914",
+              "level": "3",
+              "serviceInfoName": "Cấp sửa đổi, bổ sung Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá"
+            }
+          ],
+          "domainName": "Công nghiệp tiêu dùng"
+        },
+        {
+          "domainCode": "SCT_HHTN",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "1740",
+              "serviceConfigId": "6940",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy phép sản xuất rượu công nghiệp (quy mô dưới 3 triệu lít/năm)"
+            }
+          ],
+          "domainName": "Lưu thông hàng hóa trong nước"
+        },
+        {
+          "domainCode": "SCT_ATTP",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "1704",
+              "serviceConfigId": "6904",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy chứng nhận cơ sở đủ điều kiện An toàn thực phẩm đối với cơ sở kinh doanh thực phẩm do Sở Công Thương thực hiện"
+            },
+            {
+              "serviceInfoId": "1710",
+              "serviceConfigId": "6910",
+              "level": "3",
+              "serviceInfoName": "Kiểm tra và cấp Giấy xác nhận kiến thức về an toàn thực phẩm cho tổ chức và cá nhân sản xuất thực phẩm thuộc thẩm quyền cấp của Sở Công Thương"
+            }
+          ],
+          "domainName": "An toàn thực phẩm "
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "SGDDT",
+      "govAgencyName": "Sở Giáo dục và Đào tạo",
+      "domains": [
+        {
+          "domainCode": "SGDDT_GDDT",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "1822",
+              "serviceConfigId": "7022",
+              "level": "3",
+              "serviceInfoName": "Thành lập, cho phép thành lập trường trung học phổ thông"
+            },
+            {
+              "serviceInfoId": "1823",
+              "serviceConfigId": "7023",
+              "level": "3",
+              "serviceInfoName": "Sáp nhập, chia, tách trường trung học phổ thông"
+            },
+            {
+              "serviceInfoId": "1824",
+              "serviceConfigId": "7024",
+              "level": "3",
+              "serviceInfoName": "Giải thể trường trung học phổ thông"
+            },
+            {
+              "serviceInfoId": "1825",
+              "serviceConfigId": "7025",
+              "level": "3",
+              "serviceInfoName": "Thành lập trường trung cấp chuyên nghiệp"
+            },
+            {
+              "serviceInfoId": "1826",
+              "serviceConfigId": "7026",
+              "level": "3",
+              "serviceInfoName": "Cho phép trường trung cấp chuyên nghiệp hoạt động"
+            },
+            {
+              "serviceInfoId": "1827",
+              "serviceConfigId": "7027",
+              "level": "3",
+              "serviceInfoName": "Sáp nhập, chia, tách trường trung cấp chuyên nghiệp"
+            },
+            {
+              "serviceInfoId": "1828",
+              "serviceConfigId": "7028",
+              "level": "3",
+              "serviceInfoName": "Giải thể trường trung cấp chuyên nghiệp"
+            },
+            {
+              "serviceInfoId": "1829",
+              "serviceConfigId": "7029",
+              "level": "3",
+              "serviceInfoName": "Thành lập trung tâm giáo dục thường xuyên"
+            },
+            {
+              "serviceInfoId": "1830",
+              "serviceConfigId": "7030",
+              "level": "3",
+              "serviceInfoName": "Sáp nhập, giải thể trung tâm giáo dục thường xuyên"
+            },
+            {
+              "serviceInfoId": "1831",
+              "serviceConfigId": "7031",
+              "level": "3",
+              "serviceInfoName": "Xếp hạng trung tâm giáo dục thường xuyên"
+            },
+            {
+              "serviceInfoId": "1832",
+              "serviceConfigId": "7032",
+              "level": "3",
+              "serviceInfoName": "Thành lập trung tâm ngoại ngữ, tin học"
+            },
+            {
+              "serviceInfoId": "1833",
+              "serviceConfigId": "7033",
+              "level": "3",
+              "serviceInfoName": "Sáp nhập, chia tách trung tâm ngoại ngữ, tin học"
+            },
+            {
+              "serviceInfoId": "1834",
+              "serviceConfigId": "7034",
+              "level": "3",
+              "serviceInfoName": "Giải thể trung tâm ngoại ngữ, tin học"
+            },
+            {
+              "serviceInfoId": "1835",
+              "serviceConfigId": "7035",
+              "level": "3",
+              "serviceInfoName": "Công nhận phổ cập giáo dục mầm non cho trẻ em 5 tuổi đối với đơn vị cấp huyện"
+            },
+            {
+              "serviceInfoId": "1836",
+              "serviceConfigId": "7036",
+              "level": "3",
+              "serviceInfoName": "Công nhận trường mầm non đạt chuẩn Quốc gia"
+            },
+            {
+              "serviceInfoId": "1837",
+              "serviceConfigId": "7037",
+              "level": "3",
+              "serviceInfoName": "Công nhận trường tiểu học đạt chuẩn quốc gia"
+            },
+            {
+              "serviceInfoId": "1838",
+              "serviceConfigId": "7038",
+              "level": "3",
+              "serviceInfoName": "Công nhận trường trung học cơ sở đạt chuẩn Quốc gia"
+            },
+            {
+              "serviceInfoId": "1839",
+              "serviceConfigId": "7039",
+              "level": "3",
+              "serviceInfoName": "Công nhận trường trung học phổ thông đạt chuẩn quốc gia."
+            },
+            {
+              "serviceInfoId": "1840",
+              "serviceConfigId": "7040",
+              "level": "3",
+              "serviceInfoName": "Công nhận trường phổ thông có nhiều cấp học đạt chuẩn quốc gia"
+            },
+            {
+              "serviceInfoId": "1841",
+              "serviceConfigId": "7041",
+              "level": "3",
+              "serviceInfoName": "Thành lập trường trung học phổ thông chuyên"
+            },
+            {
+              "serviceInfoId": "1842",
+              "serviceConfigId": "7042",
+              "level": "3",
+              "serviceInfoName": "Hỗ trợ tiền ăn, tiền nhà ở cho học sinh trung học phổ thông ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn"
+            },
+            {
+              "serviceInfoId": "1843",
+              "serviceConfigId": "7043",
+              "level": "3",
+              "serviceInfoName": "Thành lập và công nhận hội đồng quản trị trường đại học tư thục"
+            },
+            {
+              "serviceInfoId": "1844",
+              "serviceConfigId": "7044",
+              "level": "3",
+              "serviceInfoName": "Thành lập và công nhận Hội đồng quản trị trường đại học tư thục hoạt động không vì lợi nhuận"
+            },
+            {
+              "serviceInfoId": "1845",
+              "serviceConfigId": "7045",
+              "level": "3",
+              "serviceInfoName": "Thành lập và công nhận Hội đồng quản trị trường cao đẳng tư thục"
+            },
+            {
+              "serviceInfoId": "1846",
+              "serviceConfigId": "7046",
+              "level": "3",
+              "serviceInfoName": "Thành lập và công nhận Hội đồng quản trị trường cao đẳng tư thục hoạt động không vì lợi nhuận"
+            },
+            {
+              "serviceInfoId": "1847",
+              "serviceConfigId": "7047",
+              "level": "3",
+              "serviceInfoName": "Công nhận huyện đạt chuẩn phổ cập giáo dục, xóa mù chữ"
+            },
+            {
+              "serviceInfoId": "1848",
+              "serviceConfigId": "7048",
+              "level": "3",
+              "serviceInfoName": "Thành lập trung tâm hỗ trợ phát triển giáo dục hòa nhập"
+            },
+            {
+              "serviceInfoId": "1849",
+              "serviceConfigId": "7049",
+              "level": "3",
+              "serviceInfoName": "Tổ chức lại, giải thể trung tâm hỗ trợ phát triển giáo dục hòa nhập"
+            },
+            {
+              "serviceInfoId": "1850",
+              "serviceConfigId": "7050",
+              "level": "3",
+              "serviceInfoName": "Thành lập trường phổ thông dân tộc nội trú (PTDTNT)"
+            },
+            {
+              "serviceInfoId": "1851",
+              "serviceConfigId": "7051",
+              "level": "3",
+              "serviceInfoName": "Cho phép hoạt động giáo dục đối với trường trung học phổ thông"
+            },
+            {
+              "serviceInfoId": "1852",
+              "serviceConfigId": "7052",
+              "level": "3",
+              "serviceInfoName": "Cấp phép tổ chức đào tạo, bồi dưỡng ngoại ngữ, tin học"
+            },
+            {
+              "serviceInfoId": "1853",
+              "serviceConfigId": "7053",
+              "level": "3",
+              "serviceInfoName": "Liên kết đào tạo trình độ trung cấp chuyên nghiệp"
+            },
+            {
+              "serviceInfoId": "1854",
+              "serviceConfigId": "7054",
+              "level": "3",
+              "serviceInfoName": "Mở ngành đào tạo trình độ trung cấp chuyên nghiệp đối với các cơ sở đào tạo trực thuộc tỉnh"
+            },
+            {
+              "serviceInfoId": "1855",
+              "serviceConfigId": "7055",
+              "level": "3",
+              "serviceInfoName": "Chuyển trường đối với học sinh trung học phổ thông"
+            },
+            {
+              "serviceInfoId": "1856",
+              "serviceConfigId": "7056",
+              "level": "3",
+              "serviceInfoName": "Xin học lại tại trường khác đối với học sinh trung học"
+            },
+            {
+              "serviceInfoId": "1857",
+              "serviceConfigId": "7057",
+              "level": "3",
+              "serviceInfoName": "Cho phép hoạt động giáo dục đối với trường trung học phổ thông chuyên"
+            },
+            {
+              "serviceInfoId": "1858",
+              "serviceConfigId": "7058",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận chất lượng giáo dục đối với trường tiểu học"
+            },
+            {
+              "serviceInfoId": "1859",
+              "serviceConfigId": "7059",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận chất lượng giáo dục đối với trường trung học"
+            },
+            {
+              "serviceInfoId": "1860",
+              "serviceConfigId": "7060",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận chất lượng giáo dục đối với trung tâm giáo dục thường xuyên"
+            },
+            {
+              "serviceInfoId": "1861",
+              "serviceConfigId": "7061",
+              "level": "3",
+              "serviceInfoName": "Tiếp nhận lưu học sinh nước ngoài diện học bổng khác và tự túc vào học tại Việt Nam"
+            },
+            {
+              "serviceInfoId": "1862",
+              "serviceConfigId": "7062",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận đăng ký hoạt động dịch vụ tư vấn du học"
+            },
+            {
+              "serviceInfoId": "1863",
+              "serviceConfigId": "7063",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy chứng nhận kiểm định chất lượng giáo dục mầm non"
+            },
+            {
+              "serviceInfoId": "1864",
+              "serviceConfigId": "7064",
+              "level": "3",
+              "serviceInfoName": "Cấp phép hoạt động giáo dục kỹ năng sống và hoạt động giáo dục ngoài giờ chính khóa"
+            },
+            {
+              "serviceInfoId": "1865",
+              "serviceConfigId": "7065",
+              "level": "3",
+              "serviceInfoName": "Xác nhận đăng ký hoạt động giáo dục kỹ năng sống, hoạt động giáo dục ngoài giờ chính khóa"
+            },
+            {
+              "serviceInfoId": "1866",
+              "serviceConfigId": "7066",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép, gia hạn giấy phép tổ chức hoạt động dạy thêm, học thêm đối với cấp trung học phổ thông"
+            },
+            {
+              "serviceInfoId": "1867",
+              "serviceConfigId": "7067",
+              "level": "3",
+              "serviceInfoName": "Đề nghị miễn, giảm học phí cho học sinh, sinh viên"
+            },
+            {
+              "serviceInfoId": "1868",
+              "serviceConfigId": "7068",
+              "level": "3",
+              "serviceInfoName": "Cho phép hoạt động trung tâm hỗ trợ phát triển giáo dục hòa nhập"
+            },
+            {
+              "serviceInfoId": "1869",
+              "serviceConfigId": "7069",
+              "level": "3",
+              "serviceInfoName": "Đề nghị phê duyệt việc dạy và học bằng tiếng nước ngoài"
+            },
+            {
+              "serviceInfoId": "1870",
+              "serviceConfigId": "7070",
+              "level": "3",
+              "serviceInfoName": "Cho phép trường PTDTNT cấp tỉnh và trường PTDTNT cấp huyện có cấp THPT hoạt động giáo dục"
+            }
+          ],
+          "domainName": "Giáo dục và đào tạo"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "SGTVT",
+      "govAgencyName": "Sở Giao thông Vận tải",
+      "domains": [
+        {
+          "domainCode": "SGTVT_HTGT",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "1878",
+              "serviceConfigId": "7078",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận thiết kế kỹ thuật và phương án tổ chức giao thông của nút giao đường nhánh đấu nối vào quốc lộ là đường từ cấp IV trở xuống"
+            },
+            {
+              "serviceInfoId": "1879",
+              "serviceConfigId": "7079",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ đối với quốc lộ đang khai thác"
+            },
+            {
+              "serviceInfoId": "1880",
+              "serviceConfigId": "7080",
+              "level": "3",
+              "serviceInfoName": "Cấp phép thi công xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng GTĐB của quốc lộ đang khai thác"
+            },
+            {
+              "serviceInfoId": "1881",
+              "serviceConfigId": "7081",
+              "level": "3",
+              "serviceInfoName": "Cấp phép thi công công trình đường bộ trên quốc lộ đang khai thác"
+            },
+            {
+              "serviceInfoId": "1882",
+              "serviceConfigId": "7082",
+              "level": "3",
+              "serviceInfoName": "Cấp phép thi công nút giao đấu nối vào quốc lộ"
+            },
+            {
+              "serviceInfoId": "1883",
+              "serviceConfigId": "7083",
+              "level": "3",
+              "serviceInfoName": "Cấp phép thi công xây dựng biển quảng cáo tạm thời trong phạm vi hành lang an toàn đường bộ của quốc lộ đang khai thác đối với đoạn, tuyến quốc lộ thuộc phạm vi được giao quản lý"
+            },
+            {
+              "serviceInfoId": "1884",
+              "serviceConfigId": "7084",
+              "level": "3",
+              "serviceInfoName": "Gia hạn chấp thuận xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng GTĐB đối với quốc lộ đang khai thác"
+            },
+            {
+              "serviceInfoId": "1885",
+              "serviceConfigId": "7085",
+              "level": "3",
+              "serviceInfoName": "Gia hạn chấp thuận thiết kế kỹ thuật và phương án tổ chức giao thông của nút giao đường nhánh đấu nối vào quốc lộ (đường từ cấp IV trở xuống)"
+            },
+            {
+              "serviceInfoId": "1886",
+              "serviceConfigId": "7086",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy phép lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ"
+            }
+          ],
+          "domainName": "Quản lý, bảo vệ kết cấu hạ tầng giao thông "
+        },
+        {
+          "domainCode": "SGTVT_TND",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "1932",
+              "serviceConfigId": "7131",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận vận tải hành khách ngang sông"
+            },
+            {
+              "serviceInfoId": "1933",
+              "serviceConfigId": "7132",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận vận tải hành khách, hành lý, bao gửi theo tuyến cố định đối với tổ chức, cá nhân Việt Nam"
+            },
+            {
+              "serviceInfoId": "1934",
+              "serviceConfigId": "7133",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận chủ trương xây dựng bến thủy nội địa"
+            },
+            {
+              "serviceInfoId": "1935",
+              "serviceConfigId": "7134",
+              "level": "3",
+              "serviceInfoName": "Cấp giấy phép hoạt động bến thủy nội địa"
+            },
+            {
+              "serviceInfoId": "1936",
+              "serviceConfigId": "7135",
+              "level": "3",
+              "serviceInfoName": "Cấp lại giấy phép hoạt động bến thủy nội địa"
+            },
+            {
+              "serviceInfoId": "1937",
+              "serviceConfigId": "7136",
+              "level": "3",
+              "serviceInfoName": "Cho ý kiến trong giai đoạn lập dự án đầu tư xây dựng công trình trên tuyến đường thủy nội địa địa phương; đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương"
+            },
+            {
+              "serviceInfoId": "1938",
+              "serviceConfigId": "7137",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận phương án bảo đảm an toàn giao thông đối với thi công công trình liên quan đến đường thủy nội địa địa phương; đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương"
+            },
+            {
+              "serviceInfoId": "1939",
+              "serviceConfigId": "7138",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận điều chỉnh phương án bảo đảm an toàn giao thông đối với thi công công trình liên quan đến đường thủy nội địa địa phương; đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương"
+            },
+            {
+              "serviceInfoId": "1940",
+              "serviceConfigId": "7139",
+              "level": "3",
+              "serviceInfoName": "Công bố hạn chế giao thông đường thủy nội địa trên đường thủy nội địa địa phương và đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương trong trường hợp thi công công trình (trừ trường hợp bảo đảm an ninh quốc phòng trên đường thủy nội địa địa phương)"
+            },
+            {
+              "serviceInfoId": "1941",
+              "serviceConfigId": "7140",
+              "level": "3",
+              "serviceInfoName": "Công bố hạn chế giao thông đường thủy nội địa trên đường thủy nội địa địa phương và đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương trong trường hợp  tổ chức hoạt động thể thao, lễ hội, diễn tập trên đường thủy nội địa (trừ trường hợp bảo đảm an ninh quốc phòng trên đường thủy nội địa địa phương)"
+            },
+            {
+              "serviceInfoId": "1942",
+              "serviceConfigId": "7141",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy phép vận tải thủy qua biên giới Việt Nam \u2013 Campuchia cho phương tiện thủy"
+            },
+            {
+              "serviceInfoId": "1943",
+              "serviceConfigId": "7142",
+              "level": "3",
+              "serviceInfoName": "Cấp lại Giấy phép vận tải thủy qua biên giới Việt Nam-Campuchia cho phương tiện"
+            },
+            {
+              "serviceInfoId": "1944",
+              "serviceConfigId": "7143",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận tiếp tục sử dụng đối với công trình đường thủy nội địa hết tuổi thọ thiết kế"
+            },
+            {
+              "serviceInfoId": "1945",
+              "serviceConfigId": "7144",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận tiếp tục sử dụng đối với công trình đường thủy nội địa hết tuổi thọ thiết kế"
+            },
+            {
+              "serviceInfoId": "1946",
+              "serviceConfigId": "7145",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận chủ trương xây dựng cảng thủy nội địa"
+            },
+            {
+              "serviceInfoId": "1947",
+              "serviceConfigId": "7146",
+              "level": "3",
+              "serviceInfoName": "Công bố hoạt động cảng thủy nội địa"
+            },
+            {
+              "serviceInfoId": "1948",
+              "serviceConfigId": "7147",
+              "level": "3",
+              "serviceInfoName": "Công bố lại cảng thủy nội địa"
+            },
+            {
+              "serviceInfoId": "1949",
+              "serviceConfigId": "7148",
+              "level": "3",
+              "serviceInfoName": "Chấp thuận chủ trương nhà đầu tư thực hiện dự án nạo vét theo hình thức kết hợp tận thu sản phẩm, không sử dụng ngân sách nhà nước trên các tuyến đường thủy nội địa (đối với dự án trong danh mục dự án đã công bố)"
+            },
+            {
+              "serviceInfoId": "1950",
+              "serviceConfigId": "7149",
+              "level": "3",
+              "serviceInfoName": "Đề xuất thực hiện Dự án nạo vét theo hình thức kết hợp tận thu sản phẩm, không sử dụng ngân sách nhà nước trên các tuyến đường thủy nội địa (đối với dự án ngoài danh mục dự án đã công bố)"
+            },
+            {
+              "serviceInfoId": "1951",
+              "serviceConfigId": "7150",
+              "level": "3",
+              "serviceInfoName": "Công bố mở luồng, tuyến đường thuỷ nội địa chuyên dùng"
+            },
+            {
+              "serviceInfoId": "1952",
+              "serviceConfigId": "7151",
+              "level": "3",
+              "serviceInfoName": "Công bố đóng luồng, tuyến đường thuỷ nội địa chuyên dùng"
+            },
+            {
+              "serviceInfoId": "1953",
+              "serviceConfigId": "7152",
+              "level": "3",
+              "serviceInfoName": "Cho ý kiến trong giai đoạn lập dự án đầu tư xây dựng công trình bảo đảm an ninh, quốc phòng trên đường thủy nội địa địa phương"
+            }
+          ],
+          "domainName": "Thuỷ nội địa"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "SKHCN",
+      "govAgencyName": "Sở Khoa học và Công nghệ",
+      "domains": [
+        {
+          "domainCode": "SKHCN_DNKH",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "4306",
+              "serviceConfigId": "6706",
+              "level": "3",
+              "serviceInfoName": "Sửa đổi, bổ sung Giấy chứng nhận doanh nghiệp khoa học và công nghệ"
+            }
+          ],
+          "domainName": "Doanh nghiệp Khoa học và Công nghệ"
+        },
+        {
+          "domainCode": "SKHCN_CGCN",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "4307",
+              "serviceConfigId": "6707",
+              "level": "3",
+              "serviceInfoName": "Cấp Giấy chứng nhận đăng ký hợp đồng chuyển giao công nghệ (trừ những trường hợp thuộc thẩm quyền của Bộ Khoa học và Công nghệ)"
+            }
+          ],
+          "domainName": "Chuyển giao công nghệ"
+        }
+      ]
+    },
+    {
+      "govAgencyCode": "SLDTBXH",
+      "govAgencyName": "Sở Lao động thương binh và Xã hội",
+      "domains": [
+        {
+          "domainCode": "SLDTBXH_NCC",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "4212",
+              "serviceConfigId": "7303",
+              "level": "3",
+              "serviceInfoName": "Hưởng mai táng phí, trợ cấp một lần khi người có công với cách mạng từ trần"
+            }
+          ],
+          "domainName": "Người có công"
+        },
+        {
+          "domainCode": "SLDTBXH_ATLD",
+          "serviceConfigs": [
+            {
+              "serviceInfoId": "4157",
+              "serviceConfigId": "7248",
+              "level": "3",
+              "serviceInfoName": "Cấp lại giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam"
+            }
+          ],
+          "domainName": "Việc làm - An toàn lao động"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "total": 2,
+  "data": [
+    {
+      "answerId": 1,
+      "content": "Nộp hồ sơ trực tiếp tại Trung tâm Hành Chính Công của Tỉnh Phú Thọ",
+      "createDate": "30/01/2019 17:27:20",
+      "modifiedDate": "30/01/2019 17:27:20",
+      "publish": 1,
+      "questionId": 101,
+      "userName": ""
+    },
+    {
+      "answerId": 2,
+      "content": "Đăng ký tài khoản và nộp hồ sơ trên trang web http://hanhchinhcong.phutho.gov.vn",
+      "createDate": "30/01/2019 17:27:20",
+      "modifiedDate": "30/01/2019 17:27:20",
+      "publish": 0,
+      "questionId": 101,
+      "userName": ""
+    }
+  ]
+}

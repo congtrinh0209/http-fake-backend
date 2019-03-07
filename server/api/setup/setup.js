@@ -24,8 +24,7 @@ module.exports = function (settings) {
                     config: {
                         cors: {
                             origin: ['*'],
-                            additionalHeaders: ['groupId'],
-                            credentials: true
+                            additionalHeaders: ['groupId', 'token', 'Accept', 'step', 'fromReleaseDate', 'toReleaseDate', 'secretCode', 'Content-Type', 'cps_auth']
                         }
                     },
                     method,
@@ -65,8 +64,7 @@ module.exports = function (settings) {
                 config: {
                     cors: {
                         origin: ['*'],
-                        additionalHeaders: ['groupId'],
-                        credentials: true
+                        additionalHeaders: ['groupId', 'token', 'Accept', 'step', 'fromReleaseDate', 'toReleaseDate', 'secretCode', 'Content-Type', 'cps_auth']
                     }
                 },
                 method: '*',

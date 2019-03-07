@@ -1,20 +1,35 @@
 {
-  "total": "31",
+  "total": "90",
   "data": [
     {
-      "domainCode": "SXD_XD",
-      "domainName": "Xây dựng",
-      "count": "8"
+      "domainCode": "STNMT_DD",
+      "domainName": "Đất đai",
+      "count": "31"
     },
     {
-      "domainCode": "SXD_CGPXD",
-      "domainName": "Cấp giấy phép xây dựng",
-      "count": "19"
+      "domainCode": "STNMT_TNN",
+      "domainName": "Tài nguyên nước",
+      "count": "12"
     },
     {
-      "domainCode": "SXD_QH",
-      "domainName": "Quy hoạch",
-      "count": "4"
+      "domainCode": "STNMT_KS",
+      "domainName": "Khoáng sản",
+      "count": "17"
+    },
+    {
+      "domainCode": "STNMT_MT",
+      "domainName": "Môi trường",
+      "count": "15"
+    },
+    {
+      "domainCode": "STNMT_GDDB",
+      "domainName": "Giao dịch đảm bảo",
+      "count": "10"
+    },
+    {
+      "domainCode": "STNMT_DDBD",
+      "domainName": "Đo đạc bản đồ",
+      "count": "5"
     }
   ]
 }

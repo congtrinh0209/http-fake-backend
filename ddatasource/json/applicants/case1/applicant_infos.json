@@ -1,0 +1,488 @@
+{
+  "Status": 1,
+  "TotalCount": 1,
+  "Message": "OK",
+  "DataCount": 1,
+  "Data": {
+    "BusinessActivities": [
+      {
+        "CODE": 7212,
+        "MAIN": false,
+        "NAME": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ"
+      },
+      {
+        "CODE": 4102,
+        "MAIN": false,
+        "NAME": "Xây dựng nhà không để ở"
+      },
+      {
+        "CODE": 4293,
+        "MAIN": false,
+        "NAME": "Xây dựng công trình chế biến, chế tạo"
+      },
+      {
+        "CODE": 6491,
+        "MAIN": false,
+        "NAME": "Hoạt động cho thuê tài chính"
+      },
+      {
+        "CODE": 7211,
+        "MAIN": false,
+        "NAME": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên"
+      },
+      {
+        "CODE": 7213,
+        "MAIN": false,
+        "NAME": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học y, dược"
+      },
+      {
+        "CODE": 7214,
+        "MAIN": false,
+        "NAME": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nông nghiệp"
+      },
+      {
+        "CODE": 6430,
+        "MAIN": false,
+        "NAME": "Hoạt động quỹ tín thác, các quỹ và các tổ chức tài chính khác"
+      },
+      {
+        "CODE": 4299,
+        "MAIN": false,
+        "NAME": "Xây dựng công trình kỹ thuật dân dụng khác"
+      },
+      {
+        "CODE": 6820,
+        "MAIN": false,
+        "NAME": "Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất"
+      },
+      {
+        "CODE": 4101,
+        "MAIN": false,
+        "NAME": "Xây dựng nhà để ở"
+      },
+      {
+        "CODE": 2910,
+        "MAIN": false,
+        "NAME": "Sản xuất ô tô và xe có động cơ khác"
+      },
+      {
+        "CODE": 4322,
+        "MAIN": false,
+        "NAME": "Lắp đặt hệ thống cấp, thoát nước, hệ thống sưởi và điều hoà không khí"
+      },
+      {
+        "CODE": 2520,
+        "MAIN": false,
+        "NAME": "Sản xuất vũ khí và đạn dược"
+      },
+      {
+        "CODE": 3099,
+        "MAIN": false,
+        "NAME": "Sản xuất phương tiện và thiết bị vận tải khác chưa được phân vào đâu"
+      },
+      {
+        "CODE": 4610,
+        "MAIN": false,
+        "NAME": "Đại lý, môi giới, đấu giá hàng hóa"
+      },
+      {
+        "CODE": 7730,
+        "MAIN": false,
+        "NAME": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác không kèm người điều khiển"
+      },
+      {
+        "CODE": 6391,
+        "MAIN": false,
+        "NAME": "Hoạt động thông tấn"
+      },
+      {
+        "CODE": 6499,
+        "MAIN": false,
+        "NAME": "Hoạt động dịch vụ tài chính khác chưa được phân vào đâu (trừ bảo hiểm và bảo hiểm xã hội)"
+      },
+      {
+        "CODE": 6399,
+        "MAIN": false,
+        "NAME": "Dịch vụ thông tin khác chưa được phân vào đâu"
+      },
+      {
+        "CODE": 4223,
+        "MAIN": false,
+        "NAME": "Xây dựng công trình viễn thông, thông tin liên lạc"
+      },
+      {
+        "CODE": 4229,
+        "MAIN": false,
+        "NAME": "Xây dựng công trình công ích khác"
+      },
+      {
+        "CODE": 7020,
+        "MAIN": false,
+        "NAME": "Hoạt động tư vấn quản lý"
+      },
+      {
+        "CODE": 4763,
+        "MAIN": false,
+        "NAME": "Bán lẻ thiết bị, dụng cụ thể dục, thể thao trong các cửa hàng chuyên doanh"
+      },
+      {
+        "CODE": 2640,
+        "MAIN": false,
+        "NAME": "Sản xuất sản phẩm điện tử dân dụng"
+      },
+      {
+        "CODE": 4791,
+        "MAIN": false,
+        "NAME": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet"
+      },
+      {
+        "CODE": 6419,
+        "MAIN": false,
+        "NAME": "Hoạt động trung gian tiền tệ khác"
+      },
+      {
+        "CODE": 3311,
+        "MAIN": false,
+        "NAME": "Sửa chữa các sản phẩm kim loại đúc sẵn"
+      },
+      {
+        "CODE": 6312,
+        "MAIN": false,
+        "NAME": "Cổng thông tin"
+      },
+      {
+        "CODE": 4651,
+        "MAIN": false,
+        "NAME": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm"
+      },
+      {
+        "CODE": 4652,
+        "MAIN": false,
+        "NAME": "Bán buôn thiết bị và linh kiện điện tử, viễn thông"
+      },
+      {
+        "CODE": 4659,
+        "MAIN": false,
+        "NAME": "Bán buôn máy móc, thiết bị và phụ tùng máy khác"
+      },
+      {
+        "CODE": 4741,
+        "MAIN": false,
+        "NAME": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông trong các cửa hàng chuyên doanh"
+      },
+      {
+        "CODE": 4742,
+        "MAIN": false,
+        "NAME": "Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh"
+      },
+      {
+        "CODE": 3313,
+        "MAIN": false,
+        "NAME": "Sửa chữa thiết bị điện tử và quang học"
+      },
+      {
+        "CODE": 3314,
+        "MAIN": false,
+        "NAME": "Sửa chữa thiết bị điện"
+      },
+      {
+        "CODE": 7320,
+        "MAIN": false,
+        "NAME": "Nghiên cứu thị trường và thăm dò dư luận"
+      },
+      {
+        "CODE": 5920,
+        "MAIN": false,
+        "NAME": "Hoạt động ghi âm và xuất bản âm nhạc"
+      },
+      {
+        "CODE": 5912,
+        "MAIN": false,
+        "NAME": "Hoạt động hậu kỳ"
+      },
+      {
+        "CODE": 2651,
+        "MAIN": false,
+        "NAME": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển"
+      },
+      {
+        "CODE": 6619,
+        "MAIN": false,
+        "NAME": "Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu"
+      },
+      {
+        "CODE": 2630,
+        "MAIN": false,
+        "NAME": "Sản xuất thiết bị truyền thông"
+      },
+      {
+        "CODE": 3320,
+        "MAIN": false,
+        "NAME": "Lắp đặt máy móc và thiết bị công nghiệp"
+      },
+      {
+        "CODE": 5913,
+        "MAIN": false,
+        "NAME": "Hoạt động phát hành phim điện ảnh, phim video và chương trình truyền hình"
+      },
+      {
+        "CODE": 5813,
+        "MAIN": false,
+        "NAME": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ"
+      },
+      {
+        "CODE": 6110,
+        "MAIN": false,
+        "NAME": "Hoạt động viễn thông có dây"
+      },
+      {
+        "CODE": 6120,
+        "MAIN": true,
+        "NAME": "Hoạt động viễn thông không dây"
+      },
+      {
+        "CODE": 6130,
+        "MAIN": false,
+        "NAME": "Hoạt động viễn thông vệ tinh"
+      },
+      {
+        "CODE": 6190,
+        "MAIN": false,
+        "NAME": "Hoạt động viễn thông khác"
+      },
+      {
+        "CODE": 6201,
+        "MAIN": false,
+        "NAME": "Lập trình máy vi tính"
+      },
+      {
+        "CODE": 6202,
+        "MAIN": false,
+        "NAME": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính"
+      },
+      {
+        "CODE": 6209,
+        "MAIN": false,
+        "NAME": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính"
+      },
+      {
+        "CODE": 5820,
+        "MAIN": false,
+        "NAME": "Xuất bản phần mềm"
+      },
+      {
+        "CODE": 6311,
+        "MAIN": false,
+        "NAME": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan"
+      },
+      {
+        "CODE": 9511,
+        "MAIN": false,
+        "NAME": "Sửa chữa máy vi tính và thiết bị ngoại vi"
+      },
+      {
+        "CODE": 5911,
+        "MAIN": false,
+        "NAME": "Hoạt động sản xuất phim điện ảnh, phim video và chương trình truyền hình"
+      },
+      {
+        "CODE": 5819,
+        "MAIN": false,
+        "NAME": "Hoạt động xuất bản khác"
+      },
+      {
+        "CODE": 8220,
+        "MAIN": false,
+        "NAME": "Hoạt động dịch vụ liên quan đến các cuộc gọi"
+      },
+      {
+        "CODE": 3030,
+        "MAIN": false,
+        "NAME": "Sản xuất máy bay, tàu vũ trụ và máy móc liên quan"
+      },
+      {
+        "CODE": 7120,
+        "MAIN": false,
+        "NAME": "Kiểm tra và phân tích kỹ thuật"
+      },
+      {
+        "CODE": 8559,
+        "MAIN": false,
+        "NAME": "Giáo dục khác chưa được phân vào đâu"
+      },
+      {
+        "CODE": 9311,
+        "MAIN": false,
+        "NAME": "Hoạt động của các cơ sở thể thao"
+      },
+      {
+        "CODE": 9329,
+        "MAIN": false,
+        "NAME": "Hoạt động vui chơi giải trí khác chưa được phân vào đâu"
+      },
+      {
+        "CODE": 9512,
+        "MAIN": false,
+        "NAME": "Sửa chữa thiết bị liên lạc"
+      },
+      {
+        "CODE": 5320,
+        "MAIN": false,
+        "NAME": "Chuyển phát"
+      },
+      {
+        "CODE": 5210,
+        "MAIN": false,
+        "NAME": "Kho bãi và lưu giữ hàng hóa"
+      },
+      {
+        "CODE": 7310,
+        "MAIN": false,
+        "NAME": "Quảng cáo"
+      },
+      {
+        "CODE": 8230,
+        "MAIN": false,
+        "NAME": "Tổ chức giới thiệu và xúc tiến thương mại"
+      },
+      {
+        "CODE": 6010,
+        "MAIN": false,
+        "NAME": "Hoạt động phát thanh"
+      },
+      {
+        "CODE": 6021,
+        "MAIN": false,
+        "NAME": "Hoạt động truyền hình"
+      },
+      {
+        "CODE": 6022,
+        "MAIN": false,
+        "NAME": "Chương trình cáp, vệ tinh và các chương trình thuê bao khác"
+      },
+      {
+        "CODE": 2610,
+        "MAIN": false,
+        "NAME": "Sản xuất linh kiện điện tử"
+      },
+      {
+        "CODE": 2710,
+        "MAIN": false,
+        "NAME": "Sản xuất mô tơ, máy phát, biến thế điện, thiết bị phân phối và điều khiển điện"
+      },
+      {
+        "CODE": 2220,
+        "MAIN": false,
+        "NAME": "Sản xuất sản phẩm từ plastic"
+      },
+      {
+        "CODE": 2013,
+        "MAIN": false,
+        "NAME": "Sản xuất plastic và cao su tổng hợp dạng nguyên sinh"
+      },
+      {
+        "CODE": 6492,
+        "MAIN": false,
+        "NAME": "Hoạt động cấp tín dụng khác"
+      },
+      {
+        "CODE": 6810,
+        "MAIN": false,
+        "NAME": "Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê"
+      },
+      {
+        "CODE": 8299,
+        "MAIN": false,
+        "NAME": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+      },
+      {
+        "CODE": 5310,
+        "MAIN": false,
+        "NAME": "Bưu chính"
+      },
+      {
+        "CODE": 2620,
+        "MAIN": false,
+        "NAME": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính"
+      },
+      {
+        "CODE": 2731,
+        "MAIN": false,
+        "NAME": "Sản xuất dây cáp, sợi cáp quang học"
+      },
+      {
+        "CODE": 4321,
+        "MAIN": false,
+        "NAME": "Lắp đặt hệ thống điện"
+      },
+      {
+        "CODE": 7410,
+        "MAIN": false,
+        "NAME": "Hoạt động thiết kế chuyên dụng"
+      },
+      {
+        "CODE": 2829,
+        "MAIN": false,
+        "NAME": "Sản xuất máy chuyên dụng khác"
+      },
+      {
+        "CODE": 7110,
+        "MAIN": false,
+        "NAME": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan"
+      },
+      {
+        "CODE": 2511,
+        "MAIN": false,
+        "NAME": "Sản xuất các cấu kiện kim loại"
+      },
+      {
+        "CODE": 2811,
+        "MAIN": false,
+        "NAME": "Sản xuất động cơ, tua bin (trừ động cơ máy bay, ô tô, mô tô và xe máy)"
+      },
+      {
+        "CODE": 3312,
+        "MAIN": false,
+        "NAME": "Sửa chữa máy móc, thiết bị"
+      },
+      {
+        "CODE": 4330,
+        "MAIN": false,
+        "NAME": "Hoàn thiện công trình xây dựng"
+      }
+    ],
+    "MainInformation": {
+      "NAME_F": "VIETTEL GROUP",
+      "ENTERPRISE_CODE": "0005174775",
+      "SUBUNIT_PARENT_ENT_ID": null,
+      "FOUNDING_DATE": "2010-07-13T00:00:00",
+      "LAST_AMENDMENT_DATE": null,
+      "ENTERPRISE_ID": 486229,
+      "SHORT_NAME": "VIETTEL",
+      "IMP_BUSINESS_CODE": "0104011533",
+      "NAME": "TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI",
+      "ENTERPRISE_TYPE_ID": "LLC1",
+      "ENTERPRISE_GDT_CODE": "0100109106",
+      "CAPITAL_AMOUNT": 1.31956879937045E14,
+      "ENTERPRISE_STATUS_ID": "ACT",
+      "NUMBER_CHANGES": 0,
+      "ENTERPRISE_STATUS_NAME": "Đang hoạt động",
+      "ENTERPRISE_TYPE_NAME": "Công ty trách nhiệm hữu hạn một thành viên"
+    },
+    "Representatives": {
+      "FULL_NAME": "LÊ ĐĂNG DŨNG"
+    },
+    "Member": null,
+    "HOAdress": {
+      "DistrictName": "Quận Nam Từ Liêm",
+      "CityID": 81,
+      "DistrictID": 1507,
+      "StreetID": null,
+      "WardID": 25322,
+      "WardName": "Phường Mỹ Đình 2",
+      "StreetNumber": "Số 1 đường Trần Hữu Dực",
+      "AddressFullText": "Số 1 đường Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam",
+      "CityName": "Hà Nội"
+    }
+  }
+}

@@ -1,45 +1,31 @@
 {
-  "processActionId": 0,
-  "actionCode": 1100,
-  "editable": true,
-  "actionName": "",
-  "preStepCode": "",
-  "postStepCode": "",
+  "processActionId": 34338,
+  "actionCode": 2600,
+  "actionName": "Trình phê duyệt",
+  "preStepCode": 221,
+  "postStepCode": 260,
   "autoEvent": "",
-  "preCondition": "",
+  "preCondition": "viapostal=2,sendViaPostal=1",
   "allowAssignUser": 0,
   "eSignature": false,
-  "signatureType": "",
-  "extraForm": false,
+  "signatureType": "digital",
+  "extraForm": true,
   "userNote": 0,
   "payment": {
-    "requestPayment": 5,
-    "advanceAmount": 100000,
-    "feeAmount": 1000000,
-    "serviceAmount": 0,
+    "paymentFee": "Lệ phí,Phí",
+    "paymentNote": "Nhập phí dịch vụ người làm thủ tục phải trả",
+    "requestPayment": 0,
+    "advanceAmount": 0,
+    "feeAmount": 300000,
+    "serviceAmount": 50000,
     "shipAmount": 0,
-    "editable": 3,
-    "paymentFee": "Lệ phí làm thủ tục",
-    "paymentNote": "Người làm thủ tục nộp phí trực tiếp tại bộ phận một cửa"
-  },
-  "receiving": {
-    "receiveDate": 1532683354000,
-    "dueDate": 1532683354000,
-    "editable": true
+    "editable": 3
   },
   "toUsers": {
-    "userId": 101,
-    "userName": "Trịnh Công Trình",
-    "moderator": 0,
+    "userId": 62465,
+    "userName": "Cục trưởng",
+    "moderator": false,
     "assigned": 0
   },
-  "createFiles": [],
-  "returnFiles": [
-  ],
-  "createDossiers": [
-    {
-      "govAgencyCode": "",
-      "govAgencyName": ""
-    }
-  ]
+  "configNote": ""
 }

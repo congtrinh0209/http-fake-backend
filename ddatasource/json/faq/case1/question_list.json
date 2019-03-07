@@ -1,0 +1,29 @@
+{
+  "total": 3,
+  "data": [
+    {
+      "createDate": "30/01/2019 17:16:38",
+      "fullname": "Nguyễn Văn A",
+      "email": "nguyenvana@gmail.com",
+      "content": "<p>1312312  123123 3123 2312 3</p><p>Tôi là Trình</p><p><strong>!#$!@#!@#</strong></p>",
+      "publish": 1,
+      "questionId": 101
+    },
+    {
+      "createDate": "29/01/2019 09:15:50",
+      "fullname": "Nguyễn Văn B",
+      "email": "nguyenvana@gmail.com",
+      "content": "Cháu tôi dưới 6 tuổi, hộ khẩu tại tỉnh Vĩnh Long, tạm trú với cha mẹ tại huyện Lấp Vò, tỉnh Đồng Tháp hơn 2 năm nay. Vừa qua tôi đi làm thủ tục cấp thẻ BHYT cho cháu, đã nộp hồ sơ tại xã, trong đó có giấy xác nhận của UBND xã nơi cháu có hộ khẩu thường trú về việc cháu chưa được cấp thẻ BHYT. Cán bộ bộ phận tiếp nhận cho biết, theo yêu cầu của BHXH huyện Lấp Vò, tôi phải bổ sung xác nhận của BHXH huyện nơi cháu tôi có hộ khẩu. Xin hỏi, như vậy có đúng không? Hồ sơ đề nghị cấp thẻ BHYT cho trẻ dưới 6 tuổi cần những gì?",
+      "publish": 0,
+      "questionId": 102
+    },
+    {
+      "createDate": "31/01/2019 14:05:08",
+      "fullname": "Nguyễn Văn C",
+      "email": "nguyenvana@gmail.com",
+      "content": "Sau bao lâu tôi nhận được kết quả giải quyết",
+      "publish": 1,
+      "questionId": 103
+    }
+  ]
+}

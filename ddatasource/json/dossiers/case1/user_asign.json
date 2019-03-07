@@ -1,0 +1,23 @@
+{
+  "total": 2,
+  "data": [
+    {
+      "userId": 398701,
+      "userName": "Một cửa sở Xây dựng",
+      "moderator": false,
+      "assigned": 0
+    },
+    {
+      "userId": 20164,
+      "userName": "Full Quyền",
+      "moderator": false,
+      "assigned": 1
+    },
+    {
+      "userId": 20161,
+      "userName": "Cv Mot cua",
+      "moderator": false,
+      "assigned": 0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "total": "189",
+  "data": [
+    {
+      "administrationName": "Sở tài nguyên và Môi trường",
+      "count": "12",
+      "administrationCode": "STNMT"
+    },
+    {
+      "administrationName": "Sở Khoa học và Công nghệ",
+      "count": "32",
+      "administrationCode": "SKHCN"
+    },
+    {
+      "administrationName": "Sở Xây dựng",
+      "count": "26",
+      "administrationCode": "SXD"
+    },
+    {
+      "administrationName": "Sở tài nguyên và Môi trường 2",
+      "count": "12",
+      "administrationCode": "STNMT2"
+    },
+    {
+      "administrationName": "Sở Công thương",
+      "count": "119",
+      "administrationCode": "SCT"
+    },
+    {
+      "administrationName": "Sở Khoa học và Công nghệ 2",
+      "count": "32",
+      "administrationCode": "SKHCN2"
+    }
+  ]
+}
